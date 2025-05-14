@@ -10,7 +10,7 @@
 <category id="54">Чехлы для смартфонов</category>
 </categories>
 <offers>
-<offer id="amp-1775-new-1" available="true">
+<offer id="amp-1775-xml-_-1" available="true">
 <name>Ракетка Сяомі</name>
 <name_ru>Ракетка Сяоми</name_ru>
 <price>100</price>
@@ -40,7 +40,7 @@
 <param name="Длина в упаковке, см">75</param>
 <param name="Вес в упаковке, кг">65535</param>
 </offer>
-<offer id="amp-1775-new-2" available="true">
+<offer id="amp-1775-xml-_-2" available="true">
 <name>Ракетка Сяомі</name>
 <name_ru>Ракетка Сяоми</name_ru>
 <price>100</price>
@@ -70,7 +70,7 @@
 <param name="Длина в упаковке, см">91</param>
 <param name="Вес в упаковке, кг">65536</param>
 </offer>
-<offer id="amp-1775-new-3" available="true">
+<offer id="amp-1775-xml-_-3" available="true">
 <name>Ракетка Сяомі</name>
 <name_ru>Ракетка Сяоми</name_ru>
 <price>100</price>
@@ -100,7 +100,7 @@
 <param name="Длина в упаковке, см">757</param>
 <param name="Вес в упаковке, кг">65534</param>
 </offer>
-<offer id="amp-1775-new-4" available="true">
+<offer id="amp-1775-xml-_-4" available="true">
 <name>Ракетка Сяомі</name>
 <name_ru>Ракетка Сяоми</name_ru>
 <price>100</price>
@@ -130,7 +130,7 @@
 <param name="Длина в упаковке, см">7115</param>
 <param name="Вес в упаковке, кг">156775</param>
 </offer>
-<offer id="amp-1775-new-5" available="true">
+<offer id="amp-1775-xml-_-5" available="true">
 <name>Ракетка Сяомі</name>
 <name_ru>Ракетка Сяоми</name_ru>
 <price>100</price>
@@ -160,7 +160,7 @@
 <param name="Длина в упаковке, см">7899895</param>
 <param name="Вес в упаковке, кг">19898985</param>
 </offer>
-<offer id="amp-1775-new-6" available="true">
+<offer id="amp-1775-xml-_-6" available="true">
 <name>Ракетка Сяомі</name>
 <name_ru>Ракетка Сяоми</name_ru>
 <price>100</price>
@@ -190,7 +190,7 @@
 <param name="Длина в упаковке, см">7.5</param>
 <param name="Вес в упаковке, кг">.5</param>
 </offer>
-<offer id="amp-1775-new-7" available="true">
+<offer id="amp-1775-xml-_-7" available="true">
 <name>Ракетка Сяомі</name>
 <name_ru>Ракетка Сяоми</name_ru>
 <price>100</price>
@@ -220,7 +220,7 @@
 <param name="Длина в упаковке, см">0</param>
 <param name="Вес в упаковке, кг">0</param>
 </offer>
-<offer id="amp-1775-new-8" available="true">
+<offer id="amp-1775-xml-_-8" available="true">
 <name>Ракетка Сяомі</name>
 <name_ru>Ракетка Сяоми</name_ru>
 <price>100</price>
@@ -250,7 +250,7 @@
 <param name="Длина в упаковке, см">k</param>
 <param name="Вес в упаковке, кг">o</param>
 </offer>
-<offer id="amp-1775-new-9" available="true">
+<offer id="amp-1775-xml-_-9" available="true">
 <name>Ракетка Сяомі</name>
 <name_ru>Ракетка Сяоми</name_ru>
 <price>100</price>
@@ -280,7 +280,7 @@
 <param name="Длина в упаковке, см">,</param>
 <param name="Вес в упаковке, кг">,</param>
 </offer>
-<offer id="amp-1775-new-10" available="true">
+<offer id="amp-1775-xml-_-10" available="true">
 <name>Ракетка Сяомі</name>
 <name_ru>Ракетка Сяоми</name_ru>
 <price>100</price>
@@ -310,7 +310,7 @@
 <param name="Длина в упаковке, см">7</param>
 <param name="Вес в упаковке, кг">1</param>
 </offer>
-<offer id="amp-1775-new-11" available="true">
+<offer id="amp-1775-xml-_-11" available="true">
 <name>Ракетка Сяомі</name>
 <name_ru>Ракетка Сяоми</name_ru>
 <price>100</price>
@@ -340,7 +340,7 @@
 <param name="Длина в упаковке, см">1x9</param>
 <param name="Вес в упаковке, кг">1x9</param>
 </offer>
-<offer id="amp-1775-new-12" available="true">
+<offer id="amp-1775-xml-_-12" available="true">
 <name>Ракетка Сяомі</name>
 <name_ru>Ракетка Сяоми</name_ru>
 <price>100</price>
@@ -400,7 +400,7 @@
 <param name="Длина в упаковке, см"> </param>
 <param name="Вес в упаковке, кг"> </param>
 </offer>
-<offer id="amp-1775-new-14" available="true">
+<offer id="amp-1775-xml-_-14" available="true">
 <name>Ракетка Сяомі</name>
 <name_ru>Ракетка Сяоми</name_ru>
 <price>100</price>
@@ -430,7 +430,7 @@
 <param name="Длина в упаковке, см">1e</param>
 <param name="Вес в упаковке, кг">1e</param>
 </offer>
-<offer id="amp-1775-new-15" available="true">
+<offer id="amp-1775-xml-_-15" available="true">
 <name>Ракетка Сяомі</name>
 <name_ru>Ракетка Сяоми</name_ru>
 <price>100</price>
@@ -460,7 +460,7 @@
 <param name="Длина в упаковке, см">e</param>
 <param name="Вес в упаковке, кг">e</param>
 </offer>
-<offer id="amp-1775-new-16" available="true">
+<offer id="amp-1775-xml-_-16" available="true">
 <name>Ракетка Сяомі</name>
 <name_ru>Ракетка Сяоми</name_ru>
 <price>100</price>
@@ -490,7 +490,7 @@
 <param name="Длина в упаковке, см">7</param>
 <param name="Вес в упаковке, кг">0.2864</param>
 </offer>
-<offer id="amp-1775-new-17" available="true">
+<offer id="amp-1775-xml-_-17" available="true">
 <name>Ракетка Сяомі</name>
 <name_ru>Ракетка Сяоми</name_ru>
 <price>100</price>
@@ -520,7 +520,7 @@
 <param name="Длина в упаковке, см">9999</param>
 <param name="Вес в упаковке, кг">999999</param>
 </offer>
-<offer id="amp-1775-new-18" available="true">
+<offer id="amp-1775-xml-_-18" available="true">
 <name>Ракетка Сяомі</name>
 <name_ru>Ракетка Сяоми</name_ru>
 <price>100</price>
@@ -550,7 +550,7 @@
 <param name="Длина в упаковке, см">1</param>
 <param name="Вес в упаковке, кг">0.0001</param>
 </offer>
-<offer id="amp-1775-new-19" available="true">
+<offer id="amp-1775-xml-_-19" available="true">
 <name>Ракетка Сяомі</name>
 <name_ru>Ракетка Сяоми</name_ru>
 <price>100</price>
@@ -580,7 +580,7 @@
 <param name="Длина в упаковке, см"></param>
 <param name="Вес в упаковке, кг">1</param>
 </offer>
-<offer id="amp-1775-new-20" available="true">
+<offer id="amp-1775-xml-_-20" available="true">
 <name>Ракетка Сяомі</name>
 <name_ru>Ракетка Сяоми</name_ru>
 <price>100</price>
@@ -610,7 +610,7 @@
 <param name="Длина в упаковке, см">7</param>
 <param name="Вес в упаковке, кг">0.56</param>
 </offer>
-<offer id="amp-1775-new-21" available="true">
+<offer id="amp-1775-xml-_-21" available="true">
 <name>Ракетка Сяомі</name>
 <name_ru>Ракетка Сяоми</name_ru>
 <price>100</price>
@@ -640,7 +640,7 @@
 <param name="Длина в упаковке, см"></param>
 <param name="Вес в упаковке, кг">185</param>
 </offer>
-<offer id="amp-1775-new-22" available="true">
+<offer id="amp-1775-xml-_-22" available="true">
 <name>Ракетка Сяомі</name>
 <name_ru>Ракетка Сяоми</name_ru>
 <price>100</price>
@@ -670,7 +670,7 @@
 <param name="Длина в упаковке, см"></param>
 <param name="Вес в упаковке, кг"></param>
 </offer>
-<offer id="amp-1775-new-23" available="true">
+<offer id="amp-1775-xml-_-23" available="true">
 <name>Ракетка Сяомі</name>
 <name_ru>Ракетка Сяоми</name_ru>
 <price>100</price>
@@ -700,7 +700,7 @@
 <param name="Длина в упаковке, см"></param>
 <param name="Вес в упаковке, кг"></param>
 </offer>
-<offer id="amp-1775-new-24" available="true">
+<offer id="amp-1775-xml-_-24" available="true">
 <name>Ракетка Сяомі</name>
 <name_ru>Ракетка Сяоми</name_ru>
 <price>100</price>
@@ -730,7 +730,7 @@
 <param name="Длина в упаковке, см"></param>
 <param name="Вес в упаковке, кг"></param>
 </offer>
-<offer id="amp-1775-new-25" available="true">
+<offer id="amp-1775-xml-_-25" available="true">
 <name>Ракетка Сяомі</name>
 <name_ru>Ракетка Сяоми</name_ru>
 <price>100</price>
@@ -760,7 +760,7 @@
 <param name="Длина в упаковке, см">75</param>
 <param name="Вес в упаковке, кг"></param>
 </offer>
-<offer id="amp-1775-new-26" available="true">
+<offer id="amp-1775-xml-_-26" available="true">
 <name>Ракетка Сяомі</name>
 <name_ru>Ракетка Сяоми</name_ru>
 <price>100</price>
@@ -790,7 +790,7 @@
 <param name="Длина в упаковке, см"></param>
 <param name="Вес в упаковке, кг">15</param>
 </offer>
-<offer id="amp-1775-new-27" available="true">
+<offer id="amp-1775-xml-_-27" available="true">
 <name>Ракетка Сяомі</name>
 <name_ru>Ракетка Сяоми</name_ru>
 <price>100</price>
@@ -820,7 +820,7 @@
 <param name="Длина в упаковке, см"></param>
 <param name="Вес в упаковке, кг"></param>
 </offer>
-<offer id="amp-1775-new-28" available="true">
+<offer id="amp-1775-xml-_-28" available="true">
 <name>Ракетка Сяомі</name>
 <name_ru>Ракетка Сяоми</name_ru>
 <price>100</price>
@@ -850,7 +850,7 @@
 <param name="Длина в упаковке, см">7999</param>
 <param name="Вес в упаковке, кг">199995</param>
 </offer>
-<offer id="amp-1775-new-29" available="true">
+<offer id="amp-1775-xml-_-29" available="true">
 <name>Ракетка Сяомі</name>
 <name_ru>Ракетка Сяоми</name_ru>
 <price>100</price>
@@ -880,7 +880,7 @@
 <param name="Длина в упаковке, см"></param>
 <param name="Вес в упаковке, кг">999999</param>
 </offer>
-<offer id="amp-1775-new-30" available="true">
+<offer id="amp-1775-xml-_-30" available="true">
 <name>Ракетка Сяомі</name>
 <name_ru>Ракетка Сяоми</name_ru>
 <price>100</price>
