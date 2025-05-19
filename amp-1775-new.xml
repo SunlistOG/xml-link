@@ -906,6 +906,36 @@
 <param name="Габарити">28 x 15 см</param>
 <param name="Цвет">Candy</param>
 </offer>
+<offer id="amp-1775-new-31" available="true">
+<name>Ракетка Сяомі</name>
+<name_ru>Ракетка Сяоми</name_ru>
+<price>100</price>
+<sale_price>50</sale_price>
+<currencyId>UAH</currencyId>
+<categoryId>54</categoryId>
+<picture>https://content.rozetka.com.ua/goods/images/big/518751351.jpg</picture>
+<description>Тест ракетка ру</description>
+<description_ru>Тест ракетка юа</description_ru>
+<vendor>Panasonic</vendor>
+<stock_quantity>1</stock_quantity>
+<param name="Гарантия">12 месяцев</param>
+<param name="Совместимый бренд">2E</param>
+<param name="Совместимая модель">Unihertz Tank 2</param>
+<param name="Країна виробник">Туреччина</param>
+<param name="Особенности чехла">Водонепроницаемый,Противоударный,С подставкой,Сенсорный,Прозрачный,Подсветка,Отображение данных</param>
+<param name="Форм-фактор">Чехол-сумка</param>
+<param name="Країна реєстрації бренду">Туреччина</param>
+<param name="Габариты">Багаторазові</param>
+<param name="Материал">Регульований фіксатор</param>
+<param name="Вес">200</param>
+<param name="Матеріал">Поликарбонат</param>
+<param name="Габарити">28 x 15 см</param>
+<param name="Цвет">Candy</param>
+<param name="Ширина в упаковке, см">1</param>
+<param name="Высота в упаковке, см">2</param>
+<param name="Длина в упаковке, см">3</param>
+<param name="Вес в упаковке, кг">4</param> 
+</offer>
 </offers>
 </shop>
 </yml_catalog>
