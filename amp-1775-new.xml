@@ -931,9 +931,9 @@
 <param name="Матеріал">Поликарбонат</param>
 <param name="Габарити">28 x 15 см</param>
 <param name="Цвет">Candy</param>
-<param name="Ширина в упаковке, см">1</param>
-<param name="Высота в упаковке, см">2</param>
-<param name="Длина в упаковке, см">3</param>
+<param name="Ширина в упаковке, см">4</param>
+<param name="Высота в упаковке, см">4</param>
+<param name="Длина в упаковке, см">4</param>
 <param name="Вес в упаковке, кг">4</param> 
 </offer>
 </offers>
