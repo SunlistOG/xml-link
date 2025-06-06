@@ -1,0 +1,50 @@
+<yml_catalog date="2024-03-20 18:39">
+<shop>
+<name>Test AMP-1535</name>
+<company>AMP-1535</company>
+<url>https://google.com.ua</url>
+<currencies>
+<currency id="UAH" rate="1"/>
+</currencies>
+<categories>
+<category id="4047">Бабочки</category>
+</categories>
+<offers>
+<offer id="amp-1535-torp-new4-2" available="true">
+<name>Метелик Bow Tie House синій стандартний габардин 07532 (97530)</name>
+<name_ru>Бабочка Bow Tie House синий стандартный стандартный габардин 07532 (97530)</name_ru>
+<price>205</price>
+<sale_price>205</sale_price>
+<currencyId>UAH</currencyId>
+<categoryId>4047</categoryId>
+<picture>https://content2.rozetka.com.ua/goods/images/big/352434575.jpg</picture>
+<picture>https://content1.rozetka.com.ua/goods/images/big/352434585.jpg</picture>
+<picture>https://content.rozetka.com.ua/goods/images/big/352434590.jpg</picture>
+<picture>https://content.rozetka.com.ua/goods/images/big/352434599.jpg</picture>
+<picture>https://content2.rozetka.com.ua/goods/images/big/352434607.jpg</picture>
+<description>Елегантний метелик Bow Tie House (модель 07530) — стильний аксесуар для справжніх поціновувачів класики. Виготовлений із якісного габардину насиченого синього кольору, цей метелик чудово тримає форму та додає образу вишуканості. Стандартний розмір пасує до більшості комірців сорочок, а зручна застібка дозволяє швидко зафіксувати аксесуар на шиї. Ідеальний вибір для урочистих подій, ділових зустрічей або вечірок, де важлива бездоганна зовнішність.</description>
+<description_ru>Элегантная бабочка Bow Tie House (модель 07530) - стильный аксессуар для настоящих ценителей классики. Изготовленная из качественного габардина насыщенного синего цвета, эта бабочка прекрасно держит форму и добавляет образу изысканности. Стандартный размер подходит к большинству воротничков рубашек, а удобная застежка позволяет быстро зафиксировать аксессуар на шее. Идеальный выбор для торжественных событий, деловых встреч или вечеринок, где важна безупречная внешность.</description_ru>
+<vendorCode>97536</vendorCode>
+<vendor>Bow Tie House</vendor>
+<stock_quantity>1</stock_quantity>
+<param name="Гарантия">12 месяцев</param>
+<param name="Совместимый бренд">2E</param>
+<param name="Совместимая модель">Unihertz Tank 2</param>
+<param name="Країна виробник">Туреччина</param>
+<param name="Особенности чехла">Водонепроницаемый,Противоударный,С подставкой,Сенсорный,Прозрачный,Подсветка,Отображение данных</param>
+<param name="Форм-фактор">Чехол-сумка</param>
+<param name="Країна реєстрації бренду">Туреччина</param>
+<param name="Дополнительно_RU"></param>
+<param name="Материал">Регульований фіксатор</param>
+<param name="Вес">200</param>
+<param name="Матеріал">Поликарбонат</param>
+<param name="Габарити">28 x 15 см</param>
+<param name="Цвет">Candy</param>
+<param name="Ширина в упаковке, см">50</param>
+<param name="Высота в упаковке, см">60</param>
+<param name="Длина в упаковке, см">75</param>
+<param name="Вес в упаковке, кг">1</param>
+</offer>
+</offers>
+</shop>
+</yml_catalog>
