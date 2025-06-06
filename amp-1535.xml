@@ -28,7 +28,6 @@
 <vendor>Bow Tie House</vendor>
 <stock_quantity>1</stock_quantity>
 <param name="Гарантия">12 месяцев</param>
-<param name="Совместимый бренд">2E</param>
 <param name="Совместимая модель">Unihertz Tank 2</param>
 <param name="Країна виробник">Туреччина</param>
 <param name="Особенности чехла">Водонепроницаемый,Противоударный,С подставкой,Сенсорный,Прозрачный,Подсветка,Отображение данных</param>
@@ -39,7 +38,7 @@
 <param name="Вес">200</param>
 <param name="Матеріал">Поликарбонат</param>
 <param name="Габарити">28 x 15 см</param>
-<param name="Цвет">Candy</param>
+<param name="Цвет">Абрикосовий</param>
 <param name="Ширина в упаковке, см">50</param>
 <param name="Высота в упаковке, см">60</param>
 <param name="Длина в упаковке, см">75</param>
