@@ -12,6 +12,16 @@
       <name>Арматура та автоматика для регулювання</name>
       <parentId>108</parentId>
     </category>
+     <category>
+      <id>168</id>
+      <name>Тестова категорія</name>
+      <parentId>300</parentId>
+    </category>
+         <category>
+      <id>168</id>
+      <name>Тестова категорія 2</name>
+      <parentId>301</parentId>
+    </category>
     <category>
       <id>171</id>
       <name>Розумний будинок</name>
@@ -10934,7 +10944,7 @@
       <name>Нова позиція 658</name>
       <price>0.00</price>
       <currencyId>UAH</currencyId>
-      <categoryId>108</categoryId>
+      <categoryId>300</categoryId>
       <vendor>Toshiba</vendor>
       <stock>В наявності</stock>
       <description>test</description>
