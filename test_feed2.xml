@@ -11,7 +11,8 @@
       <name>Арматура та автоматика для регулювання</name>
       <parentId>108</parentId>
     </category>
-          <id>1680</id>
+    <category>
+      <id>1680</id>
       <name>Дитячі соки</name>
       <parentId>108</parentId>
     </category>
@@ -10958,7 +10959,7 @@
       <param
         name="Країна виготовлення">Україна</param>
     </item>
-        <item>
+    <item>
       <id>check-feed-product_60989</id>
       <name>Нова позиція 658</name>
       <price>0.00</price>
