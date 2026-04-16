@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE yml_catalog SYSTEM "shops.dtd">
+<yml_catalog date="2026-04-16 13:33">
+  <shop>
+    <name>ЗЕВС | Онлайн Гипермаркет</name>
+    <company>ЗЕВС | Онлайн Гипермаркет</company>
+    <url>https://cs3879995.prom.ua/</url>
+    <currencies>
+      <currency id="USD" rate="CB"/>
+      <currency id="UAH" rate="1"/>
+      <currency id="BYN" rate="CB"/>
+      <currency id="KZT" rate="CB"/>
+      <currency id="EUR" rate="CB"/>
+    </currencies>
+    <categories>
+      <category id="152864014" parentId="152426805">Корпуса и БП для серверов</category>
+      <category id="152427008" parentId="152426645">Ноутбуки</category>
+    </categories>
+  <offers>
+      <offer id="amp-3015-1" available="false">
+    <url>https://cs3879995.prom.ua/p2994446821-noutbuk-acer-travelmate.html</url>
+    <price>22268</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>152427008</categoryId>
+    <picture>https://images.prom.ua/7180062595_noutbuk-acer-travelmate.jpg</picture>
+    <picture>https://images.prom.ua/7180062596_noutbuk-acer-travelmate.jpg</picture>
+    <picture>https://images.prom.ua/7180062597_noutbuk-acer-travelmate.jpg</picture>
+    <picture>https://images.prom.ua/7180062598_noutbuk-acer-travelmate.jpg</picture>
+    <picture>https://images.prom.ua/7180062599_noutbuk-acer-travelmate.jpg</picture>
+    <picture>https://images.prom.ua/7180062600_noutbuk-acer-travelmate.jpg</picture>
+    <picture>https://images.prom.ua/7180062602_noutbuk-acer-travelmate.jpg</picture>
+    <picture>https://images.prom.ua/7180062603_noutbuk-acer-travelmate.jpg</picture>
+    <pickup>false</pickup>
+    <delivery>true</delivery>
+    <name>Ноутбук Acer TravelMate TMP215-54 (NX.VYEEU.006)</name>
+    <name_ua>Ноутбук Acer TravelMate TMP215-54 (NX.VYEEU.006)</name_ua>
+    <vendor>Acer</vendor>
+    <vendorCode>973196-01</vendorCode>
+    <description>15.6", 1920х1080 (FullHD), IPS, Intel Pentium Gold 8505 (3.3 - 4.4 ГГц), 8 ГБ, SSD - 128 ГБ, Intel UHD Graphics, Windows 11 PRO Education, 48 Втч, сканер отпечатков пальцев, украинская клавиатура, 1.76 кг, черный</description>
+    <description_ua>15.6", 1920х1080 (FullHD), IPS, Intel Pentium Gold 8505 (3.3 - 4.4 ГГц), 8 ГБ, SSD - 128 ГБ, Intel UHD Graphics, Windows 11 PRO Education, 48 Втг, сканер відбитків пальців, українська клавіатура, 1.76 кг, чорний</description_ua>
+    <quantity_in_stock></quantity_in_stock>
+    <keywords>Ноутбук Acer TravelMate TMP215-54 (NX.VYEEU.006)</keywords>
+    <keywords_ua>Ноутбук Acer TravelMate TMP215-54 (NX.VYEEU.006)</keywords_ua>
+    <param name="Вес" unit="кг">1.76</param>
+    <param name="Тип матрицы">IPS</param>
+    <param name="Тип оперативной памяти">DDR4</param>
+    <param name="Цвет">Черный</param>
+    <param name="Частота обновления экрана" unit="Гц">60</param>
+    <param name="Ширина" unit="мм">359.7</param>
+    <param name="Тип процессора">Pentium</param>
+    <param name="Предустановленная ОС">Windows 11</param>
+    <param name="Тип">Ноутбук</param>
+    <param name="Артикул" unit="">NX.VYEEU.006</param>
+    <param name="Беспроводные технологии" unit="">Wi-Fi 6 (802.11aх), Bluetooth 5.1</param>
+    <param name="Веб-камера" unit="">720p HD</param>
+    <param name="Видеокарта" unit="">Intel UHD Graphics</param>
+    <param name="Высота" unit="">19.9 мм</param>
+    <param name="Гарантия, мес" unit="">12</param>
+    <param name="Глубина" unit="">245.25 мм</param>
+    <param name="Диагональ дисплея" unit="">15.6&amp;quot;</param>
+    <param name="Емкость аккумулятора" unit="">48 Втч</param>
+    <param name="Заявленное время работы (часов)" unit="">9</param>
+    <param name="Интерфейсы и подключения" unit="">1 x USB 4.0 Type-C, 3 x USB 3.2 Gen 1, HDMI, Комбинированный аудиоразъем</param>
+    <param name="Кардридер" unit="">Card-reader</param>
+    <param name="Количество ядер процессора" unit="">5</param>
+    <param name="Мoдель" unit="">TravelMate TMP215-54</param>
+    <param name="Объем SSD" unit="">128 ГБ</param>
+    <param name="Объем оперативной памяти" unit="">8 ГБ</param>
+    <param name="Операционная система" unit="">Windows 11 PRO Education</param>
+    <param name="Особенности" unit="">украинская клавиатура, сканер отпечатков пальцев</param>
+    <param name="Поверхность экрана" unit="">матовая</param>
+    <param name="Поколение процессора Intel" unit="">12-th generation</param>
+    <param name="Процессор" unit="">Intel Pentium Gold 8505 (3.3 - 4.4 ГГц)</param>
+    <param name="Разрешение" unit="">1920х1080 (FullHD)</param>
+    <param name="Серия (модельный ряд)" unit="">Acer TravelMate</param>
+    <param name="Сетевой адаптер" unit="">Gigabit Ethernet</param>
+    <param name="Страна производства" unit="">Китай</param>
+    <param name="Тип видеокарты" unit="">интегрированная</param>
+    <param name="Тип ноутбука" unit="">для работы</param>
+    <param name="Типы внутренних накопителей" unit="">SSD</param>
+  </offer>
+   <offer id="amp-3015-2" available="true">
+    <url>https://cs3879995.prom.ua/p2997216585-noutbuk-acer-nitro.html</url>
+    <price>48880</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>152427008</categoryId>
+    <picture>https://images.prom.ua/7255274734_noutbuk-acer-nitro.jpg</picture>
+    <picture>https://images.prom.ua/7255274735_noutbuk-acer-nitro.jpg</picture>
+    <picture>https://images.prom.ua/7255274736_noutbuk-acer-nitro.jpg</picture>
+    <picture>https://images.prom.ua/7255274737_noutbuk-acer-nitro.jpg</picture>
+    <picture>https://images.prom.ua/7255274738_noutbuk-acer-nitro.jpg</picture>
+    <picture>https://images.prom.ua/7255274739_noutbuk-acer-nitro.jpg</picture>
+    <picture>https://images.prom.ua/7255274740_noutbuk-acer-nitro.jpg</picture>
+    <picture>https://images.prom.ua/7255274741_noutbuk-acer-nitro.jpg</picture>
+    <picture>https://images.prom.ua/7255274742_noutbuk-acer-nitro.jpg</picture>
+    <picture>https://images.prom.ua/7255274743_noutbuk-acer-nitro.jpg</picture>
+    <pickup>false</pickup>
+    <delivery>true</delivery>
+    <name>Ноутбук Acer Nitro V 16 ANV16-42 (NH.U1KEU.007)</name>
+    <name_ua>Ноутбук Acer Nitro V 16 ANV16-42 (NH.U1KEU.007)</name_ua>
+    <vendor>Acer</vendor>
+    <vendorCode>1021603-01</vendorCode>
+    <description>16", 1920x1200 (WUXGA), IPS, AMD Ryzen 5 240 (4.3 - 5.0 ГГц), 16 ГБ, SSD - 512 ГБ, NVIDIA GeForce RTX 3050, GPU - 6 ГБ, Linux, 76 Втч, подсветка клавиатуры, украинская клавиатура, 2.44 кг, черный</description>
+    <description_ua>16", 1920x1200 (WUXGA), IPS, AMD Ryzen 5 240 (4.3 - 5.0 ГГц), 16 ГБ, SSD - 512 ГБ, NVIDIA GeForce RTX 3050, GPU - 6 ГБ, Linux, 76 Втг, підсвічування клавіатури, українська клавіатура, 2.44 кг, чорний</description_ua>
+    <quantity_in_stock>100</quantity_in_stock>
+    <keywords>Ноутбук Acer Nitro V 16 ANV16-42 (NH.U1KEU.007)</keywords>
+    <keywords_ua>Ноутбук Acer Nitro V 16 ANV16-42 (NH.U1KEU.007)</keywords_ua>
+    <param name="Вес" unit="кг">2.44</param>
+    <param name="Количество ядер процессора">6</param>
+    <param name="Тип матрицы">IPS</param>
+    <param name="Тип оперативной памяти">DDR5</param>
+    <param name="Цвет">Черный</param>
+    <param name="Частота обновления экрана" unit="Гц">180</param>
+    <param name="Ширина" unit="мм">360.04</param>
+    <param name="Тип процессора">AMD Ryzen 5</param>
+    <param name="Графический чипсет">NVIDIA GeForce RTX 3050</param>
+    <param name="Предустановленная ОС">Linux</param>
+    <param name="Тип">Ноутбук</param>
+    <param name="Артикул" unit="">NH.U1KEU.007</param>
+    <param name="Аудиосистема" unit="">DTS:X ULTRA</param>
+    <param name="Беспроводные технологии" unit="">Wi-Fi 6 (802.11aх), Bluetooth 5.3</param>
+    <param name="Веб-камера" unit="">720p HD</param>
+    <param name="Видеокарта" unit="">NVIDIA GeForce RTX 3050</param>
+    <param name="Высота" unit="">24.5 мм</param>
+    <param name="Гарантия, мес" unit="">12</param>
+    <param name="Глубина" unit="">275.62 мм</param>
+    <param name="Диагональ дисплея" unit="">16&amp;quot;</param>
+    <param name="Дополнительные возможности" unit="">встроенный микрофон, стереодинамики</param>
+    <param name="Емкость аккумулятора" unit="">76 Втч</param>
+    <param name="Интерфейсы и подключения" unit="">HDMI, Комбинированный аудиоразъем, LAN (RJ-45), 1 x USB 4.0 Type-C, 1 x USB 3.2 Gen 1, 2 x USB 3.2 Gen 2</param>
+    <param name="Кардридер" unit="">Card-reader</param>
+    <param name="Количество слотов M.2" unit="">2</param>
+    <param name="Количество слотов для оперативной памяти" unit="">2</param>
+    <param name="Мoдель" unit="">Nitro V 16 ANV16-42</param>
+    <param name="Объем SSD" unit="">512 ГБ</param>
+    <param name="Объем встроенной видеопамяти" unit="">6 ГБ</param>
+    <param name="Объем оперативной памяти" unit="">16 ГБ</param>
+    <param name="Операционная система" unit="">Linux</param>
+    <param name="Особенности" unit="">подсветка клавиатуры, украинская клавиатура</param>
+    <param name="Поверхность экрана" unit="">матовая</param>
+    <param name="Поколение процессора AMD" unit="">Zen 4</param>
+    <param name="Процессор" unit="">AMD Ryzen 5 240 (4.3 - 5.0 ГГц)</param>
+    <param name="Разрешение" unit="">1920x1200 (WUXGA)</param>
+    <param name="Серия (модельный ряд)" unit="">Acer Nitro</param>
+    <param name="Серия дискретной видеокарты" unit="">NVIDIA GeForce RTX 3050</param>
+    <param name="Сетевой адаптер" unit="">Gigabit Ethernet</param>
+    <param name="Страна производства" unit="">Китай</param>
+    <param name="Тип видеокарты" unit="">дискретная</param>
+    <param name="Тип ноутбука" unit="">игровой</param>
+    <param name="Типы внутренних накопителей" unit="">SSD</param>
+  </offer>
+  </offers>
+</shop>
+</yml_catalog>
