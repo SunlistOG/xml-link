@@ -149,6 +149,1813 @@
     <param name="Тип ноутбука" unit="">игровой</param>
     <param name="Типы внутренних накопителей" unit="">SSD</param>
   </offer>
+  <offer id="amp-3015-3" available="true">
+    <url>https://cs3879995.prom.ua/p2987831085-noutbuk-lenovo-v15.html</url>
+    <price>33402</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>152427008</categoryId>
+    <picture>https://images.prom.ua/7179706889_noutbuk-lenovo-v15.jpg</picture>
+    <picture>https://images.prom.ua/7179706890_noutbuk-lenovo-v15.jpg</picture>
+    <picture>https://images.prom.ua/7179706891_noutbuk-lenovo-v15.jpg</picture>
+    <picture>https://images.prom.ua/7179706892_noutbuk-lenovo-v15.jpg</picture>
+    <picture>https://images.prom.ua/7179706894_noutbuk-lenovo-v15.jpg</picture>
+    <picture>https://images.prom.ua/7179706895_noutbuk-lenovo-v15.jpg</picture>
+    <picture>https://images.prom.ua/7179706897_noutbuk-lenovo-v15.jpg</picture>
+    <picture>https://images.prom.ua/7179706898_noutbuk-lenovo-v15.jpg</picture>
+    <picture>https://images.prom.ua/7179706899_noutbuk-lenovo-v15.jpg</picture>
+    <pickup>false</pickup>
+    <delivery>true</delivery>
+    <name>Ноутбук Lenovo V15 G4 IRU (83A100Q4RA)</name>
+    <name_ua>Ноутбук Lenovo V15 G4 IRU (83A100Q4RA)</name_ua>
+    <vendor>Lenovo</vendor>
+    <vendorCode>855626-01</vendorCode>
+    <description>Lenovo V15 G4 – ноутбук в сдержанном дизайне, разработанный для ведения бизнеса и решения рабочих задач. Выполнен в достаточно компактных размерах и вес всего 1.65 кг, поэтому его легко можно брать с собой на рабочие встречи или в командировку.Устройство поможет решить сложные  задачи, а со сбалансированной начинкой позволит реализовать масштабные проекты .Центральный процессор представлен  Intel Core i3-1315U ,  который демонстрирует хорошую энергоэффективность и скорость обработки данных. В аппаратной конфигурации модели также имеется  SSD-диск , работа которого заключается в записи и хранении информации. Lenovo V15 обладает широким набором интерфейсов для подключения всех необходимых устройств.Ноутбук прошел множество тестирований и имеет сертификат MIL-STD-810H, подтверждающий его готовность к работе в разных условиях. Крышка способна открываться на 180 градусов, предлагая наиболее удобное положение для работы, а эргономичная клавиатура упростит работу с текстом.</description>
+    <description_ua>Lenovo V15 G4 — ноутбук у стриманому дизайні, розроблений для ведення бізнесу та вирішення робочих завдань. Виконаний у досить компактних розмірах та має вагу всього 1.65 кг, тому його легко можна брати з собою на робочі зустрічі чи у відрядження.Пристрій допоможе розв'язувати складні задачі, а зі збалансованою начинкою дасть змогу реалізувати масштабні проєкти. Оснащення екраном 15.6" дюймів спростить роботу з презентаціями, мультимедійним контентом, діаграмами, адже надає більше площі для відтворення інформації. Центральний процесор представлений Intel Core i3-1315U, який демонструє хорошу енергоефективність і швидкість в обробці даних. У апаратній конфігурації моделі також наявний SSD-диск, робота якого полягає у записі та збереженні інформації. Lenovo V15 має широкий набір інтерфейсів для підключення всіх необхідних пристроїв. Також передбачено вбудований модуль Bluetooth 5.1 для бездротових пристроїв, роз'єм RJ-45 та адаптер Wi-Fi 11ac для під'єднання до мережі інтернет.Ноутбук пройшов безліч тестувань та має сертифікат MIL-STD-810H, який підтверджує його готовність до роботи в різних умовах. Кришка здатна відкриватися на 180 градусів, пропонуючи найбільш зручне положення для роботи, а ергономічна клавіатура спростить роботу з текстом.</description_ua>
+    <quantity_in_stock>100</quantity_in_stock>
+    <keywords>Ноутбук Lenovo V15 G4 IRU (83A100Q4RA)</keywords>
+    <keywords_ua>Ноутбук Lenovo V15 G4 IRU (83A100Q4RA)</keywords_ua>
+    <param name="Вес" unit="кг">1.7</param>
+    <param name="Количество ядер процессора">6</param>
+    <param name="Тип матрицы">IPS</param>
+    <param name="Тип накопителя">SSD</param>
+    <param name="Тип оперативной памяти">DDR4</param>
+    <param name="Цвет">Черный</param>
+    <param name="Частота обновления экрана" unit="Гц">60</param>
+    <param name="Ширина" unit="мм">359.2</param>
+    <param name="Тип">Ноутбук</param>
+    <param name="Тип процессора">Core i3</param>
+    <param name="Артикул" unit="">83A100Q4RA</param>
+    <param name="Беспроводные технологии" unit="">Bluetooth, Wi-Fi</param>
+    <param name="Веб-камера" unit="">WEB-Camera</param>
+    <param name="Видеокарта" unit="">Intel UHD Graphics</param>
+    <param name="Высота" unit="">19.9 мм</param>
+    <param name="Гарантия, мес" unit="">36</param>
+    <param name="Глубина" unit="">235.8 мм</param>
+    <param name="Диагональ дисплея" unit="">15.6&amp;quot;</param>
+    <param name="Дополнительные возможности" unit="">встроенный микрофон, стереодинамики</param>
+    <param name="Емкость аккумулятора" unit="">45 Втч</param>
+    <param name="Емкость батареи" unit="">3 cell</param>
+    <param name="Интерфейсы и подключения" unit="">LAN (RJ-45), Комбинированный аудиоразъем, HDMI, USB 3.2 Type-C, USB 2.0, 1 х USB 3.2</param>
+    <param name="Количество отсеков 2.5&amp;quot; SATA для HDD/SSD" unit="">1</param>
+    <param name="Количество слотов M.2" unit="">1</param>
+    <param name="Количество слотов для оперативной памяти" unit="">1</param>
+    <param name="Мoдель" unit="">V15 G4 IRU</param>
+    <param name="Объем SSD" unit="">512 ГБ</param>
+    <param name="Объем оперативной памяти" unit="">16 ГБ</param>
+    <param name="Операционная система" unit="">без операционной системы</param>
+    <param name="Особенности" unit="">TPM модуль</param>
+    <param name="Поверхность экрана" unit="">матовая</param>
+    <param name="Поколение процессора Intel" unit="">13-е поколение</param>
+    <param name="Процессор" unit="">Intel Core i3-1315U (3.3 - 4.5 ГГц)</param>
+    <param name="Разрешение" unit="">1920х1080 (FullHD)</param>
+    <param name="Серия (модельный ряд)" unit="">Lenovo V</param>
+    <param name="Сетевой адаптер" unit="">Gigabit Ethernet</param>
+    <param name="Стандарт интерфейса SSD M.2" unit="">PCI Express 4.0x4</param>
+    <param name="Страна производства" unit="">Китай</param>
+    <param name="Также ищут" unit="">ультрабуки, для графического дизайна, до 50000 грн, до 40000 грн, 2024 года, до 30 000 грн, с большим объемом памяти, с SSD-диском, для подростков, для дома</param>
+    <param name="Тип видеокарты" unit="">интегрированная</param>
+    <param name="Тип ноутбука" unit="">для работы</param>
+  </offer>
+   <offer id="amp-3015-4" available="true">
+    <url>https://cs3879995.prom.ua/p2993916062-noutbuk-pixus-bit.html</url>
+    <price>16561</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>152427008</categoryId>
+    <picture>https://images.prom.ua/7179945948_noutbuk-pixus-bit.jpg</picture>
+    <picture>https://images.prom.ua/7179945951_noutbuk-pixus-bit.jpg</picture>
+    <picture>https://images.prom.ua/7179945953_noutbuk-pixus-bit.jpg</picture>
+    <picture>https://images.prom.ua/7179945956_noutbuk-pixus-bit.jpg</picture>
+    <picture>https://images.prom.ua/7179945959_noutbuk-pixus-bit.jpg</picture>
+    <picture>https://images.prom.ua/7179945962_noutbuk-pixus-bit.jpg</picture>
+    <picture>https://images.prom.ua/7179945966_noutbuk-pixus-bit.jpg</picture>
+    <picture>https://images.prom.ua/7179945967_noutbuk-pixus-bit.jpg</picture>
+    <picture>https://images.prom.ua/7179945971_noutbuk-pixus-bit.jpg</picture>
+    <picture>https://images.prom.ua/7179945974_noutbuk-pixus-bit.jpg</picture>
+    <pickup>false</pickup>
+    <delivery>true</delivery>
+    <name>Ноутбук Pixus Bit lite (4897058532142)</name>
+    <name_ua>Ноутбук Pixus Bit lite (4897058532142)</name_ua>
+    <vendor>Pixus</vendor>
+    <vendorCode>964087-01</vendorCode>
+    <description>PIXUS BIT Lite – ДОСТУПНЫЙ НОУТБУК
+С КОМПАКТНЫМ FULL HD ДИСПЛЕЕМ
+
+Pixus BIT Lite – новый компактный ноутбук с невероятным дисплеем. Ноутбук BIT Lite оборудован ярким Full HD IPS дисплеем с диагональю 14.1 дюйма и разрешением 1920x1080 px. Такие характеристики – это лучшее сочетание для тех, кто нуждается в качественном дисплее и компактном размере! Работайте, отдыхайте и учитесь без усталости для глаз благодаря Full HD и матовому покрытию экрана!
+
+IPS матрица обеспечивает воспроизведение насыщенных и естественных цветов на экране ноутбука по сравнению с устаревшей TN матрицей, вместе с ноутбуком BIT Lite и IPS матрицей вы получите действительно яркое, насыщенное изображение.
+
+Еще одним важным преимуществом ноутбука Pixus BIT Lite является матовое покрытие экрана, защищающее изображение от световых бликов и уменьшающее нагрузку на глаза при длительной работе за ноутбуком.   8/256 ГБ ПАМЯТИ + СОВРЕМЕННЫЙ ПРОЦЕССОР INTEL
+
+Pixus BIT Lite – ваш идеальный, компактный помощник на каждый день. Ноутбук имеет 8 ГБ оперативной памяти, M.2 SATA SSD диск на 256 ГБ для хранения файлов + процессор Intel N5095 с четырьмя ядрами и частотой 2.9 ГГц. С ноутбуком BIT Lite вы сможете быстро и без зависаний работать в SketchUP (объемное 3D моделирование), BAS\BAF бухгалтерия, GIMP дизайн, и полным пакетом программ Microsoft Office. Учитесь, работайте, развлекайтесь где угодно вместе с Pixus BIT Lite.
+
+Дополнительно вы легко можете "прокачать" ноутбук BIT Lite, увеличив оперативную память до 16 ГБ, встроенную вплоть до 4 ТБ!   WINDOWS 11 Home и ПОМОЩНИК с ИСКУССТВЕННЫМ ИНТЕЛЛЕКТОМ
+
+Приобретя BIT Lite с Windows 11 Home вы получите готовый к работе ноутбук, сразу из коробки. Никаких забот о поиске и установке лицензированной операционной системы + экономия значительных средств на покупке Windows 11.
+
+Лицензированная версия Windows 11 предлагает вам доступ к собственному Искусственному Интеллекту через помощника Copilot. Расширяйте свои возможности в работе, творчестве, обучении вместе с Pixus BIT Lite и ШИ: создавайте новые изображения, продукты, спрашивайте советы, обсуждайте идеи или ставьте прямые команды в приложениях Microsoft через Copilot!
+
+
+ПОЛНАЯ СВОБОДА!
+ПОДЗАРАДКА НОУТБУКА ЧЕРЕЗ Power Bank
+
+Pixus BIT Lite – идеальный помощник в поездке или командировке. Благодаря компактному размеру ноутбук очень удобно брать с собой куда угодно, а полнофункциональный разъем Type-C поддерживает зарядку от power bank. Это позволит вам работать, просматривать любимые сериалы или учиться много часов подряд в пути, без забот о разрядке ноутбука! Не теряйте время вместе с Pixus BIT Lite.
+
+Для гарантированной стабильной подзарядки вам нужен: power bank с поддержкой протокола Power Delivery, мощностью от 45 Ватт на выходе Type-C по профилям 12, 15, 20 Вольт, а также кабель Type-C – Type-C (мощность от 45 Ватт).
+
+Также разъем Type-C поддерживает скоростную передачу данных и подключение периферийных устройств, вывод изображения в качестве 4К.   ЕРГОНОМИЧЕСКИЙ ДИЗАЙН для РАБОТЫ и ОТДЫХА
+
+Pixus BIT Lite имеет продуманный, технологичный дизайн, который подарит вам максимальный комфорт при работе с ноутбуком! В компактном размере 14-дюймового ноутбука вы получите полноразмерную клавиатуру с дополнительным цифровым блоком справа, для более удобной работы с цифрами в бухгалтерских, учетных, складских, логистических и других приложениях.   Помимо хороших характеристик по доступной цене ноутбук Pixus BIT Lite имеет большой набор функциональных разъемов по бокам: разъем Mini HDMI (для подключения дисплея или телевизора); TF-CARD слот; USB 3.2 x2; полнофункциональный разъем Type-C; комбинированный разъем 3,5 мм для наушников и микрофона.   Еще одним преимуществом BIT Lite является «шторка приватности» на передней камере ноутбука. Вы легко сможете открывать или закрывать фронтальную камеру, больше никаких наклеек и заклеиваний синей лентой. Только стильный вид и полная конфиденциальность. 
+
+ КОМПАКТНЫЙ РАЗМЕР
+
+Ноутбук Pixus BIT Lite создан для людей, которые постоянно в движении и им нужен компактный, надежный помощник для работы, и персонального развития. Размер ноутбука составляет всего: 32×21 см – это чуть больше листа А4, поэтому ноутбук BIT Lite легко помещается даже в небольшие сумки или рюкзаки. Офис, кафе, ожидающий зал, столик в вагоне – в любом месте вы всегда сможете поставить ноутбук Pixus BIT Lite и с комфортом работать.</description>
+    <description_ua>PIXUS BIT Lite – ДОСТУПНИЙ НОУТБУК 
+З КОМПАКТНИМ FULL HD ДИСПЛЕЄМ
+
+Pixus BIT Lite – новий, компактний ноутбук з неймовірним дисплеєм. Ноутбук BIT Lite обладнаний яскравим Full HD IPS дисплеєм з діагоналлю 14.1 дюймів та роздільною здатністю 1920x1080 px. Такі характеристики – це найкраще поєднання для тих, кому потрібен якісний дисплей та компактний розмір! Працюйте, відпочивайте та навчайтесь без втоми для очей завдяки Full HD та матовому покриттю екрана!
+
+IPS матриця забезпечує відтворення насичених та природних кольорів на екрані ноутбука, в порівнянні з застарілою TN матрицею, разом з ноутбуком BIT Lite та IPS матрицею ви отримаєте дійсно яскраве та насичене зображення.
+
+Ще однією важливою перевагою ноутбука Pixus BIT Lite є матове покриття екрана, яке захищає зображення від світлових відблисків та зменшує навантаження на очі при тривалій роботі за ноутбуком. 8/256 ГБ ПАМ'ЯТІ + СУЧАСНИЙ ПРОЦЕСОР INTEL
+
+Pixus BIT Lite - ваш ідеальний, компактний помічник на кожен день. Ноутбук має 8 ГБ оперативної пам'яті, M.2 SATA SSD диск на 256 ГБ для зберігання файлів + процесор Intel N5095 з чотирма ядрами та частотою у 2.9 ГГц. З ноутбуком BIT Lite ви зможете швидко та без зависань працювати в SketchUP (об'ємне 3D моделювання),  BAS\BAF бухгалтерія,  GIMP дизайн, та повним пакетом програм Microsoft Office. Навчайтесь, працюйте, розважайтесь будь-де разом з Pixus BIT Lite.
+
+Додатково ви легко можете "прокачати" ноутбук BIT Lite збільшивши оперативну пам'ять до 16 ГБ, вбудовану аж до 4 ТБ! WINDOWS 11 Home та ПОМІЧНИК З ШТУЧНИМ ІНТЕЛЕКТОМ
+
+Придбавши BIT Lite з Windows 11 Home ви отримаєте готовий до роботи ноутбук, одразу з коробки. Жодних турбот про пошук та встановлення ліцензованої операційної системи + економія значних коштів на покупці  Windows 11. 
+
+Ліцензована версія Windows 11 пропонує вам доступ до власного Штучного інтелекту через помічник Copilot. Розширюйте свої можливості в роботі, творчості та навчанні разом з Pixus BIT Lite та ШІ: створюйте нові зображення або продукти, питайте поради, обговорюйте ідеї  чи ставте прямі команди в додатках Microsoft через Copilot!
+
+
+ПОВНА СВОБОДА!
+ПІДЗАРЯДКА НОУТБУКА ЧЕРЕЗ Power Bank Pixus BIT Lite - ідеальний помічник в поїздці або відрядженні. Завдяки компактному розміру, ноутбук дуже зручно брати з собою куди завгодно, а повнофункціональний роз’єм  Type-C - підтримує зарядку від power bank. Це дозволить вам працювати, переглядати улюблені серіали чи навчатись багато годин підряд в дорозі, без турбот про розрядку ноутбука! Не втрачайте час разом з Pixus BIT Lite.
+
+Для гарантованої стабільної підзарядки вам потрібен: power bank з підтримкою протоколу Power Delivery, потужністю від 45 Ват на виході Type-C за профілями 12, 15, 20 Вольт, а також кабель Type-C – Type-C (потужність від 45 Ват).
+
+Також роз’єм Type-C підтримує швидкісну передачу даних та підключення периферійних пристроїв,  виведення зображення в якості 4К. ЕРГОНОМІЧНИЙ ДИЗАЙН 
+для РОБОТИ та ВІДПОЧИНКУ
+
+Pixus BIT Lite має продуманий, технологічний дизайн, який подарує вам максимальний комфорт при роботі з ноутбуком! В компактному розмірі 14 дюймового ноутбука ви отримаєте повнорозмірну клавіатуру з додатковим цифровим блоком праворуч, для більш зручної роботи з цифрами у бухгалтерських, облікових, складських, логістичних та інших застосунках.
+
+Крім хороших характеристик за доступну ціну, ноутбук Pixus BIT Lite має великий набір функціональних роз’ємів по боках: роз’єм Mini HDMI (для підключення дисплея або телевізора); TF-CARD слот; USB 3.2 x 2; повнофункціональний роз’єм Type-C; комбінований роз’єм 3.5 мм для навушників та мікрофону.
+
+Ще однією перевагою BIT Lite є «шторка приватності» на фронтальній камері ноутбука. Ви легко зможете відкривати або закривати фронтальну камеру, більше жодних наліпок та заклеювань синьою ізострічкою. Лише стильний вигляд та повна приватність.
+
+КОМПАКТНИЙ РОЗМІР 
+
+Ноутбук Pixus BIT Lite створений для людей, які постійно в русі і їм потрібен компактний, надійний помічник для роботи та персонального розвитку. Розмір ноутбука складає всього: 32 × 21 см – це трохи більше листа А4, тому ноутбук BIT Lite легко розміщується навіть в невеликі сумки або рюкзак. 
+Офіс, кафе, зал очікування, столик у вагоні – в будь-якому місці ви завжди зможете поставити ноутбук Pixus BIT Lite та з комфортом працювати. </description_ua>
+    <quantity_in_stock>100</quantity_in_stock>
+    <keywords>Ноутбук Pixus Bit lite (4897058532142)</keywords>
+    <keywords_ua>Ноутбук Pixus Bit lite (4897058532142)</keywords_ua>
+    <param name="Вес" unit="кг">1.36</param>
+    <param name="Количество ядер процессора">4</param>
+    <param name="Тип матрицы">IPS</param>
+    <param name="Тип оперативной памяти">DDR4</param>
+    <param name="Частота обновления экрана" unit="Гц">60</param>
+    <param name="Ширина" unit="мм">322.7</param>
+    <param name="Состояние">Новое</param>
+    <param name="Тип">Ноутбук</param>
+    <param name="Предустановленная ОС">Windows 11</param>
+    <param name="Артикул" unit="">4897058532142</param>
+    <param name="Беспроводные технологии" unit="">Bluetooth 5.0, Wi-Fi</param>
+    <param name="Веб-камера" unit="">2 МП</param>
+    <param name="Видеокарта" unit="">Intel UHD Graphics</param>
+    <param name="Высота" unit="">18.9 мм</param>
+    <param name="Гарантия, мес" unit="">12</param>
+    <param name="Глубина" unit="">208.5 мм</param>
+    <param name="Диагональ дисплея" unit="">14.1&amp;quot;</param>
+    <param name="Дополнительные возможности" unit="">встроенный микрофон, стереодинамики</param>
+    <param name="Емкость аккумулятора" unit="">38 Втч</param>
+    <param name="Интерфейсы и подключения" unit="">USB Type-C, Комбинированный аудиоразъем, miniHDMI, 2 х USB 3.2</param>
+    <param name="Кардридер" unit="">Card-reader</param>
+    <param name="Количество слотов M.2" unit="">1</param>
+    <param name="Количество слотов для оперативной памяти" unit="">1</param>
+    <param name="Мoдель" unit="">Bit lite</param>
+    <param name="Объем SSD" unit="">256 ГБ</param>
+    <param name="Объем оперативной памяти" unit="">8 ГБ</param>
+    <param name="Операционная система" unit="">Windows 11 Home</param>
+    <param name="Особенности" unit="">украинская клавиатура</param>
+    <param name="Поверхность экрана" unit="">матовая</param>
+    <param name="Поколение процессора Intel" unit="">11-th generation</param>
+    <param name="Процессор" unit="">Intel Celeron N5095 (2.0 ГГц)</param>
+    <param name="Разрешение" unit="">1920х1080 (FullHD)</param>
+    <param name="Серия (модельный ряд)" unit="">Pixus Bit</param>
+    <param name="Страна производства" unit="">Китай</param>
+    <param name="Также ищут" unit="">до 10 000 грн, 2025 року, до 30 000 грн, до 25 000 грн, до 20 000 грн, ультрабуки, с SSD-диском, на Windows, для студента, дешевые, бюджетные</param>
+    <param name="Тип видеокарты" unit="">интегрированная</param>
+    <param name="Тип ноутбука" unit="">для работы и учебы</param>
+    <param name="Типы внутренних накопителей" unit="">SSD</param>
+    <param name="Цвет" unit="">Антрацит</param>
+  </offer>
+  <offer id="amp-3015-5" available="true">
+    <url>https://cs3879995.prom.ua/p2987831085-noutbuk-lenovo-v15.html</url>
+    <price>33402</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>152427008</categoryId>
+    <picture>https://images.prom.ua/7179706889_noutbuk-lenovo-v15.jpg</picture>
+    <picture>https://images.prom.ua/7179706890_noutbuk-lenovo-v15.jpg</picture>
+    <picture>https://images.prom.ua/7179706891_noutbuk-lenovo-v15.jpg</picture>
+    <picture>https://images.prom.ua/7179706892_noutbuk-lenovo-v15.jpg</picture>
+    <picture>https://images.prom.ua/7179706894_noutbuk-lenovo-v15.jpg</picture>
+    <picture>https://images.prom.ua/7179706895_noutbuk-lenovo-v15.jpg</picture>
+    <picture>https://images.prom.ua/7179706897_noutbuk-lenovo-v15.jpg</picture>
+    <picture>https://images.prom.ua/7179706898_noutbuk-lenovo-v15.jpg</picture>
+    <picture>https://images.prom.ua/7179706899_noutbuk-lenovo-v15.jpg</picture>
+    <pickup>false</pickup>
+    <delivery>true</delivery>
+    <name>Ноутбук Lenovo V15 G4 IRU (83A100Q4RA)</name>
+    <name_ua>Ноутбук Lenovo V15 G4 IRU (83A100Q4RA)</name_ua>
+    <vendor>Lenovo</vendor>
+    <vendorCode>855626-01</vendorCode>
+    <description>Lenovo V15 G4 – ноутбук в сдержанном дизайне, разработанный для ведения бизнеса и решения рабочих задач. Выполнен в достаточно компактных размерах и вес всего 1.65 кг, поэтому его легко можно брать с собой на рабочие встречи или в командировку.Устройство поможет решить сложные  задачи, а со сбалансированной начинкой позволит реализовать масштабные проекты .Центральный процессор представлен  Intel Core i3-1315U ,  который демонстрирует хорошую энергоэффективность и скорость обработки данных. В аппаратной конфигурации модели также имеется  SSD-диск , работа которого заключается в записи и хранении информации. Lenovo V15 обладает широким набором интерфейсов для подключения всех необходимых устройств.Ноутбук прошел множество тестирований и имеет сертификат MIL-STD-810H, подтверждающий его готовность к работе в разных условиях. Крышка способна открываться на 180 градусов, предлагая наиболее удобное положение для работы, а эргономичная клавиатура упростит работу с текстом.</description>
+    <description_ua>Lenovo V15 G4 — ноутбук у стриманому дизайні, розроблений для ведення бізнесу та вирішення робочих завдань. Виконаний у досить компактних розмірах та має вагу всього 1.65 кг, тому його легко можна брати з собою на робочі зустрічі чи у відрядження.Пристрій допоможе розв'язувати складні задачі, а зі збалансованою начинкою дасть змогу реалізувати масштабні проєкти. Оснащення екраном 15.6" дюймів спростить роботу з презентаціями, мультимедійним контентом, діаграмами, адже надає більше площі для відтворення інформації. Центральний процесор представлений Intel Core i3-1315U, який демонструє хорошу енергоефективність і швидкість в обробці даних. У апаратній конфігурації моделі також наявний SSD-диск, робота якого полягає у записі та збереженні інформації. Lenovo V15 має широкий набір інтерфейсів для підключення всіх необхідних пристроїв. Також передбачено вбудований модуль Bluetooth 5.1 для бездротових пристроїв, роз'єм RJ-45 та адаптер Wi-Fi 11ac для під'єднання до мережі інтернет.Ноутбук пройшов безліч тестувань та має сертифікат MIL-STD-810H, який підтверджує його готовність до роботи в різних умовах. Кришка здатна відкриватися на 180 градусів, пропонуючи найбільш зручне положення для роботи, а ергономічна клавіатура спростить роботу з текстом.</description_ua>
+    <quantity_in_stock>100</quantity_in_stock>
+    <keywords>Ноутбук Lenovo V15 G4 IRU (83A100Q4RA)</keywords>
+    <keywords_ua>Ноутбук Lenovo V15 G4 IRU (83A100Q4RA)</keywords_ua>
+    <param name="Вес" unit="кг">1.7</param>
+    <param name="Количество ядер процессора">6</param>
+    <param name="Тип матрицы">IPS</param>
+    <param name="Тип накопителя">SSD</param>
+    <param name="Тип оперативной памяти">DDR4</param>
+    <param name="Цвет">Черный</param>
+    <param name="Частота обновления экрана" unit="Гц">60</param>
+    <param name="Ширина" unit="мм">359.2</param>
+    <param name="Тип">Ноутбук</param>
+    <param name="Тип процессора">Core i3</param>
+    <param name="Артикул" unit="">83A100Q4RA</param>
+    <param name="Беспроводные технологии" unit="">Bluetooth, Wi-Fi</param>
+    <param name="Веб-камера" unit="">WEB-Camera</param>
+    <param name="Видеокарта" unit="">Intel UHD Graphics</param>
+    <param name="Высота" unit="">19.9 мм</param>
+    <param name="Гарантия, мес" unit="">36</param>
+    <param name="Глубина" unit="">235.8 мм</param>
+    <param name="Диагональ дисплея" unit="">15.6&amp;quot;</param>
+    <param name="Дополнительные возможности" unit="">встроенный микрофон, стереодинамики</param>
+    <param name="Емкость аккумулятора" unit="">39 Втч</param>
+    <param name="Емкость батареи" unit="">3 cell</param>
+    <param name="Интерфейсы и подключения" unit="">LAN (RJ-45), Комбинированный аудиоразъем, HDMI, USB 3.2 Type-C, USB 2.0, 1 х USB 3.2</param>
+    <param name="Количество отсеков 2.5&amp;quot; SATA для HDD/SSD" unit="">1</param>
+    <param name="Количество слотов M.2" unit="">1</param>
+    <param name="Количество слотов для оперативной памяти" unit="">1</param>
+    <param name="Мoдель" unit="">V15 G4 IRU</param>
+    <param name="Объем SSD" unit="">512 ГБ</param>
+    <param name="Объем оперативной памяти" unit="">16 ГБ</param>
+    <param name="Операционная система" unit="">без операционной системы</param>
+    <param name="Особенности" unit="">TPM модуль</param>
+    <param name="Поверхность экрана" unit="">матовая</param>
+    <param name="Поколение процессора Intel" unit="">13-е поколение</param>
+    <param name="Процессор" unit="">Intel Core i3-1315U (3.3 - 4.5 ГГц)</param>
+    <param name="Разрешение" unit="">1920х1080 (FullHD)</param>
+    <param name="Серия (модельный ряд)" unit="">Lenovo V</param>
+    <param name="Сетевой адаптер" unit="">Gigabit Ethernet</param>
+    <param name="Стандарт интерфейса SSD M.2" unit="">PCI Express 4.0x4</param>
+    <param name="Страна производства" unit="">Китай</param>
+    <param name="Также ищут" unit="">ультрабуки, для графического дизайна, до 50000 грн, до 40000 грн, 2024 года, до 30 000 грн, с большим объемом памяти, с SSD-диском, для подростков, для дома</param>
+    <param name="Тип видеокарты" unit="">интегрированная</param>
+    <param name="Тип ноутбука" unit="">для работы</param>
+  </offer>
+  <offer id="amp-3015-6" available="true">
+    <url>https://cs3879995.prom.ua/p2987831085-noutbuk-lenovo-v15.html</url>
+    <price>33402</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>152427008</categoryId>
+    <picture>https://images.prom.ua/7179706889_noutbuk-lenovo-v15.jpg</picture>
+    <picture>https://images.prom.ua/7179706890_noutbuk-lenovo-v15.jpg</picture>
+    <picture>https://images.prom.ua/7179706891_noutbuk-lenovo-v15.jpg</picture>
+    <picture>https://images.prom.ua/7179706892_noutbuk-lenovo-v15.jpg</picture>
+    <picture>https://images.prom.ua/7179706894_noutbuk-lenovo-v15.jpg</picture>
+    <picture>https://images.prom.ua/7179706895_noutbuk-lenovo-v15.jpg</picture>
+    <picture>https://images.prom.ua/7179706897_noutbuk-lenovo-v15.jpg</picture>
+    <picture>https://images.prom.ua/7179706898_noutbuk-lenovo-v15.jpg</picture>
+    <picture>https://images.prom.ua/7179706899_noutbuk-lenovo-v15.jpg</picture>
+    <pickup>false</pickup>
+    <delivery>true</delivery>
+    <name>Ноутбук Lenovo V15 G4 IRU (83A100Q4RA)</name>
+    <name_ua>Ноутбук Lenovo V15 G4 IRU (83A100Q4RA)</name_ua>
+    <vendor>Lenovo</vendor>
+    <vendorCode>855626-01</vendorCode>
+    <description>Lenovo V15 G4 – ноутбук в сдержанном дизайне, разработанный для ведения бизнеса и решения рабочих задач. Выполнен в достаточно компактных размерах и вес всего 1.65 кг, поэтому его легко можно брать с собой на рабочие встречи или в командировку.Устройство поможет решить сложные  задачи, а со сбалансированной начинкой позволит реализовать масштабные проекты .Центральный процессор представлен  Intel Core i3-1315U ,  который демонстрирует хорошую энергоэффективность и скорость обработки данных. В аппаратной конфигурации модели также имеется  SSD-диск , работа которого заключается в записи и хранении информации. Lenovo V15 обладает широким набором интерфейсов для подключения всех необходимых устройств.Ноутбук прошел множество тестирований и имеет сертификат MIL-STD-810H, подтверждающий его готовность к работе в разных условиях. Крышка способна открываться на 180 градусов, предлагая наиболее удобное положение для работы, а эргономичная клавиатура упростит работу с текстом.</description>
+    <description_ua>Lenovo V15 G4 — ноутбук у стриманому дизайні, розроблений для ведення бізнесу та вирішення робочих завдань. Виконаний у досить компактних розмірах та має вагу всього 1.65 кг, тому його легко можна брати з собою на робочі зустрічі чи у відрядження.Пристрій допоможе розв'язувати складні задачі, а зі збалансованою начинкою дасть змогу реалізувати масштабні проєкти. Оснащення екраном 15.6" дюймів спростить роботу з презентаціями, мультимедійним контентом, діаграмами, адже надає більше площі для відтворення інформації. Центральний процесор представлений Intel Core i3-1315U, який демонструє хорошу енергоефективність і швидкість в обробці даних. У апаратній конфігурації моделі також наявний SSD-диск, робота якого полягає у записі та збереженні інформації. Lenovo V15 має широкий набір інтерфейсів для підключення всіх необхідних пристроїв. Також передбачено вбудований модуль Bluetooth 5.1 для бездротових пристроїв, роз'єм RJ-45 та адаптер Wi-Fi 11ac для під'єднання до мережі інтернет.Ноутбук пройшов безліч тестувань та має сертифікат MIL-STD-810H, який підтверджує його готовність до роботи в різних умовах. Кришка здатна відкриватися на 180 градусів, пропонуючи найбільш зручне положення для роботи, а ергономічна клавіатура спростить роботу з текстом.</description_ua>
+    <quantity_in_stock>100</quantity_in_stock>
+    <keywords>Ноутбук Lenovo V15 G4 IRU (83A100Q4RA)</keywords>
+    <keywords_ua>Ноутбук Lenovo V15 G4 IRU (83A100Q4RA)</keywords_ua>
+    <param name="Вес" unit="кг">1.7</param>
+    <param name="Количество ядер процессора">6</param>
+    <param name="Тип матрицы">IPS</param>
+    <param name="Тип накопителя">SSD</param>
+    <param name="Тип оперативной памяти">DDR4</param>
+    <param name="Цвет">Черный</param>
+    <param name="Частота обновления экрана" unit="Гц">60</param>
+    <param name="Ширина" unit="мм">359.2</param>
+    <param name="Тип">Ноутбук</param>
+    <param name="Тип процессора">Core i3</param>
+    <param name="Артикул" unit="">83A100Q4RA</param>
+    <param name="Беспроводные технологии" unit="">Bluetooth, Wi-Fi</param>
+    <param name="Веб-камера" unit="">WEB-Camera</param>
+    <param name="Видеокарта" unit="">Intel UHD Graphics</param>
+    <param name="Высота" unit="">19.9 мм</param>
+    <param name="Гарантия, мес" unit="">36</param>
+    <param name="Глубина" unit="">235.8 мм</param>
+    <param name="Диагональ дисплея" unit="">15.6&amp;quot;</param>
+    <param name="Дополнительные возможности" unit="">встроенный микрофон, стереодинамики</param>
+    <param name="Емкость аккумулятора" unit="">40 Втч</param>
+    <param name="Емкость батареи" unit="">3 cell</param>
+    <param name="Интерфейсы и подключения" unit="">LAN (RJ-45), Комбинированный аудиоразъем, HDMI, USB 3.2 Type-C, USB 2.0, 1 х USB 3.2</param>
+    <param name="Количество отсеков 2.5&amp;quot; SATA для HDD/SSD" unit="">1</param>
+    <param name="Количество слотов M.2" unit="">1</param>
+    <param name="Количество слотов для оперативной памяти" unit="">1</param>
+    <param name="Мoдель" unit="">V15 G4 IRU</param>
+    <param name="Объем SSD" unit="">512 ГБ</param>
+    <param name="Объем оперативной памяти" unit="">16 ГБ</param>
+    <param name="Операционная система" unit="">без операционной системы</param>
+    <param name="Особенности" unit="">TPM модуль</param>
+    <param name="Поверхность экрана" unit="">матовая</param>
+    <param name="Поколение процессора Intel" unit="">13-е поколение</param>
+    <param name="Процессор" unit="">Intel Core i3-1315U (3.3 - 4.5 ГГц)</param>
+    <param name="Разрешение" unit="">1920х1080 (FullHD)</param>
+    <param name="Серия (модельный ряд)" unit="">Lenovo V</param>
+    <param name="Сетевой адаптер" unit="">Gigabit Ethernet</param>
+    <param name="Стандарт интерфейса SSD M.2" unit="">PCI Express 4.0x4</param>
+    <param name="Страна производства" unit="">Китай</param>
+    <param name="Также ищут" unit="">ультрабуки, для графического дизайна, до 50000 грн, до 40000 грн, 2024 года, до 30 000 грн, с большим объемом памяти, с SSD-диском, для подростков, для дома</param>
+    <param name="Тип видеокарты" unit="">интегрированная</param>
+    <param name="Тип ноутбука" unit="">для работы</param>
+  </offer>
+  <offer id="amp-3015-7" available="true">
+    <url>https://cs3879995.prom.ua/p2987831085-noutbuk-lenovo-v15.html</url>
+    <price>33402</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>152427008</categoryId>
+    <picture>https://images.prom.ua/7179706889_noutbuk-lenovo-v15.jpg</picture>
+    <picture>https://images.prom.ua/7179706890_noutbuk-lenovo-v15.jpg</picture>
+    <picture>https://images.prom.ua/7179706891_noutbuk-lenovo-v15.jpg</picture>
+    <picture>https://images.prom.ua/7179706892_noutbuk-lenovo-v15.jpg</picture>
+    <picture>https://images.prom.ua/7179706894_noutbuk-lenovo-v15.jpg</picture>
+    <picture>https://images.prom.ua/7179706895_noutbuk-lenovo-v15.jpg</picture>
+    <picture>https://images.prom.ua/7179706897_noutbuk-lenovo-v15.jpg</picture>
+    <picture>https://images.prom.ua/7179706898_noutbuk-lenovo-v15.jpg</picture>
+    <picture>https://images.prom.ua/7179706899_noutbuk-lenovo-v15.jpg</picture>
+    <pickup>false</pickup>
+    <delivery>true</delivery>
+    <name>Ноутбук Lenovo V15 G4 IRU (83A100Q4RA)</name>
+    <name_ua>Ноутбук Lenovo V15 G4 IRU (83A100Q4RA)</name_ua>
+    <vendor>Lenovo</vendor>
+    <vendorCode>855626-01</vendorCode>
+    <description>Lenovo V15 G4 – ноутбук в сдержанном дизайне, разработанный для ведения бизнеса и решения рабочих задач. Выполнен в достаточно компактных размерах и вес всего 1.65 кг, поэтому его легко можно брать с собой на рабочие встречи или в командировку.Устройство поможет решить сложные  задачи, а со сбалансированной начинкой позволит реализовать масштабные проекты .Центральный процессор представлен  Intel Core i3-1315U ,  который демонстрирует хорошую энергоэффективность и скорость обработки данных. В аппаратной конфигурации модели также имеется  SSD-диск , работа которого заключается в записи и хранении информации. Lenovo V15 обладает широким набором интерфейсов для подключения всех необходимых устройств.Ноутбук прошел множество тестирований и имеет сертификат MIL-STD-810H, подтверждающий его готовность к работе в разных условиях. Крышка способна открываться на 180 градусов, предлагая наиболее удобное положение для работы, а эргономичная клавиатура упростит работу с текстом.</description>
+    <description_ua>Lenovo V15 G4 — ноутбук у стриманому дизайні, розроблений для ведення бізнесу та вирішення робочих завдань. Виконаний у досить компактних розмірах та має вагу всього 1.65 кг, тому його легко можна брати з собою на робочі зустрічі чи у відрядження.Пристрій допоможе розв'язувати складні задачі, а зі збалансованою начинкою дасть змогу реалізувати масштабні проєкти. Оснащення екраном 15.6" дюймів спростить роботу з презентаціями, мультимедійним контентом, діаграмами, адже надає більше площі для відтворення інформації. Центральний процесор представлений Intel Core i3-1315U, який демонструє хорошу енергоефективність і швидкість в обробці даних. У апаратній конфігурації моделі також наявний SSD-диск, робота якого полягає у записі та збереженні інформації. Lenovo V15 має широкий набір інтерфейсів для підключення всіх необхідних пристроїв. Також передбачено вбудований модуль Bluetooth 5.1 для бездротових пристроїв, роз'єм RJ-45 та адаптер Wi-Fi 11ac для під'єднання до мережі інтернет.Ноутбук пройшов безліч тестувань та має сертифікат MIL-STD-810H, який підтверджує його готовність до роботи в різних умовах. Кришка здатна відкриватися на 180 градусів, пропонуючи найбільш зручне положення для роботи, а ергономічна клавіатура спростить роботу з текстом.</description_ua>
+    <quantity_in_stock>100</quantity_in_stock>
+    <keywords>Ноутбук Lenovo V15 G4 IRU (83A100Q4RA)</keywords>
+    <keywords_ua>Ноутбук Lenovo V15 G4 IRU (83A100Q4RA)</keywords_ua>
+    <param name="Вес" unit="кг">1.7</param>
+    <param name="Количество ядер процессора">6</param>
+    <param name="Тип матрицы">IPS</param>
+    <param name="Тип накопителя">SSD</param>
+    <param name="Тип оперативной памяти">DDR4</param>
+    <param name="Цвет">Черный</param>
+    <param name="Частота обновления экрана" unit="Гц">60</param>
+    <param name="Ширина" unit="мм">359.2</param>
+    <param name="Тип">Ноутбук</param>
+    <param name="Тип процессора">Core i3</param>
+    <param name="Артикул" unit="">83A100Q4RA</param>
+    <param name="Беспроводные технологии" unit="">Bluetooth, Wi-Fi</param>
+    <param name="Веб-камера" unit="">WEB-Camera</param>
+    <param name="Видеокарта" unit="">Intel UHD Graphics</param>
+    <param name="Высота" unit="">19.9 мм</param>
+    <param name="Гарантия, мес" unit="">36</param>
+    <param name="Глубина" unit="">235.8 мм</param>
+    <param name="Диагональ дисплея" unit="">15.6&amp;quot;</param>
+    <param name="Дополнительные возможности" unit="">встроенный микрофон, стереодинамики</param>
+    <param name="Емкость аккумулятора" unit="">41 Втч</param>
+    <param name="Емкость батареи" unit="">3 cell</param>
+    <param name="Интерфейсы и подключения" unit="">LAN (RJ-45), Комбинированный аудиоразъем, HDMI, USB 3.2 Type-C, USB 2.0, 1 х USB 3.2</param>
+    <param name="Количество отсеков 2.5&amp;quot; SATA для HDD/SSD" unit="">1</param>
+    <param name="Количество слотов M.2" unit="">1</param>
+    <param name="Количество слотов для оперативной памяти" unit="">1</param>
+    <param name="Мoдель" unit="">V15 G4 IRU</param>
+    <param name="Объем SSD" unit="">512 ГБ</param>
+    <param name="Объем оперативной памяти" unit="">16 ГБ</param>
+    <param name="Операционная система" unit="">без операционной системы</param>
+    <param name="Особенности" unit="">TPM модуль</param>
+    <param name="Поверхность экрана" unit="">матовая</param>
+    <param name="Поколение процессора Intel" unit="">13-е поколение</param>
+    <param name="Процессор" unit="">Intel Core i3-1315U (3.3 - 4.5 ГГц)</param>
+    <param name="Разрешение" unit="">1920х1080 (FullHD)</param>
+    <param name="Серия (модельный ряд)" unit="">Lenovo V</param>
+    <param name="Сетевой адаптер" unit="">Gigabit Ethernet</param>
+    <param name="Стандарт интерфейса SSD M.2" unit="">PCI Express 4.0x4</param>
+    <param name="Страна производства" unit="">Китай</param>
+    <param name="Также ищут" unit="">ультрабуки, для графического дизайна, до 50000 грн, до 40000 грн, 2024 года, до 30 000 грн, с большим объемом памяти, с SSD-диском, для подростков, для дома</param>
+    <param name="Тип видеокарты" unit="">интегрированная</param>
+    <param name="Тип ноутбука" unit="">для работы</param>
+  </offer>
+  <offer id="amp-3015-8" available="true">
+    <url>https://cs3879995.prom.ua/p2987831085-noutbuk-lenovo-v15.html</url>
+    <price>33402</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>152427008</categoryId>
+    <picture>https://images.prom.ua/7179706889_noutbuk-lenovo-v15.jpg</picture>
+    <picture>https://images.prom.ua/7179706890_noutbuk-lenovo-v15.jpg</picture>
+    <picture>https://images.prom.ua/7179706891_noutbuk-lenovo-v15.jpg</picture>
+    <picture>https://images.prom.ua/7179706892_noutbuk-lenovo-v15.jpg</picture>
+    <picture>https://images.prom.ua/7179706894_noutbuk-lenovo-v15.jpg</picture>
+    <picture>https://images.prom.ua/7179706895_noutbuk-lenovo-v15.jpg</picture>
+    <picture>https://images.prom.ua/7179706897_noutbuk-lenovo-v15.jpg</picture>
+    <picture>https://images.prom.ua/7179706898_noutbuk-lenovo-v15.jpg</picture>
+    <picture>https://images.prom.ua/7179706899_noutbuk-lenovo-v15.jpg</picture>
+    <pickup>false</pickup>
+    <delivery>true</delivery>
+    <name>Ноутбук Lenovo V15 G4 IRU (83A100Q4RA)</name>
+    <name_ua>Ноутбук Lenovo V15 G4 IRU (83A100Q4RA)</name_ua>
+    <vendor>Lenovo</vendor>
+    <vendorCode>855626-01</vendorCode>
+    <description>Lenovo V15 G4 – ноутбук в сдержанном дизайне, разработанный для ведения бизнеса и решения рабочих задач. Выполнен в достаточно компактных размерах и вес всего 1.65 кг, поэтому его легко можно брать с собой на рабочие встречи или в командировку.Устройство поможет решить сложные  задачи, а со сбалансированной начинкой позволит реализовать масштабные проекты .Центральный процессор представлен  Intel Core i3-1315U ,  который демонстрирует хорошую энергоэффективность и скорость обработки данных. В аппаратной конфигурации модели также имеется  SSD-диск , работа которого заключается в записи и хранении информации. Lenovo V15 обладает широким набором интерфейсов для подключения всех необходимых устройств.Ноутбук прошел множество тестирований и имеет сертификат MIL-STD-810H, подтверждающий его готовность к работе в разных условиях. Крышка способна открываться на 180 градусов, предлагая наиболее удобное положение для работы, а эргономичная клавиатура упростит работу с текстом.</description>
+    <description_ua>Lenovo V15 G4 — ноутбук у стриманому дизайні, розроблений для ведення бізнесу та вирішення робочих завдань. Виконаний у досить компактних розмірах та має вагу всього 1.65 кг, тому його легко можна брати з собою на робочі зустрічі чи у відрядження.Пристрій допоможе розв'язувати складні задачі, а зі збалансованою начинкою дасть змогу реалізувати масштабні проєкти. Оснащення екраном 15.6" дюймів спростить роботу з презентаціями, мультимедійним контентом, діаграмами, адже надає більше площі для відтворення інформації. Центральний процесор представлений Intel Core i3-1315U, який демонструє хорошу енергоефективність і швидкість в обробці даних. У апаратній конфігурації моделі також наявний SSD-диск, робота якого полягає у записі та збереженні інформації. Lenovo V15 має широкий набір інтерфейсів для підключення всіх необхідних пристроїв. Також передбачено вбудований модуль Bluetooth 5.1 для бездротових пристроїв, роз'єм RJ-45 та адаптер Wi-Fi 11ac для під'єднання до мережі інтернет.Ноутбук пройшов безліч тестувань та має сертифікат MIL-STD-810H, який підтверджує його готовність до роботи в різних умовах. Кришка здатна відкриватися на 180 градусів, пропонуючи найбільш зручне положення для роботи, а ергономічна клавіатура спростить роботу з текстом.</description_ua>
+    <quantity_in_stock>100</quantity_in_stock>
+    <keywords>Ноутбук Lenovo V15 G4 IRU (83A100Q4RA)</keywords>
+    <keywords_ua>Ноутбук Lenovo V15 G4 IRU (83A100Q4RA)</keywords_ua>
+    <param name="Вес" unit="кг">1.7</param>
+    <param name="Количество ядер процессора">6</param>
+    <param name="Тип матрицы">IPS</param>
+    <param name="Тип накопителя">SSD</param>
+    <param name="Тип оперативной памяти">DDR4</param>
+    <param name="Цвет">Черный</param>
+    <param name="Частота обновления экрана" unit="Гц">60</param>
+    <param name="Ширина" unit="мм">359.2</param>
+    <param name="Тип">Ноутбук</param>
+    <param name="Тип процессора">Core i3</param>
+    <param name="Артикул" unit="">83A100Q4RA</param>
+    <param name="Беспроводные технологии" unit="">Bluetooth, Wi-Fi</param>
+    <param name="Веб-камера" unit="">WEB-Camera</param>
+    <param name="Видеокарта" unit="">Intel UHD Graphics</param>
+    <param name="Высота" unit="">19.9 мм</param>
+    <param name="Гарантия, мес" unit="">36</param>
+    <param name="Глубина" unit="">235.8 мм</param>
+    <param name="Диагональ дисплея" unit="">15.6&amp;quot;</param>
+    <param name="Дополнительные возможности" unit="">встроенный микрофон, стереодинамики</param>
+    <param name="Емкость аккумулятора" unit="">42 Втч</param>
+    <param name="Емкость батареи" unit="">3 cell</param>
+    <param name="Интерфейсы и подключения" unit="">LAN (RJ-45), Комбинированный аудиоразъем, HDMI, USB 3.2 Type-C, USB 2.0, 1 х USB 3.2</param>
+    <param name="Количество отсеков 2.5&amp;quot; SATA для HDD/SSD" unit="">1</param>
+    <param name="Количество слотов M.2" unit="">1</param>
+    <param name="Количество слотов для оперативной памяти" unit="">1</param>
+    <param name="Мoдель" unit="">V15 G4 IRU</param>
+    <param name="Объем SSD" unit="">512 ГБ</param>
+    <param name="Объем оперативной памяти" unit="">16 ГБ</param>
+    <param name="Операционная система" unit="">без операционной системы</param>
+    <param name="Особенности" unit="">TPM модуль</param>
+    <param name="Поверхность экрана" unit="">матовая</param>
+    <param name="Поколение процессора Intel" unit="">13-е поколение</param>
+    <param name="Процессор" unit="">Intel Core i3-1315U (3.3 - 4.5 ГГц)</param>
+    <param name="Разрешение" unit="">1920х1080 (FullHD)</param>
+    <param name="Серия (модельный ряд)" unit="">Lenovo V</param>
+    <param name="Сетевой адаптер" unit="">Gigabit Ethernet</param>
+    <param name="Стандарт интерфейса SSD M.2" unit="">PCI Express 4.0x4</param>
+    <param name="Страна производства" unit="">Китай</param>
+    <param name="Также ищут" unit="">ультрабуки, для графического дизайна, до 50000 грн, до 40000 грн, 2024 года, до 30 000 грн, с большим объемом памяти, с SSD-диском, для подростков, для дома</param>
+    <param name="Тип видеокарты" unit="">интегрированная</param>
+    <param name="Тип ноутбука" unit="">для работы</param>
+  </offer>
+  <offer id="amp-3015-9" available="true">
+    <url>https://cs3879995.prom.ua/p2987831085-noutbuk-lenovo-v15.html</url>
+    <price>33402</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>152427008</categoryId>
+    <picture>https://images.prom.ua/7179706889_noutbuk-lenovo-v15.jpg</picture>
+    <picture>https://images.prom.ua/7179706890_noutbuk-lenovo-v15.jpg</picture>
+    <picture>https://images.prom.ua/7179706891_noutbuk-lenovo-v15.jpg</picture>
+    <picture>https://images.prom.ua/7179706892_noutbuk-lenovo-v15.jpg</picture>
+    <picture>https://images.prom.ua/7179706894_noutbuk-lenovo-v15.jpg</picture>
+    <picture>https://images.prom.ua/7179706895_noutbuk-lenovo-v15.jpg</picture>
+    <picture>https://images.prom.ua/7179706897_noutbuk-lenovo-v15.jpg</picture>
+    <picture>https://images.prom.ua/7179706898_noutbuk-lenovo-v15.jpg</picture>
+    <picture>https://images.prom.ua/7179706899_noutbuk-lenovo-v15.jpg</picture>
+    <pickup>false</pickup>
+    <delivery>true</delivery>
+    <name>Ноутбук Lenovo V15 G4 IRU (83A100Q4RA)</name>
+    <name_ua>Ноутбук Lenovo V15 G4 IRU (83A100Q4RA)</name_ua>
+    <vendor>Lenovo</vendor>
+    <vendorCode>855626-01</vendorCode>
+    <description>Lenovo V15 G4 – ноутбук в сдержанном дизайне, разработанный для ведения бизнеса и решения рабочих задач. Выполнен в достаточно компактных размерах и вес всего 1.65 кг, поэтому его легко можно брать с собой на рабочие встречи или в командировку.Устройство поможет решить сложные  задачи, а со сбалансированной начинкой позволит реализовать масштабные проекты .Центральный процессор представлен  Intel Core i3-1315U ,  который демонстрирует хорошую энергоэффективность и скорость обработки данных. В аппаратной конфигурации модели также имеется  SSD-диск , работа которого заключается в записи и хранении информации. Lenovo V15 обладает широким набором интерфейсов для подключения всех необходимых устройств.Ноутбук прошел множество тестирований и имеет сертификат MIL-STD-810H, подтверждающий его готовность к работе в разных условиях. Крышка способна открываться на 180 градусов, предлагая наиболее удобное положение для работы, а эргономичная клавиатура упростит работу с текстом.</description>
+    <description_ua>Lenovo V15 G4 — ноутбук у стриманому дизайні, розроблений для ведення бізнесу та вирішення робочих завдань. Виконаний у досить компактних розмірах та має вагу всього 1.65 кг, тому його легко можна брати з собою на робочі зустрічі чи у відрядження.Пристрій допоможе розв'язувати складні задачі, а зі збалансованою начинкою дасть змогу реалізувати масштабні проєкти. Оснащення екраном 15.6" дюймів спростить роботу з презентаціями, мультимедійним контентом, діаграмами, адже надає більше площі для відтворення інформації. Центральний процесор представлений Intel Core i3-1315U, який демонструє хорошу енергоефективність і швидкість в обробці даних. У апаратній конфігурації моделі також наявний SSD-диск, робота якого полягає у записі та збереженні інформації. Lenovo V15 має широкий набір інтерфейсів для підключення всіх необхідних пристроїв. Також передбачено вбудований модуль Bluetooth 5.1 для бездротових пристроїв, роз'єм RJ-45 та адаптер Wi-Fi 11ac для під'єднання до мережі інтернет.Ноутбук пройшов безліч тестувань та має сертифікат MIL-STD-810H, який підтверджує його готовність до роботи в різних умовах. Кришка здатна відкриватися на 180 градусів, пропонуючи найбільш зручне положення для роботи, а ергономічна клавіатура спростить роботу з текстом.</description_ua>
+    <quantity_in_stock>100</quantity_in_stock>
+    <keywords>Ноутбук Lenovo V15 G4 IRU (83A100Q4RA)</keywords>
+    <keywords_ua>Ноутбук Lenovo V15 G4 IRU (83A100Q4RA)</keywords_ua>
+    <param name="Вес" unit="кг">1.7</param>
+    <param name="Количество ядер процессора">6</param>
+    <param name="Тип матрицы">IPS</param>
+    <param name="Тип накопителя">SSD</param>
+    <param name="Тип оперативной памяти">DDR4</param>
+    <param name="Цвет">Черный</param>
+    <param name="Частота обновления экрана" unit="Гц">60</param>
+    <param name="Ширина" unit="мм">359.2</param>
+    <param name="Тип">Ноутбук</param>
+    <param name="Тип процессора">Core i3</param>
+    <param name="Артикул" unit="">83A100Q4RA</param>
+    <param name="Беспроводные технологии" unit="">Bluetooth, Wi-Fi</param>
+    <param name="Веб-камера" unit="">WEB-Camera</param>
+    <param name="Видеокарта" unit="">Intel UHD Graphics</param>
+    <param name="Высота" unit="">19.9 мм</param>
+    <param name="Гарантия, мес" unit="">36</param>
+    <param name="Глубина" unit="">235.8 мм</param>
+    <param name="Диагональ дисплея" unit="">15.6&amp;quot;</param>
+    <param name="Дополнительные возможности" unit="">встроенный микрофон, стереодинамики</param>
+    <param name="Емкость аккумулятора" unit="">43 Втч</param>
+    <param name="Емкость батареи" unit="">3 cell</param>
+    <param name="Интерфейсы и подключения" unit="">LAN (RJ-45), Комбинированный аудиоразъем, HDMI, USB 3.2 Type-C, USB 2.0, 1 х USB 3.2</param>
+    <param name="Количество отсеков 2.5&amp;quot; SATA для HDD/SSD" unit="">1</param>
+    <param name="Количество слотов M.2" unit="">1</param>
+    <param name="Количество слотов для оперативной памяти" unit="">1</param>
+    <param name="Мoдель" unit="">V15 G4 IRU</param>
+    <param name="Объем SSD" unit="">512 ГБ</param>
+    <param name="Объем оперативной памяти" unit="">16 ГБ</param>
+    <param name="Операционная система" unit="">без операционной системы</param>
+    <param name="Особенности" unit="">TPM модуль</param>
+    <param name="Поверхность экрана" unit="">матовая</param>
+    <param name="Поколение процессора Intel" unit="">13-е поколение</param>
+    <param name="Процессор" unit="">Intel Core i3-1315U (3.3 - 4.5 ГГц)</param>
+    <param name="Разрешение" unit="">1920х1080 (FullHD)</param>
+    <param name="Серия (модельный ряд)" unit="">Lenovo V</param>
+    <param name="Сетевой адаптер" unit="">Gigabit Ethernet</param>
+    <param name="Стандарт интерфейса SSD M.2" unit="">PCI Express 4.0x4</param>
+    <param name="Страна производства" unit="">Китай</param>
+    <param name="Также ищут" unit="">ультрабуки, для графического дизайна, до 50000 грн, до 40000 грн, 2024 года, до 30 000 грн, с большим объемом памяти, с SSD-диском, для подростков, для дома</param>
+    <param name="Тип видеокарты" unit="">интегрированная</param>
+    <param name="Тип ноутбука" unit="">для работы</param>
+  </offer>
+  <offer id="amp-3015-10" available="true">
+    <url>https://cs3879995.prom.ua/p2987831085-noutbuk-lenovo-v15.html</url>
+    <price>33402</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>152427008</categoryId>
+    <picture>https://images.prom.ua/7179706889_noutbuk-lenovo-v15.jpg</picture>
+    <picture>https://images.prom.ua/7179706890_noutbuk-lenovo-v15.jpg</picture>
+    <picture>https://images.prom.ua/7179706891_noutbuk-lenovo-v15.jpg</picture>
+    <picture>https://images.prom.ua/7179706892_noutbuk-lenovo-v15.jpg</picture>
+    <picture>https://images.prom.ua/7179706894_noutbuk-lenovo-v15.jpg</picture>
+    <picture>https://images.prom.ua/7179706895_noutbuk-lenovo-v15.jpg</picture>
+    <picture>https://images.prom.ua/7179706897_noutbuk-lenovo-v15.jpg</picture>
+    <picture>https://images.prom.ua/7179706898_noutbuk-lenovo-v15.jpg</picture>
+    <picture>https://images.prom.ua/7179706899_noutbuk-lenovo-v15.jpg</picture>
+    <pickup>false</pickup>
+    <delivery>true</delivery>
+    <name>Ноутбук Lenovo V15 G4 IRU (83A100Q4RA)</name>
+    <name_ua>Ноутбук Lenovo V15 G4 IRU (83A100Q4RA)</name_ua>
+    <vendor>Lenovo</vendor>
+    <vendorCode>855626-01</vendorCode>
+    <description>Lenovo V15 G4 – ноутбук в сдержанном дизайне, разработанный для ведения бизнеса и решения рабочих задач. Выполнен в достаточно компактных размерах и вес всего 1.65 кг, поэтому его легко можно брать с собой на рабочие встречи или в командировку.Устройство поможет решить сложные  задачи, а со сбалансированной начинкой позволит реализовать масштабные проекты .Центральный процессор представлен  Intel Core i3-1315U ,  который демонстрирует хорошую энергоэффективность и скорость обработки данных. В аппаратной конфигурации модели также имеется  SSD-диск , работа которого заключается в записи и хранении информации. Lenovo V15 обладает широким набором интерфейсов для подключения всех необходимых устройств.Ноутбук прошел множество тестирований и имеет сертификат MIL-STD-810H, подтверждающий его готовность к работе в разных условиях. Крышка способна открываться на 180 градусов, предлагая наиболее удобное положение для работы, а эргономичная клавиатура упростит работу с текстом.</description>
+    <description_ua>Lenovo V15 G4 — ноутбук у стриманому дизайні, розроблений для ведення бізнесу та вирішення робочих завдань. Виконаний у досить компактних розмірах та має вагу всього 1.65 кг, тому його легко можна брати з собою на робочі зустрічі чи у відрядження.Пристрій допоможе розв'язувати складні задачі, а зі збалансованою начинкою дасть змогу реалізувати масштабні проєкти. Оснащення екраном 15.6" дюймів спростить роботу з презентаціями, мультимедійним контентом, діаграмами, адже надає більше площі для відтворення інформації. Центральний процесор представлений Intel Core i3-1315U, який демонструє хорошу енергоефективність і швидкість в обробці даних. У апаратній конфігурації моделі також наявний SSD-диск, робота якого полягає у записі та збереженні інформації. Lenovo V15 має широкий набір інтерфейсів для підключення всіх необхідних пристроїв. Також передбачено вбудований модуль Bluetooth 5.1 для бездротових пристроїв, роз'єм RJ-45 та адаптер Wi-Fi 11ac для під'єднання до мережі інтернет.Ноутбук пройшов безліч тестувань та має сертифікат MIL-STD-810H, який підтверджує його готовність до роботи в різних умовах. Кришка здатна відкриватися на 180 градусів, пропонуючи найбільш зручне положення для роботи, а ергономічна клавіатура спростить роботу з текстом.</description_ua>
+    <quantity_in_stock>100</quantity_in_stock>
+    <keywords>Ноутбук Lenovo V15 G4 IRU (83A100Q4RA)</keywords>
+    <keywords_ua>Ноутбук Lenovo V15 G4 IRU (83A100Q4RA)</keywords_ua>
+    <param name="Вес" unit="кг">1.7</param>
+    <param name="Количество ядер процессора">6</param>
+    <param name="Тип матрицы">IPS</param>
+    <param name="Тип накопителя">SSD</param>
+    <param name="Тип оперативной памяти">DDR4</param>
+    <param name="Цвет">Черный</param>
+    <param name="Частота обновления экрана" unit="Гц">60</param>
+    <param name="Ширина" unit="мм">359.2</param>
+    <param name="Тип">Ноутбук</param>
+    <param name="Тип процессора">Core i3</param>
+    <param name="Артикул" unit="">83A100Q4RA</param>
+    <param name="Беспроводные технологии" unit="">Bluetooth, Wi-Fi</param>
+    <param name="Веб-камера" unit="">WEB-Camera</param>
+    <param name="Видеокарта" unit="">Intel UHD Graphics</param>
+    <param name="Высота" unit="">19.9 мм</param>
+    <param name="Гарантия, мес" unit="">36</param>
+    <param name="Глубина" unit="">235.8 мм</param>
+    <param name="Диагональ дисплея" unit="">15.6&amp;quot;</param>
+    <param name="Дополнительные возможности" unit="">встроенный микрофон, стереодинамики</param>
+    <param name="Емкость аккумулятора" unit="">44 Втч</param>
+    <param name="Емкость батареи" unit="">3 cell</param>
+    <param name="Интерфейсы и подключения" unit="">LAN (RJ-45), Комбинированный аудиоразъем, HDMI, USB 3.2 Type-C, USB 2.0, 1 х USB 3.2</param>
+    <param name="Количество отсеков 2.5&amp;quot; SATA для HDD/SSD" unit="">1</param>
+    <param name="Количество слотов M.2" unit="">1</param>
+    <param name="Количество слотов для оперативной памяти" unit="">1</param>
+    <param name="Мoдель" unit="">V15 G4 IRU</param>
+    <param name="Объем SSD" unit="">512 ГБ</param>
+    <param name="Объем оперативной памяти" unit="">16 ГБ</param>
+    <param name="Операционная система" unit="">без операционной системы</param>
+    <param name="Особенности" unit="">TPM модуль</param>
+    <param name="Поверхность экрана" unit="">матовая</param>
+    <param name="Поколение процессора Intel" unit="">13-е поколение</param>
+    <param name="Процессор" unit="">Intel Core i3-1315U (3.3 - 4.5 ГГц)</param>
+    <param name="Разрешение" unit="">1920х1080 (FullHD)</param>
+    <param name="Серия (модельный ряд)" unit="">Lenovo V</param>
+    <param name="Сетевой адаптер" unit="">Gigabit Ethernet</param>
+    <param name="Стандарт интерфейса SSD M.2" unit="">PCI Express 4.0x4</param>
+    <param name="Страна производства" unit="">Китай</param>
+    <param name="Также ищут" unit="">ультрабуки, для графического дизайна, до 50000 грн, до 40000 грн, 2024 года, до 30 000 грн, с большим объемом памяти, с SSD-диском, для подростков, для дома</param>
+    <param name="Тип видеокарты" unit="">интегрированная</param>
+    <param name="Тип ноутбука" unit="">для работы</param>
+  </offer>
+  <offer id="amp-3015-11" available="true">
+    <url>https://cs3879995.prom.ua/p2987831085-noutbuk-lenovo-v15.html</url>
+    <price>33402</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>152427008</categoryId>
+    <picture>https://images.prom.ua/7179706889_noutbuk-lenovo-v15.jpg</picture>
+    <picture>https://images.prom.ua/7179706890_noutbuk-lenovo-v15.jpg</picture>
+    <picture>https://images.prom.ua/7179706891_noutbuk-lenovo-v15.jpg</picture>
+    <picture>https://images.prom.ua/7179706892_noutbuk-lenovo-v15.jpg</picture>
+    <picture>https://images.prom.ua/7179706894_noutbuk-lenovo-v15.jpg</picture>
+    <picture>https://images.prom.ua/7179706895_noutbuk-lenovo-v15.jpg</picture>
+    <picture>https://images.prom.ua/7179706897_noutbuk-lenovo-v15.jpg</picture>
+    <picture>https://images.prom.ua/7179706898_noutbuk-lenovo-v15.jpg</picture>
+    <picture>https://images.prom.ua/7179706899_noutbuk-lenovo-v15.jpg</picture>
+    <pickup>false</pickup>
+    <delivery>true</delivery>
+    <name>Ноутбук Lenovo V15 G4 IRU (83A100Q4RA)</name>
+    <name_ua>Ноутбук Lenovo V15 G4 IRU (83A100Q4RA)</name_ua>
+    <vendor>Lenovo</vendor>
+    <vendorCode>855626-01</vendorCode>
+    <description>Lenovo V15 G4 – ноутбук в сдержанном дизайне, разработанный для ведения бизнеса и решения рабочих задач. Выполнен в достаточно компактных размерах и вес всего 1.65 кг, поэтому его легко можно брать с собой на рабочие встречи или в командировку.Устройство поможет решить сложные  задачи, а со сбалансированной начинкой позволит реализовать масштабные проекты .Центральный процессор представлен  Intel Core i3-1315U ,  который демонстрирует хорошую энергоэффективность и скорость обработки данных. В аппаратной конфигурации модели также имеется  SSD-диск , работа которого заключается в записи и хранении информации. Lenovo V15 обладает широким набором интерфейсов для подключения всех необходимых устройств.Ноутбук прошел множество тестирований и имеет сертификат MIL-STD-810H, подтверждающий его готовность к работе в разных условиях. Крышка способна открываться на 180 градусов, предлагая наиболее удобное положение для работы, а эргономичная клавиатура упростит работу с текстом.</description>
+    <description_ua>Lenovo V15 G4 — ноутбук у стриманому дизайні, розроблений для ведення бізнесу та вирішення робочих завдань. Виконаний у досить компактних розмірах та має вагу всього 1.65 кг, тому його легко можна брати з собою на робочі зустрічі чи у відрядження.Пристрій допоможе розв'язувати складні задачі, а зі збалансованою начинкою дасть змогу реалізувати масштабні проєкти. Оснащення екраном 15.6" дюймів спростить роботу з презентаціями, мультимедійним контентом, діаграмами, адже надає більше площі для відтворення інформації. Центральний процесор представлений Intel Core i3-1315U, який демонструє хорошу енергоефективність і швидкість в обробці даних. У апаратній конфігурації моделі також наявний SSD-диск, робота якого полягає у записі та збереженні інформації. Lenovo V15 має широкий набір інтерфейсів для підключення всіх необхідних пристроїв. Також передбачено вбудований модуль Bluetooth 5.1 для бездротових пристроїв, роз'єм RJ-45 та адаптер Wi-Fi 11ac для під'єднання до мережі інтернет.Ноутбук пройшов безліч тестувань та має сертифікат MIL-STD-810H, який підтверджує його готовність до роботи в різних умовах. Кришка здатна відкриватися на 180 градусів, пропонуючи найбільш зручне положення для роботи, а ергономічна клавіатура спростить роботу з текстом.</description_ua>
+    <quantity_in_stock>100</quantity_in_stock>
+    <keywords>Ноутбук Lenovo V15 G4 IRU (83A100Q4RA)</keywords>
+    <keywords_ua>Ноутбук Lenovo V15 G4 IRU (83A100Q4RA)</keywords_ua>
+    <param name="Вес" unit="кг">1.7</param>
+    <param name="Количество ядер процессора">6</param>
+    <param name="Тип матрицы">IPS</param>
+    <param name="Тип накопителя">SSD</param>
+    <param name="Тип оперативной памяти">DDR4</param>
+    <param name="Цвет">Черный</param>
+    <param name="Частота обновления экрана" unit="Гц">60</param>
+    <param name="Ширина" unit="мм">359.2</param>
+    <param name="Тип">Ноутбук</param>
+    <param name="Тип процессора">Core i3</param>
+    <param name="Артикул" unit="">83A100Q4RA</param>
+    <param name="Беспроводные технологии" unit="">Bluetooth, Wi-Fi</param>
+    <param name="Веб-камера" unit="">WEB-Camera</param>
+    <param name="Видеокарта" unit="">Intel UHD Graphics</param>
+    <param name="Высота" unit="">19.9 мм</param>
+    <param name="Гарантия, мес" unit="">36</param>
+    <param name="Глубина" unit="">235.8 мм</param>
+    <param name="Диагональ дисплея" unit="">15.6&amp;quot;</param>
+    <param name="Дополнительные возможности" unit="">встроенный микрофон, стереодинамики</param>
+    <param name="Емкость аккумулятора" unit="">46 Втч</param>
+    <param name="Емкость батареи" unit="">3 cell</param>
+    <param name="Интерфейсы и подключения" unit="">LAN (RJ-45), Комбинированный аудиоразъем, HDMI, USB 3.2 Type-C, USB 2.0, 1 х USB 3.2</param>
+    <param name="Количество отсеков 2.5&amp;quot; SATA для HDD/SSD" unit="">1</param>
+    <param name="Количество слотов M.2" unit="">1</param>
+    <param name="Количество слотов для оперативной памяти" unit="">1</param>
+    <param name="Мoдель" unit="">V15 G4 IRU</param>
+    <param name="Объем SSD" unit="">512 ГБ</param>
+    <param name="Объем оперативной памяти" unit="">16 ГБ</param>
+    <param name="Операционная система" unit="">без операционной системы</param>
+    <param name="Особенности" unit="">TPM модуль</param>
+    <param name="Поверхность экрана" unit="">матовая</param>
+    <param name="Поколение процессора Intel" unit="">13-е поколение</param>
+    <param name="Процессор" unit="">Intel Core i3-1315U (3.3 - 4.5 ГГц)</param>
+    <param name="Разрешение" unit="">1920х1080 (FullHD)</param>
+    <param name="Серия (модельный ряд)" unit="">Lenovo V</param>
+    <param name="Сетевой адаптер" unit="">Gigabit Ethernet</param>
+    <param name="Стандарт интерфейса SSD M.2" unit="">PCI Express 4.0x4</param>
+    <param name="Страна производства" unit="">Китай</param>
+    <param name="Также ищут" unit="">ультрабуки, для графического дизайна, до 50000 грн, до 40000 грн, 2024 года, до 30 000 грн, с большим объемом памяти, с SSD-диском, для подростков, для дома</param>
+    <param name="Тип видеокарты" unit="">интегрированная</param>
+    <param name="Тип ноутбука" unit="">для работы</param>
+  </offer>
+  <offer id="amp-3015-12" available="true">
+    <url>https://cs3879995.prom.ua/p2987831085-noutbuk-lenovo-v15.html</url>
+    <price>33402</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>152427008</categoryId>
+    <picture>https://images.prom.ua/7179706889_noutbuk-lenovo-v15.jpg</picture>
+    <picture>https://images.prom.ua/7179706890_noutbuk-lenovo-v15.jpg</picture>
+    <picture>https://images.prom.ua/7179706891_noutbuk-lenovo-v15.jpg</picture>
+    <picture>https://images.prom.ua/7179706892_noutbuk-lenovo-v15.jpg</picture>
+    <picture>https://images.prom.ua/7179706894_noutbuk-lenovo-v15.jpg</picture>
+    <picture>https://images.prom.ua/7179706895_noutbuk-lenovo-v15.jpg</picture>
+    <picture>https://images.prom.ua/7179706897_noutbuk-lenovo-v15.jpg</picture>
+    <picture>https://images.prom.ua/7179706898_noutbuk-lenovo-v15.jpg</picture>
+    <picture>https://images.prom.ua/7179706899_noutbuk-lenovo-v15.jpg</picture>
+    <pickup>false</pickup>
+    <delivery>true</delivery>
+    <name>Ноутбук Lenovo V15 G4 IRU (83A100Q4RA)</name>
+    <name_ua>Ноутбук Lenovo V15 G4 IRU (83A100Q4RA)</name_ua>
+    <vendor>Lenovo</vendor>
+    <vendorCode>855626-01</vendorCode>
+    <description>Lenovo V15 G4 – ноутбук в сдержанном дизайне, разработанный для ведения бизнеса и решения рабочих задач. Выполнен в достаточно компактных размерах и вес всего 1.65 кг, поэтому его легко можно брать с собой на рабочие встречи или в командировку.Устройство поможет решить сложные  задачи, а со сбалансированной начинкой позволит реализовать масштабные проекты .Центральный процессор представлен  Intel Core i3-1315U ,  который демонстрирует хорошую энергоэффективность и скорость обработки данных. В аппаратной конфигурации модели также имеется  SSD-диск , работа которого заключается в записи и хранении информации. Lenovo V15 обладает широким набором интерфейсов для подключения всех необходимых устройств.Ноутбук прошел множество тестирований и имеет сертификат MIL-STD-810H, подтверждающий его готовность к работе в разных условиях. Крышка способна открываться на 180 градусов, предлагая наиболее удобное положение для работы, а эргономичная клавиатура упростит работу с текстом.</description>
+    <description_ua>Lenovo V15 G4 — ноутбук у стриманому дизайні, розроблений для ведення бізнесу та вирішення робочих завдань. Виконаний у досить компактних розмірах та має вагу всього 1.65 кг, тому його легко можна брати з собою на робочі зустрічі чи у відрядження.Пристрій допоможе розв'язувати складні задачі, а зі збалансованою начинкою дасть змогу реалізувати масштабні проєкти. Оснащення екраном 15.6" дюймів спростить роботу з презентаціями, мультимедійним контентом, діаграмами, адже надає більше площі для відтворення інформації. Центральний процесор представлений Intel Core i3-1315U, який демонструє хорошу енергоефективність і швидкість в обробці даних. У апаратній конфігурації моделі також наявний SSD-диск, робота якого полягає у записі та збереженні інформації. Lenovo V15 має широкий набір інтерфейсів для підключення всіх необхідних пристроїв. Також передбачено вбудований модуль Bluetooth 5.1 для бездротових пристроїв, роз'єм RJ-45 та адаптер Wi-Fi 11ac для під'єднання до мережі інтернет.Ноутбук пройшов безліч тестувань та має сертифікат MIL-STD-810H, який підтверджує його готовність до роботи в різних умовах. Кришка здатна відкриватися на 180 градусів, пропонуючи найбільш зручне положення для роботи, а ергономічна клавіатура спростить роботу з текстом.</description_ua>
+    <quantity_in_stock>100</quantity_in_stock>
+    <keywords>Ноутбук Lenovo V15 G4 IRU (83A100Q4RA)</keywords>
+    <keywords_ua>Ноутбук Lenovo V15 G4 IRU (83A100Q4RA)</keywords_ua>
+    <param name="Вес" unit="кг">1.7</param>
+    <param name="Количество ядер процессора">6</param>
+    <param name="Тип матрицы">IPS</param>
+    <param name="Тип накопителя">SSD</param>
+    <param name="Тип оперативной памяти">DDR4</param>
+    <param name="Цвет">Черный</param>
+    <param name="Частота обновления экрана" unit="Гц">60</param>
+    <param name="Ширина" unit="мм">359.2</param>
+    <param name="Тип">Ноутбук</param>
+    <param name="Тип процессора">Core i3</param>
+    <param name="Артикул" unit="">83A100Q4RA</param>
+    <param name="Беспроводные технологии" unit="">Bluetooth, Wi-Fi</param>
+    <param name="Веб-камера" unit="">WEB-Camera</param>
+    <param name="Видеокарта" unit="">Intel UHD Graphics</param>
+    <param name="Высота" unit="">19.9 мм</param>
+    <param name="Гарантия, мес" unit="">36</param>
+    <param name="Глубина" unit="">235.8 мм</param>
+    <param name="Диагональ дисплея" unit="">15.6&amp;quot;</param>
+    <param name="Дополнительные возможности" unit="">встроенный микрофон, стереодинамики</param>
+    <param name="Емкость аккумулятора" unit="">48 Втч</param>
+    <param name="Емкость батареи" unit="">3 cell</param>
+    <param name="Интерфейсы и подключения" unit="">LAN (RJ-45), Комбинированный аудиоразъем, HDMI, USB 3.2 Type-C, USB 2.0, 1 х USB 3.2</param>
+    <param name="Количество отсеков 2.5&amp;quot; SATA для HDD/SSD" unit="">1</param>
+    <param name="Количество слотов M.2" unit="">1</param>
+    <param name="Количество слотов для оперативной памяти" unit="">1</param>
+    <param name="Мoдель" unit="">V15 G4 IRU</param>
+    <param name="Объем SSD" unit="">512 ГБ</param>
+    <param name="Объем оперативной памяти" unit="">16 ГБ</param>
+    <param name="Операционная система" unit="">без операционной системы</param>
+    <param name="Особенности" unit="">TPM модуль</param>
+    <param name="Поверхность экрана" unit="">матовая</param>
+    <param name="Поколение процессора Intel" unit="">13-е поколение</param>
+    <param name="Процессор" unit="">Intel Core i3-1315U (3.3 - 4.5 ГГц)</param>
+    <param name="Разрешение" unit="">1920х1080 (FullHD)</param>
+    <param name="Серия (модельный ряд)" unit="">Lenovo V</param>
+    <param name="Сетевой адаптер" unit="">Gigabit Ethernet</param>
+    <param name="Стандарт интерфейса SSD M.2" unit="">PCI Express 4.0x4</param>
+    <param name="Страна производства" unit="">Китай</param>
+    <param name="Также ищут" unit="">ультрабуки, для графического дизайна, до 50000 грн, до 40000 грн, 2024 года, до 30 000 грн, с большим объемом памяти, с SSD-диском, для подростков, для дома</param>
+    <param name="Тип видеокарты" unit="">интегрированная</param>
+    <param name="Тип ноутбука" unit="">для работы</param>
+  </offer>
+  <offer id="amp-3015-13" available="true">
+    <url>https://cs3879995.prom.ua/p2987831085-noutbuk-lenovo-v15.html</url>
+    <price>33402</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>152427008</categoryId>
+    <picture>https://images.prom.ua/7179706889_noutbuk-lenovo-v15.jpg</picture>
+    <picture>https://images.prom.ua/7179706890_noutbuk-lenovo-v15.jpg</picture>
+    <picture>https://images.prom.ua/7179706891_noutbuk-lenovo-v15.jpg</picture>
+    <picture>https://images.prom.ua/7179706892_noutbuk-lenovo-v15.jpg</picture>
+    <picture>https://images.prom.ua/7179706894_noutbuk-lenovo-v15.jpg</picture>
+    <picture>https://images.prom.ua/7179706895_noutbuk-lenovo-v15.jpg</picture>
+    <picture>https://images.prom.ua/7179706897_noutbuk-lenovo-v15.jpg</picture>
+    <picture>https://images.prom.ua/7179706898_noutbuk-lenovo-v15.jpg</picture>
+    <picture>https://images.prom.ua/7179706899_noutbuk-lenovo-v15.jpg</picture>
+    <pickup>false</pickup>
+    <delivery>true</delivery>
+    <name>Ноутбук Lenovo V15 G4 IRU (83A100Q4RA)</name>
+    <name_ua>Ноутбук Lenovo V15 G4 IRU (83A100Q4RA)</name_ua>
+    <vendor>Lenovo</vendor>
+    <vendorCode>855626-01</vendorCode>
+    <description>Lenovo V15 G4 – ноутбук в сдержанном дизайне, разработанный для ведения бизнеса и решения рабочих задач. Выполнен в достаточно компактных размерах и вес всего 1.65 кг, поэтому его легко можно брать с собой на рабочие встречи или в командировку.Устройство поможет решить сложные  задачи, а со сбалансированной начинкой позволит реализовать масштабные проекты .Центральный процессор представлен  Intel Core i3-1315U ,  который демонстрирует хорошую энергоэффективность и скорость обработки данных. В аппаратной конфигурации модели также имеется  SSD-диск , работа которого заключается в записи и хранении информации. Lenovo V15 обладает широким набором интерфейсов для подключения всех необходимых устройств.Ноутбук прошел множество тестирований и имеет сертификат MIL-STD-810H, подтверждающий его готовность к работе в разных условиях. Крышка способна открываться на 180 градусов, предлагая наиболее удобное положение для работы, а эргономичная клавиатура упростит работу с текстом.</description>
+    <description_ua>Lenovo V15 G4 — ноутбук у стриманому дизайні, розроблений для ведення бізнесу та вирішення робочих завдань. Виконаний у досить компактних розмірах та має вагу всього 1.65 кг, тому його легко можна брати з собою на робочі зустрічі чи у відрядження.Пристрій допоможе розв'язувати складні задачі, а зі збалансованою начинкою дасть змогу реалізувати масштабні проєкти. Оснащення екраном 15.6" дюймів спростить роботу з презентаціями, мультимедійним контентом, діаграмами, адже надає більше площі для відтворення інформації. Центральний процесор представлений Intel Core i3-1315U, який демонструє хорошу енергоефективність і швидкість в обробці даних. У апаратній конфігурації моделі також наявний SSD-диск, робота якого полягає у записі та збереженні інформації. Lenovo V15 має широкий набір інтерфейсів для підключення всіх необхідних пристроїв. Також передбачено вбудований модуль Bluetooth 5.1 для бездротових пристроїв, роз'єм RJ-45 та адаптер Wi-Fi 11ac для під'єднання до мережі інтернет.Ноутбук пройшов безліч тестувань та має сертифікат MIL-STD-810H, який підтверджує його готовність до роботи в різних умовах. Кришка здатна відкриватися на 180 градусів, пропонуючи найбільш зручне положення для роботи, а ергономічна клавіатура спростить роботу з текстом.</description_ua>
+    <quantity_in_stock>100</quantity_in_stock>
+    <keywords>Ноутбук Lenovo V15 G4 IRU (83A100Q4RA)</keywords>
+    <keywords_ua>Ноутбук Lenovo V15 G4 IRU (83A100Q4RA)</keywords_ua>
+    <param name="Вес" unit="кг">1.7</param>
+    <param name="Количество ядер процессора">6</param>
+    <param name="Тип матрицы">IPS</param>
+    <param name="Тип накопителя">SSD</param>
+    <param name="Тип оперативной памяти">DDR4</param>
+    <param name="Цвет">Черный</param>
+    <param name="Частота обновления экрана" unit="Гц">60</param>
+    <param name="Ширина" unit="мм">359.2</param>
+    <param name="Тип">Ноутбук</param>
+    <param name="Тип процессора">Core i3</param>
+    <param name="Артикул" unit="">83A100Q4RA</param>
+    <param name="Беспроводные технологии" unit="">Bluetooth, Wi-Fi</param>
+    <param name="Веб-камера" unit="">WEB-Camera</param>
+    <param name="Видеокарта" unit="">Intel UHD Graphics</param>
+    <param name="Высота" unit="">19.9 мм</param>
+    <param name="Гарантия, мес" unit="">36</param>
+    <param name="Глубина" unit="">235.8 мм</param>
+    <param name="Диагональ дисплея" unit="">15.6&amp;quot;</param>
+    <param name="Дополнительные возможности" unit="">встроенный микрофон, стереодинамики</param>
+    <param name="Емкость аккумулятора" unit="">49 Втч</param>
+    <param name="Емкость батареи" unit="">3 cell</param>
+    <param name="Интерфейсы и подключения" unit="">LAN (RJ-45), Комбинированный аудиоразъем, HDMI, USB 3.2 Type-C, USB 2.0, 1 х USB 3.2</param>
+    <param name="Количество отсеков 2.5&amp;quot; SATA для HDD/SSD" unit="">1</param>
+    <param name="Количество слотов M.2" unit="">1</param>
+    <param name="Количество слотов для оперативной памяти" unit="">1</param>
+    <param name="Мoдель" unit="">V15 G4 IRU</param>
+    <param name="Объем SSD" unit="">512 ГБ</param>
+    <param name="Объем оперативной памяти" unit="">16 ГБ</param>
+    <param name="Операционная система" unit="">без операционной системы</param>
+    <param name="Особенности" unit="">TPM модуль</param>
+    <param name="Поверхность экрана" unit="">матовая</param>
+    <param name="Поколение процессора Intel" unit="">13-е поколение</param>
+    <param name="Процессор" unit="">Intel Core i3-1315U (3.3 - 4.5 ГГц)</param>
+    <param name="Разрешение" unit="">1920х1080 (FullHD)</param>
+    <param name="Серия (модельный ряд)" unit="">Lenovo V</param>
+    <param name="Сетевой адаптер" unit="">Gigabit Ethernet</param>
+    <param name="Стандарт интерфейса SSD M.2" unit="">PCI Express 4.0x4</param>
+    <param name="Страна производства" unit="">Китай</param>
+    <param name="Также ищут" unit="">ультрабуки, для графического дизайна, до 50000 грн, до 40000 грн, 2024 года, до 30 000 грн, с большим объемом памяти, с SSD-диском, для подростков, для дома</param>
+    <param name="Тип видеокарты" unit="">интегрированная</param>
+    <param name="Тип ноутбука" unit="">для работы</param>
+  </offer>
+  <offer id="amp-3015-14" available="true">
+    <url>https://cs3879995.prom.ua/p2987831085-noutbuk-lenovo-v15.html</url>
+    <price>33402</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>152427008</categoryId>
+    <picture>https://images.prom.ua/7179706889_noutbuk-lenovo-v15.jpg</picture>
+    <picture>https://images.prom.ua/7179706890_noutbuk-lenovo-v15.jpg</picture>
+    <picture>https://images.prom.ua/7179706891_noutbuk-lenovo-v15.jpg</picture>
+    <picture>https://images.prom.ua/7179706892_noutbuk-lenovo-v15.jpg</picture>
+    <picture>https://images.prom.ua/7179706894_noutbuk-lenovo-v15.jpg</picture>
+    <picture>https://images.prom.ua/7179706895_noutbuk-lenovo-v15.jpg</picture>
+    <picture>https://images.prom.ua/7179706897_noutbuk-lenovo-v15.jpg</picture>
+    <picture>https://images.prom.ua/7179706898_noutbuk-lenovo-v15.jpg</picture>
+    <picture>https://images.prom.ua/7179706899_noutbuk-lenovo-v15.jpg</picture>
+    <pickup>false</pickup>
+    <delivery>true</delivery>
+    <name>Ноутбук Lenovo V15 G4 IRU (83A100Q4RA)</name>
+    <name_ua>Ноутбук Lenovo V15 G4 IRU (83A100Q4RA)</name_ua>
+    <vendor>Lenovo</vendor>
+    <vendorCode>855626-01</vendorCode>
+    <description>Lenovo V15 G4 – ноутбук в сдержанном дизайне, разработанный для ведения бизнеса и решения рабочих задач. Выполнен в достаточно компактных размерах и вес всего 1.65 кг, поэтому его легко можно брать с собой на рабочие встречи или в командировку.Устройство поможет решить сложные  задачи, а со сбалансированной начинкой позволит реализовать масштабные проекты .Центральный процессор представлен  Intel Core i3-1315U ,  который демонстрирует хорошую энергоэффективность и скорость обработки данных. В аппаратной конфигурации модели также имеется  SSD-диск , работа которого заключается в записи и хранении информации. Lenovo V15 обладает широким набором интерфейсов для подключения всех необходимых устройств.Ноутбук прошел множество тестирований и имеет сертификат MIL-STD-810H, подтверждающий его готовность к работе в разных условиях. Крышка способна открываться на 180 градусов, предлагая наиболее удобное положение для работы, а эргономичная клавиатура упростит работу с текстом.</description>
+    <description_ua>Lenovo V15 G4 — ноутбук у стриманому дизайні, розроблений для ведення бізнесу та вирішення робочих завдань. Виконаний у досить компактних розмірах та має вагу всього 1.65 кг, тому його легко можна брати з собою на робочі зустрічі чи у відрядження.Пристрій допоможе розв'язувати складні задачі, а зі збалансованою начинкою дасть змогу реалізувати масштабні проєкти. Оснащення екраном 15.6" дюймів спростить роботу з презентаціями, мультимедійним контентом, діаграмами, адже надає більше площі для відтворення інформації. Центральний процесор представлений Intel Core i3-1315U, який демонструє хорошу енергоефективність і швидкість в обробці даних. У апаратній конфігурації моделі також наявний SSD-диск, робота якого полягає у записі та збереженні інформації. Lenovo V15 має широкий набір інтерфейсів для підключення всіх необхідних пристроїв. Також передбачено вбудований модуль Bluetooth 5.1 для бездротових пристроїв, роз'єм RJ-45 та адаптер Wi-Fi 11ac для під'єднання до мережі інтернет.Ноутбук пройшов безліч тестувань та має сертифікат MIL-STD-810H, який підтверджує його готовність до роботи в різних умовах. Кришка здатна відкриватися на 180 градусів, пропонуючи найбільш зручне положення для роботи, а ергономічна клавіатура спростить роботу з текстом.</description_ua>
+    <quantity_in_stock>100</quantity_in_stock>
+    <keywords>Ноутбук Lenovo V15 G4 IRU (83A100Q4RA)</keywords>
+    <keywords_ua>Ноутбук Lenovo V15 G4 IRU (83A100Q4RA)</keywords_ua>
+    <param name="Вес" unit="кг">1.7</param>
+    <param name="Количество ядер процессора">6</param>
+    <param name="Тип матрицы">IPS</param>
+    <param name="Тип накопителя">SSD</param>
+    <param name="Тип оперативной памяти">DDR4</param>
+    <param name="Цвет">Черный</param>
+    <param name="Частота обновления экрана" unit="Гц">60</param>
+    <param name="Ширина" unit="мм">359.2</param>
+    <param name="Тип">Ноутбук</param>
+    <param name="Тип процессора">Core i3</param>
+    <param name="Артикул" unit="">83A100Q4RA</param>
+    <param name="Беспроводные технологии" unit="">Bluetooth, Wi-Fi</param>
+    <param name="Веб-камера" unit="">WEB-Camera</param>
+    <param name="Видеокарта" unit="">Intel UHD Graphics</param>
+    <param name="Высота" unit="">19.9 мм</param>
+    <param name="Гарантия, мес" unit="">36</param>
+    <param name="Глубина" unit="">235.8 мм</param>
+    <param name="Диагональ дисплея" unit="">15.6&amp;quot;</param>
+    <param name="Дополнительные возможности" unit="">встроенный микрофон, стереодинамики</param>
+    <param name="Емкость аккумулятора" unit="">50 Втч</param>
+    <param name="Емкость батареи" unit="">3 cell</param>
+    <param name="Интерфейсы и подключения" unit="">LAN (RJ-45), Комбинированный аудиоразъем, HDMI, USB 3.2 Type-C, USB 2.0, 1 х USB 3.2</param>
+    <param name="Количество отсеков 2.5&amp;quot; SATA для HDD/SSD" unit="">1</param>
+    <param name="Количество слотов M.2" unit="">1</param>
+    <param name="Количество слотов для оперативной памяти" unit="">1</param>
+    <param name="Мoдель" unit="">V15 G4 IRU</param>
+    <param name="Объем SSD" unit="">512 ГБ</param>
+    <param name="Объем оперативной памяти" unit="">16 ГБ</param>
+    <param name="Операционная система" unit="">без операционной системы</param>
+    <param name="Особенности" unit="">TPM модуль</param>
+    <param name="Поверхность экрана" unit="">матовая</param>
+    <param name="Поколение процессора Intel" unit="">13-е поколение</param>
+    <param name="Процессор" unit="">Intel Core i3-1315U (3.3 - 4.5 ГГц)</param>
+    <param name="Разрешение" unit="">1920х1080 (FullHD)</param>
+    <param name="Серия (модельный ряд)" unit="">Lenovo V</param>
+    <param name="Сетевой адаптер" unit="">Gigabit Ethernet</param>
+    <param name="Стандарт интерфейса SSD M.2" unit="">PCI Express 4.0x4</param>
+    <param name="Страна производства" unit="">Китай</param>
+    <param name="Также ищут" unit="">ультрабуки, для графического дизайна, до 50000 грн, до 40000 грн, 2024 года, до 30 000 грн, с большим объемом памяти, с SSD-диском, для подростков, для дома</param>
+    <param name="Тип видеокарты" unit="">интегрированная</param>
+    <param name="Тип ноутбука" unit="">для работы</param>
+  </offer>
+  <offer id="amp-3015-15" available="true">
+    <url>https://cs3879995.prom.ua/p2987831085-noutbuk-lenovo-v15.html</url>
+    <price>33402</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>152427008</categoryId>
+    <picture>https://images.prom.ua/7179706889_noutbuk-lenovo-v15.jpg</picture>
+    <picture>https://images.prom.ua/7179706890_noutbuk-lenovo-v15.jpg</picture>
+    <picture>https://images.prom.ua/7179706891_noutbuk-lenovo-v15.jpg</picture>
+    <picture>https://images.prom.ua/7179706892_noutbuk-lenovo-v15.jpg</picture>
+    <picture>https://images.prom.ua/7179706894_noutbuk-lenovo-v15.jpg</picture>
+    <picture>https://images.prom.ua/7179706895_noutbuk-lenovo-v15.jpg</picture>
+    <picture>https://images.prom.ua/7179706897_noutbuk-lenovo-v15.jpg</picture>
+    <picture>https://images.prom.ua/7179706898_noutbuk-lenovo-v15.jpg</picture>
+    <picture>https://images.prom.ua/7179706899_noutbuk-lenovo-v15.jpg</picture>
+    <pickup>false</pickup>
+    <delivery>true</delivery>
+    <name>Ноутбук Lenovo V15 G4 IRU (83A100Q4RA)</name>
+    <name_ua>Ноутбук Lenovo V15 G4 IRU (83A100Q4RA)</name_ua>
+    <vendor>Lenovo</vendor>
+    <vendorCode>855626-01</vendorCode>
+    <description>Lenovo V15 G4 – ноутбук в сдержанном дизайне, разработанный для ведения бизнеса и решения рабочих задач. Выполнен в достаточно компактных размерах и вес всего 1.65 кг, поэтому его легко можно брать с собой на рабочие встречи или в командировку.Устройство поможет решить сложные  задачи, а со сбалансированной начинкой позволит реализовать масштабные проекты .Центральный процессор представлен  Intel Core i3-1315U ,  который демонстрирует хорошую энергоэффективность и скорость обработки данных. В аппаратной конфигурации модели также имеется  SSD-диск , работа которого заключается в записи и хранении информации. Lenovo V15 обладает широким набором интерфейсов для подключения всех необходимых устройств.Ноутбук прошел множество тестирований и имеет сертификат MIL-STD-810H, подтверждающий его готовность к работе в разных условиях. Крышка способна открываться на 180 градусов, предлагая наиболее удобное положение для работы, а эргономичная клавиатура упростит работу с текстом.</description>
+    <description_ua>Lenovo V15 G4 — ноутбук у стриманому дизайні, розроблений для ведення бізнесу та вирішення робочих завдань. Виконаний у досить компактних розмірах та має вагу всього 1.65 кг, тому його легко можна брати з собою на робочі зустрічі чи у відрядження.Пристрій допоможе розв'язувати складні задачі, а зі збалансованою начинкою дасть змогу реалізувати масштабні проєкти. Оснащення екраном 15.6" дюймів спростить роботу з презентаціями, мультимедійним контентом, діаграмами, адже надає більше площі для відтворення інформації. Центральний процесор представлений Intel Core i3-1315U, який демонструє хорошу енергоефективність і швидкість в обробці даних. У апаратній конфігурації моделі також наявний SSD-диск, робота якого полягає у записі та збереженні інформації. Lenovo V15 має широкий набір інтерфейсів для підключення всіх необхідних пристроїв. Також передбачено вбудований модуль Bluetooth 5.1 для бездротових пристроїв, роз'єм RJ-45 та адаптер Wi-Fi 11ac для під'єднання до мережі інтернет.Ноутбук пройшов безліч тестувань та має сертифікат MIL-STD-810H, який підтверджує його готовність до роботи в різних умовах. Кришка здатна відкриватися на 180 градусів, пропонуючи найбільш зручне положення для роботи, а ергономічна клавіатура спростить роботу з текстом.</description_ua>
+    <quantity_in_stock>100</quantity_in_stock>
+    <keywords>Ноутбук Lenovo V15 G4 IRU (83A100Q4RA)</keywords>
+    <keywords_ua>Ноутбук Lenovo V15 G4 IRU (83A100Q4RA)</keywords_ua>
+    <param name="Вес" unit="кг">1.7</param>
+    <param name="Количество ядер процессора">6</param>
+    <param name="Тип матрицы">IPS</param>
+    <param name="Тип накопителя">SSD</param>
+    <param name="Тип оперативной памяти">DDR4</param>
+    <param name="Цвет">Черный</param>
+    <param name="Частота обновления экрана" unit="Гц">60</param>
+    <param name="Ширина" unit="мм">359.2</param>
+    <param name="Тип">Ноутбук</param>
+    <param name="Тип процессора">Core i3</param>
+    <param name="Артикул" unit="">83A100Q4RA</param>
+    <param name="Беспроводные технологии" unit="">Bluetooth, Wi-Fi</param>
+    <param name="Веб-камера" unit="">WEB-Camera</param>
+    <param name="Видеокарта" unit="">Intel UHD Graphics</param>
+    <param name="Высота" unit="">19.9 мм</param>
+    <param name="Гарантия, мес" unit="">36</param>
+    <param name="Глубина" unit="">235.8 мм</param>
+    <param name="Диагональ дисплея" unit="">15.6&amp;quot;</param>
+    <param name="Дополнительные возможности" unit="">встроенный микрофон, стереодинамики</param>
+    <param name="Емкость аккумулятора" unit="">55 Втч</param>
+    <param name="Емкость батареи" unit="">3 cell</param>
+    <param name="Интерфейсы и подключения" unit="">LAN (RJ-45), Комбинированный аудиоразъем, HDMI, USB 3.2 Type-C, USB 2.0, 1 х USB 3.2</param>
+    <param name="Количество отсеков 2.5&amp;quot; SATA для HDD/SSD" unit="">1</param>
+    <param name="Количество слотов M.2" unit="">1</param>
+    <param name="Количество слотов для оперативной памяти" unit="">1</param>
+    <param name="Мoдель" unit="">V15 G4 IRU</param>
+    <param name="Объем SSD" unit="">512 ГБ</param>
+    <param name="Объем оперативной памяти" unit="">16 ГБ</param>
+    <param name="Операционная система" unit="">без операционной системы</param>
+    <param name="Особенности" unit="">TPM модуль</param>
+    <param name="Поверхность экрана" unit="">матовая</param>
+    <param name="Поколение процессора Intel" unit="">13-е поколение</param>
+    <param name="Процессор" unit="">Intel Core i3-1315U (3.3 - 4.5 ГГц)</param>
+    <param name="Разрешение" unit="">1920х1080 (FullHD)</param>
+    <param name="Серия (модельный ряд)" unit="">Lenovo V</param>
+    <param name="Сетевой адаптер" unit="">Gigabit Ethernet</param>
+    <param name="Стандарт интерфейса SSD M.2" unit="">PCI Express 4.0x4</param>
+    <param name="Страна производства" unit="">Китай</param>
+    <param name="Также ищут" unit="">ультрабуки, для графического дизайна, до 50000 грн, до 40000 грн, 2024 года, до 30 000 грн, с большим объемом памяти, с SSD-диском, для подростков, для дома</param>
+    <param name="Тип видеокарты" unit="">интегрированная</param>
+    <param name="Тип ноутбука" unit="">для работы</param>
+  </offer>
+  <offer id="amp-3015-16" available="true">
+    <url>https://cs3879995.prom.ua/p2987831085-noutbuk-lenovo-v15.html</url>
+    <price>33402</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>152427008</categoryId>
+    <picture>https://images.prom.ua/7179706889_noutbuk-lenovo-v15.jpg</picture>
+    <picture>https://images.prom.ua/7179706890_noutbuk-lenovo-v15.jpg</picture>
+    <picture>https://images.prom.ua/7179706891_noutbuk-lenovo-v15.jpg</picture>
+    <picture>https://images.prom.ua/7179706892_noutbuk-lenovo-v15.jpg</picture>
+    <picture>https://images.prom.ua/7179706894_noutbuk-lenovo-v15.jpg</picture>
+    <picture>https://images.prom.ua/7179706895_noutbuk-lenovo-v15.jpg</picture>
+    <picture>https://images.prom.ua/7179706897_noutbuk-lenovo-v15.jpg</picture>
+    <picture>https://images.prom.ua/7179706898_noutbuk-lenovo-v15.jpg</picture>
+    <picture>https://images.prom.ua/7179706899_noutbuk-lenovo-v15.jpg</picture>
+    <pickup>false</pickup>
+    <delivery>true</delivery>
+    <name>Ноутбук Lenovo V15 G4 IRU (83A100Q4RA)</name>
+    <name_ua>Ноутбук Lenovo V15 G4 IRU (83A100Q4RA)</name_ua>
+    <vendor>Lenovo</vendor>
+    <vendorCode>855626-01</vendorCode>
+    <description>Lenovo V15 G4 – ноутбук в сдержанном дизайне, разработанный для ведения бизнеса и решения рабочих задач. Выполнен в достаточно компактных размерах и вес всего 1.65 кг, поэтому его легко можно брать с собой на рабочие встречи или в командировку.Устройство поможет решить сложные  задачи, а со сбалансированной начинкой позволит реализовать масштабные проекты .Центральный процессор представлен  Intel Core i3-1315U ,  который демонстрирует хорошую энергоэффективность и скорость обработки данных. В аппаратной конфигурации модели также имеется  SSD-диск , работа которого заключается в записи и хранении информации. Lenovo V15 обладает широким набором интерфейсов для подключения всех необходимых устройств.Ноутбук прошел множество тестирований и имеет сертификат MIL-STD-810H, подтверждающий его готовность к работе в разных условиях. Крышка способна открываться на 180 градусов, предлагая наиболее удобное положение для работы, а эргономичная клавиатура упростит работу с текстом.</description>
+    <description_ua>Lenovo V15 G4 — ноутбук у стриманому дизайні, розроблений для ведення бізнесу та вирішення робочих завдань. Виконаний у досить компактних розмірах та має вагу всього 1.65 кг, тому його легко можна брати з собою на робочі зустрічі чи у відрядження.Пристрій допоможе розв'язувати складні задачі, а зі збалансованою начинкою дасть змогу реалізувати масштабні проєкти. Оснащення екраном 15.6" дюймів спростить роботу з презентаціями, мультимедійним контентом, діаграмами, адже надає більше площі для відтворення інформації. Центральний процесор представлений Intel Core i3-1315U, який демонструє хорошу енергоефективність і швидкість в обробці даних. У апаратній конфігурації моделі також наявний SSD-диск, робота якого полягає у записі та збереженні інформації. Lenovo V15 має широкий набір інтерфейсів для підключення всіх необхідних пристроїв. Також передбачено вбудований модуль Bluetooth 5.1 для бездротових пристроїв, роз'єм RJ-45 та адаптер Wi-Fi 11ac для під'єднання до мережі інтернет.Ноутбук пройшов безліч тестувань та має сертифікат MIL-STD-810H, який підтверджує його готовність до роботи в різних умовах. Кришка здатна відкриватися на 180 градусів, пропонуючи найбільш зручне положення для роботи, а ергономічна клавіатура спростить роботу з текстом.</description_ua>
+    <quantity_in_stock>100</quantity_in_stock>
+    <keywords>Ноутбук Lenovo V15 G4 IRU (83A100Q4RA)</keywords>
+    <keywords_ua>Ноутбук Lenovo V15 G4 IRU (83A100Q4RA)</keywords_ua>
+    <param name="Вес" unit="кг">1.7</param>
+    <param name="Количество ядер процессора">6</param>
+    <param name="Тип матрицы">IPS</param>
+    <param name="Тип накопителя">SSD</param>
+    <param name="Тип оперативной памяти">DDR4</param>
+    <param name="Цвет">Черный</param>
+    <param name="Частота обновления экрана" unit="Гц">60</param>
+    <param name="Ширина" unit="мм">359.2</param>
+    <param name="Тип">Ноутбук</param>
+    <param name="Тип процессора">Core i3</param>
+    <param name="Артикул" unit="">83A100Q4RA</param>
+    <param name="Беспроводные технологии" unit="">Bluetooth, Wi-Fi</param>
+    <param name="Веб-камера" unit="">WEB-Camera</param>
+    <param name="Видеокарта" unit="">Intel UHD Graphics</param>
+    <param name="Высота" unit="">19.9 мм</param>
+    <param name="Гарантия, мес" unit="">36</param>
+    <param name="Глубина" unit="">235.8 мм</param>
+    <param name="Диагональ дисплея" unit="">15.6&amp;quot;</param>
+    <param name="Дополнительные возможности" unit="">встроенный микрофон, стереодинамики</param>
+    <param name="Емкость аккумулятора" unit="">58 Втч</param>
+    <param name="Емкость батареи" unit="">3 cell</param>
+    <param name="Интерфейсы и подключения" unit="">LAN (RJ-45), Комбинированный аудиоразъем, HDMI, USB 3.2 Type-C, USB 2.0, 1 х USB 3.2</param>
+    <param name="Количество отсеков 2.5&amp;quot; SATA для HDD/SSD" unit="">1</param>
+    <param name="Количество слотов M.2" unit="">1</param>
+    <param name="Количество слотов для оперативной памяти" unit="">1</param>
+    <param name="Мoдель" unit="">V15 G4 IRU</param>
+    <param name="Объем SSD" unit="">512 ГБ</param>
+    <param name="Объем оперативной памяти" unit="">16 ГБ</param>
+    <param name="Операционная система" unit="">без операционной системы</param>
+    <param name="Особенности" unit="">TPM модуль</param>
+    <param name="Поверхность экрана" unit="">матовая</param>
+    <param name="Поколение процессора Intel" unit="">13-е поколение</param>
+    <param name="Процессор" unit="">Intel Core i3-1315U (3.3 - 4.5 ГГц)</param>
+    <param name="Разрешение" unit="">1920х1080 (FullHD)</param>
+    <param name="Серия (модельный ряд)" unit="">Lenovo V</param>
+    <param name="Сетевой адаптер" unit="">Gigabit Ethernet</param>
+    <param name="Стандарт интерфейса SSD M.2" unit="">PCI Express 4.0x4</param>
+    <param name="Страна производства" unit="">Китай</param>
+    <param name="Также ищут" unit="">ультрабуки, для графического дизайна, до 50000 грн, до 40000 грн, 2024 года, до 30 000 грн, с большим объемом памяти, с SSD-диском, для подростков, для дома</param>
+    <param name="Тип видеокарты" unit="">интегрированная</param>
+    <param name="Тип ноутбука" unit="">для работы</param>
+  </offer>
+  <offer id="amp-3015-17" available="true">
+    <url>https://cs3879995.prom.ua/p2987831085-noutbuk-lenovo-v15.html</url>
+    <price>33402</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>152427008</categoryId>
+    <picture>https://images.prom.ua/7179706889_noutbuk-lenovo-v15.jpg</picture>
+    <picture>https://images.prom.ua/7179706890_noutbuk-lenovo-v15.jpg</picture>
+    <picture>https://images.prom.ua/7179706891_noutbuk-lenovo-v15.jpg</picture>
+    <picture>https://images.prom.ua/7179706892_noutbuk-lenovo-v15.jpg</picture>
+    <picture>https://images.prom.ua/7179706894_noutbuk-lenovo-v15.jpg</picture>
+    <picture>https://images.prom.ua/7179706895_noutbuk-lenovo-v15.jpg</picture>
+    <picture>https://images.prom.ua/7179706897_noutbuk-lenovo-v15.jpg</picture>
+    <picture>https://images.prom.ua/7179706898_noutbuk-lenovo-v15.jpg</picture>
+    <picture>https://images.prom.ua/7179706899_noutbuk-lenovo-v15.jpg</picture>
+    <pickup>false</pickup>
+    <delivery>true</delivery>
+    <name>Ноутбук Lenovo V15 G4 IRU (83A100Q4RA)</name>
+    <name_ua>Ноутбук Lenovo V15 G4 IRU (83A100Q4RA)</name_ua>
+    <vendor>Lenovo</vendor>
+    <vendorCode>855626-01</vendorCode>
+    <description>Lenovo V15 G4 – ноутбук в сдержанном дизайне, разработанный для ведения бизнеса и решения рабочих задач. Выполнен в достаточно компактных размерах и вес всего 1.65 кг, поэтому его легко можно брать с собой на рабочие встречи или в командировку.Устройство поможет решить сложные  задачи, а со сбалансированной начинкой позволит реализовать масштабные проекты .Центральный процессор представлен  Intel Core i3-1315U ,  который демонстрирует хорошую энергоэффективность и скорость обработки данных. В аппаратной конфигурации модели также имеется  SSD-диск , работа которого заключается в записи и хранении информации. Lenovo V15 обладает широким набором интерфейсов для подключения всех необходимых устройств.Ноутбук прошел множество тестирований и имеет сертификат MIL-STD-810H, подтверждающий его готовность к работе в разных условиях. Крышка способна открываться на 180 градусов, предлагая наиболее удобное положение для работы, а эргономичная клавиатура упростит работу с текстом.</description>
+    <description_ua>Lenovo V15 G4 — ноутбук у стриманому дизайні, розроблений для ведення бізнесу та вирішення робочих завдань. Виконаний у досить компактних розмірах та має вагу всього 1.65 кг, тому його легко можна брати з собою на робочі зустрічі чи у відрядження.Пристрій допоможе розв'язувати складні задачі, а зі збалансованою начинкою дасть змогу реалізувати масштабні проєкти. Оснащення екраном 15.6" дюймів спростить роботу з презентаціями, мультимедійним контентом, діаграмами, адже надає більше площі для відтворення інформації. Центральний процесор представлений Intel Core i3-1315U, який демонструє хорошу енергоефективність і швидкість в обробці даних. У апаратній конфігурації моделі також наявний SSD-диск, робота якого полягає у записі та збереженні інформації. Lenovo V15 має широкий набір інтерфейсів для підключення всіх необхідних пристроїв. Також передбачено вбудований модуль Bluetooth 5.1 для бездротових пристроїв, роз'єм RJ-45 та адаптер Wi-Fi 11ac для під'єднання до мережі інтернет.Ноутбук пройшов безліч тестувань та має сертифікат MIL-STD-810H, який підтверджує його готовність до роботи в різних умовах. Кришка здатна відкриватися на 180 градусів, пропонуючи найбільш зручне положення для роботи, а ергономічна клавіатура спростить роботу з текстом.</description_ua>
+    <quantity_in_stock>100</quantity_in_stock>
+    <keywords>Ноутбук Lenovo V15 G4 IRU (83A100Q4RA)</keywords>
+    <keywords_ua>Ноутбук Lenovo V15 G4 IRU (83A100Q4RA)</keywords_ua>
+    <param name="Вес" unit="кг">1.7</param>
+    <param name="Количество ядер процессора">6</param>
+    <param name="Тип матрицы">IPS</param>
+    <param name="Тип накопителя">SSD</param>
+    <param name="Тип оперативной памяти">DDR4</param>
+    <param name="Цвет">Черный</param>
+    <param name="Частота обновления экрана" unit="Гц">60</param>
+    <param name="Ширина" unit="мм">359.2</param>
+    <param name="Тип">Ноутбук</param>
+    <param name="Тип процессора">Core i3</param>
+    <param name="Артикул" unit="">83A100Q4RA</param>
+    <param name="Беспроводные технологии" unit="">Bluetooth, Wi-Fi</param>
+    <param name="Веб-камера" unit="">WEB-Camera</param>
+    <param name="Видеокарта" unit="">Intel UHD Graphics</param>
+    <param name="Высота" unit="">19.9 мм</param>
+    <param name="Гарантия, мес" unit="">36</param>
+    <param name="Глубина" unit="">235.8 мм</param>
+    <param name="Диагональ дисплея" unit="">15.6&amp;quot;</param>
+    <param name="Дополнительные возможности" unit="">встроенный микрофон, стереодинамики</param>
+    <param name="Емкость аккумулятора" unit="">59 Втч</param>
+    <param name="Емкость батареи" unit="">3 cell</param>
+    <param name="Интерфейсы и подключения" unit="">LAN (RJ-45), Комбинированный аудиоразъем, HDMI, USB 3.2 Type-C, USB 2.0, 1 х USB 3.2</param>
+    <param name="Количество отсеков 2.5&amp;quot; SATA для HDD/SSD" unit="">1</param>
+    <param name="Количество слотов M.2" unit="">1</param>
+    <param name="Количество слотов для оперативной памяти" unit="">1</param>
+    <param name="Мoдель" unit="">V15 G4 IRU</param>
+    <param name="Объем SSD" unit="">512 ГБ</param>
+    <param name="Объем оперативной памяти" unit="">16 ГБ</param>
+    <param name="Операционная система" unit="">без операционной системы</param>
+    <param name="Особенности" unit="">TPM модуль</param>
+    <param name="Поверхность экрана" unit="">матовая</param>
+    <param name="Поколение процессора Intel" unit="">13-е поколение</param>
+    <param name="Процессор" unit="">Intel Core i3-1315U (3.3 - 4.5 ГГц)</param>
+    <param name="Разрешение" unit="">1920х1080 (FullHD)</param>
+    <param name="Серия (модельный ряд)" unit="">Lenovo V</param>
+    <param name="Сетевой адаптер" unit="">Gigabit Ethernet</param>
+    <param name="Стандарт интерфейса SSD M.2" unit="">PCI Express 4.0x4</param>
+    <param name="Страна производства" unit="">Китай</param>
+    <param name="Также ищут" unit="">ультрабуки, для графического дизайна, до 50000 грн, до 40000 грн, 2024 года, до 30 000 грн, с большим объемом памяти, с SSD-диском, для подростков, для дома</param>
+    <param name="Тип видеокарты" unit="">интегрированная</param>
+    <param name="Тип ноутбука" unit="">для работы</param>
+  </offer>
+  <offer id="amp-3015-19" available="true">
+    <url>https://cs3879995.prom.ua/p2987831085-noutbuk-lenovo-v15.html</url>
+    <price>33402</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>152427008</categoryId>
+    <picture>https://images.prom.ua/7179706889_noutbuk-lenovo-v15.jpg</picture>
+    <picture>https://images.prom.ua/7179706890_noutbuk-lenovo-v15.jpg</picture>
+    <picture>https://images.prom.ua/7179706891_noutbuk-lenovo-v15.jpg</picture>
+    <picture>https://images.prom.ua/7179706892_noutbuk-lenovo-v15.jpg</picture>
+    <picture>https://images.prom.ua/7179706894_noutbuk-lenovo-v15.jpg</picture>
+    <picture>https://images.prom.ua/7179706895_noutbuk-lenovo-v15.jpg</picture>
+    <picture>https://images.prom.ua/7179706897_noutbuk-lenovo-v15.jpg</picture>
+    <picture>https://images.prom.ua/7179706898_noutbuk-lenovo-v15.jpg</picture>
+    <picture>https://images.prom.ua/7179706899_noutbuk-lenovo-v15.jpg</picture>
+    <pickup>false</pickup>
+    <delivery>true</delivery>
+    <name>Ноутбук Lenovo V15 G4 IRU (83A100Q4RA)</name>
+    <name_ua>Ноутбук Lenovo V15 G4 IRU (83A100Q4RA)</name_ua>
+    <vendor>Lenovo</vendor>
+    <vendorCode>855626-01</vendorCode>
+    <description>Lenovo V15 G4 – ноутбук в сдержанном дизайне, разработанный для ведения бизнеса и решения рабочих задач. Выполнен в достаточно компактных размерах и вес всего 1.65 кг, поэтому его легко можно брать с собой на рабочие встречи или в командировку.Устройство поможет решить сложные  задачи, а со сбалансированной начинкой позволит реализовать масштабные проекты .Центральный процессор представлен  Intel Core i3-1315U ,  который демонстрирует хорошую энергоэффективность и скорость обработки данных. В аппаратной конфигурации модели также имеется  SSD-диск , работа которого заключается в записи и хранении информации. Lenovo V15 обладает широким набором интерфейсов для подключения всех необходимых устройств.Ноутбук прошел множество тестирований и имеет сертификат MIL-STD-810H, подтверждающий его готовность к работе в разных условиях. Крышка способна открываться на 180 градусов, предлагая наиболее удобное положение для работы, а эргономичная клавиатура упростит работу с текстом.</description>
+    <description_ua>Lenovo V15 G4 — ноутбук у стриманому дизайні, розроблений для ведення бізнесу та вирішення робочих завдань. Виконаний у досить компактних розмірах та має вагу всього 1.65 кг, тому його легко можна брати з собою на робочі зустрічі чи у відрядження.Пристрій допоможе розв'язувати складні задачі, а зі збалансованою начинкою дасть змогу реалізувати масштабні проєкти. Оснащення екраном 15.6" дюймів спростить роботу з презентаціями, мультимедійним контентом, діаграмами, адже надає більше площі для відтворення інформації. Центральний процесор представлений Intel Core i3-1315U, який демонструє хорошу енергоефективність і швидкість в обробці даних. У апаратній конфігурації моделі також наявний SSD-диск, робота якого полягає у записі та збереженні інформації. Lenovo V15 має широкий набір інтерфейсів для підключення всіх необхідних пристроїв. Також передбачено вбудований модуль Bluetooth 5.1 для бездротових пристроїв, роз'єм RJ-45 та адаптер Wi-Fi 11ac для під'єднання до мережі інтернет.Ноутбук пройшов безліч тестувань та має сертифікат MIL-STD-810H, який підтверджує його готовність до роботи в різних умовах. Кришка здатна відкриватися на 180 градусів, пропонуючи найбільш зручне положення для роботи, а ергономічна клавіатура спростить роботу з текстом.</description_ua>
+    <quantity_in_stock>100</quantity_in_stock>
+    <keywords>Ноутбук Lenovo V15 G4 IRU (83A100Q4RA)</keywords>
+    <keywords_ua>Ноутбук Lenovo V15 G4 IRU (83A100Q4RA)</keywords_ua>
+    <param name="Вес" unit="кг">1.7</param>
+    <param name="Количество ядер процессора">6</param>
+    <param name="Тип матрицы">IPS</param>
+    <param name="Тип накопителя">SSD</param>
+    <param name="Тип оперативной памяти">DDR4</param>
+    <param name="Цвет">Черный</param>
+    <param name="Частота обновления экрана" unit="Гц">60</param>
+    <param name="Ширина" unit="мм">359.2</param>
+    <param name="Тип">Ноутбук</param>
+    <param name="Тип процессора">Core i3</param>
+    <param name="Артикул" unit="">83A100Q4RA</param>
+    <param name="Беспроводные технологии" unit="">Bluetooth, Wi-Fi</param>
+    <param name="Веб-камера" unit="">WEB-Camera</param>
+    <param name="Видеокарта" unit="">Intel UHD Graphics</param>
+    <param name="Высота" unit="">19.9 мм</param>
+    <param name="Гарантия, мес" unit="">36</param>
+    <param name="Глубина" unit="">235.8 мм</param>
+    <param name="Диагональ дисплея" unit="">15.6&amp;quot;</param>
+    <param name="Дополнительные возможности" unit="">встроенный микрофон, стереодинамики</param>
+    <param name="Емкость аккумулятора" unit="">60 Втч</param>
+    <param name="Емкость батареи" unit="">3 cell</param>
+    <param name="Интерфейсы и подключения" unit="">LAN (RJ-45), Комбинированный аудиоразъем, HDMI, USB 3.2 Type-C, USB 2.0, 1 х USB 3.2</param>
+    <param name="Количество отсеков 2.5&amp;quot; SATA для HDD/SSD" unit="">1</param>
+    <param name="Количество слотов M.2" unit="">1</param>
+    <param name="Количество слотов для оперативной памяти" unit="">1</param>
+    <param name="Мoдель" unit="">V15 G4 IRU</param>
+    <param name="Объем SSD" unit="">512 ГБ</param>
+    <param name="Объем оперативной памяти" unit="">16 ГБ</param>
+    <param name="Операционная система" unit="">без операционной системы</param>
+    <param name="Особенности" unit="">TPM модуль</param>
+    <param name="Поверхность экрана" unit="">матовая</param>
+    <param name="Поколение процессора Intel" unit="">13-е поколение</param>
+    <param name="Процессор" unit="">Intel Core i3-1315U (3.3 - 4.5 ГГц)</param>
+    <param name="Разрешение" unit="">1920х1080 (FullHD)</param>
+    <param name="Серия (модельный ряд)" unit="">Lenovo V</param>
+    <param name="Сетевой адаптер" unit="">Gigabit Ethernet</param>
+    <param name="Стандарт интерфейса SSD M.2" unit="">PCI Express 4.0x4</param>
+    <param name="Страна производства" unit="">Китай</param>
+    <param name="Также ищут" unit="">ультрабуки, для графического дизайна, до 50000 грн, до 40000 грн, 2024 года, до 30 000 грн, с большим объемом памяти, с SSD-диском, для подростков, для дома</param>
+    <param name="Тип видеокарты" unit="">интегрированная</param>
+    <param name="Тип ноутбука" unit="">для работы</param>
+  </offer>
+  <offer id="amp-3015-20" available="true">
+    <url>https://cs3879995.prom.ua/p2987831085-noutbuk-lenovo-v15.html</url>
+    <price>33402</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>152427008</categoryId>
+    <picture>https://images.prom.ua/7179706889_noutbuk-lenovo-v15.jpg</picture>
+    <picture>https://images.prom.ua/7179706890_noutbuk-lenovo-v15.jpg</picture>
+    <picture>https://images.prom.ua/7179706891_noutbuk-lenovo-v15.jpg</picture>
+    <picture>https://images.prom.ua/7179706892_noutbuk-lenovo-v15.jpg</picture>
+    <picture>https://images.prom.ua/7179706894_noutbuk-lenovo-v15.jpg</picture>
+    <picture>https://images.prom.ua/7179706895_noutbuk-lenovo-v15.jpg</picture>
+    <picture>https://images.prom.ua/7179706897_noutbuk-lenovo-v15.jpg</picture>
+    <picture>https://images.prom.ua/7179706898_noutbuk-lenovo-v15.jpg</picture>
+    <picture>https://images.prom.ua/7179706899_noutbuk-lenovo-v15.jpg</picture>
+    <pickup>false</pickup>
+    <delivery>true</delivery>
+    <name>Ноутбук Lenovo V15 G4 IRU (83A100Q4RA)</name>
+    <name_ua>Ноутбук Lenovo V15 G4 IRU (83A100Q4RA)</name_ua>
+    <vendor>Lenovo</vendor>
+    <vendorCode>855626-01</vendorCode>
+    <description>Lenovo V15 G4 – ноутбук в сдержанном дизайне, разработанный для ведения бизнеса и решения рабочих задач. Выполнен в достаточно компактных размерах и вес всего 1.65 кг, поэтому его легко можно брать с собой на рабочие встречи или в командировку.Устройство поможет решить сложные  задачи, а со сбалансированной начинкой позволит реализовать масштабные проекты .Центральный процессор представлен  Intel Core i3-1315U ,  который демонстрирует хорошую энергоэффективность и скорость обработки данных. В аппаратной конфигурации модели также имеется  SSD-диск , работа которого заключается в записи и хранении информации. Lenovo V15 обладает широким набором интерфейсов для подключения всех необходимых устройств.Ноутбук прошел множество тестирований и имеет сертификат MIL-STD-810H, подтверждающий его готовность к работе в разных условиях. Крышка способна открываться на 180 градусов, предлагая наиболее удобное положение для работы, а эргономичная клавиатура упростит работу с текстом.</description>
+    <description_ua>Lenovo V15 G4 — ноутбук у стриманому дизайні, розроблений для ведення бізнесу та вирішення робочих завдань. Виконаний у досить компактних розмірах та має вагу всього 1.65 кг, тому його легко можна брати з собою на робочі зустрічі чи у відрядження.Пристрій допоможе розв'язувати складні задачі, а зі збалансованою начинкою дасть змогу реалізувати масштабні проєкти. Оснащення екраном 15.6" дюймів спростить роботу з презентаціями, мультимедійним контентом, діаграмами, адже надає більше площі для відтворення інформації. Центральний процесор представлений Intel Core i3-1315U, який демонструє хорошу енергоефективність і швидкість в обробці даних. У апаратній конфігурації моделі також наявний SSD-диск, робота якого полягає у записі та збереженні інформації. Lenovo V15 має широкий набір інтерфейсів для підключення всіх необхідних пристроїв. Також передбачено вбудований модуль Bluetooth 5.1 для бездротових пристроїв, роз'єм RJ-45 та адаптер Wi-Fi 11ac для під'єднання до мережі інтернет.Ноутбук пройшов безліч тестувань та має сертифікат MIL-STD-810H, який підтверджує його готовність до роботи в різних умовах. Кришка здатна відкриватися на 180 градусів, пропонуючи найбільш зручне положення для роботи, а ергономічна клавіатура спростить роботу з текстом.</description_ua>
+    <quantity_in_stock>100</quantity_in_stock>
+    <keywords>Ноутбук Lenovo V15 G4 IRU (83A100Q4RA)</keywords>
+    <keywords_ua>Ноутбук Lenovo V15 G4 IRU (83A100Q4RA)</keywords_ua>
+    <param name="Вес" unit="кг">1.7</param>
+    <param name="Количество ядер процессора">6</param>
+    <param name="Тип матрицы">IPS</param>
+    <param name="Тип накопителя">SSD</param>
+    <param name="Тип оперативной памяти">DDR4</param>
+    <param name="Цвет">Черный</param>
+    <param name="Частота обновления экрана" unit="Гц">60</param>
+    <param name="Ширина" unit="мм">359.2</param>
+    <param name="Тип">Ноутбук</param>
+    <param name="Тип процессора">Core i3</param>
+    <param name="Артикул" unit="">83A100Q4RA</param>
+    <param name="Беспроводные технологии" unit="">Bluetooth, Wi-Fi</param>
+    <param name="Веб-камера" unit="">WEB-Camera</param>
+    <param name="Видеокарта" unit="">Intel UHD Graphics</param>
+    <param name="Высота" unit="">19.9 мм</param>
+    <param name="Гарантия, мес" unit="">36</param>
+    <param name="Глубина" unit="">235.8 мм</param>
+    <param name="Диагональ дисплея" unit="">15.6&amp;quot;</param>
+    <param name="Дополнительные возможности" unit="">встроенный микрофон, стереодинамики</param>
+    <param name="Емкость аккумулятора" unit="">61 Втч</param>
+    <param name="Емкость батареи" unit="">3 cell</param>
+    <param name="Интерфейсы и подключения" unit="">LAN (RJ-45), Комбинированный аудиоразъем, HDMI, USB 3.2 Type-C, USB 2.0, 1 х USB 3.2</param>
+    <param name="Количество отсеков 2.5&amp;quot; SATA для HDD/SSD" unit="">1</param>
+    <param name="Количество слотов M.2" unit="">1</param>
+    <param name="Количество слотов для оперативной памяти" unit="">1</param>
+    <param name="Мoдель" unit="">V15 G4 IRU</param>
+    <param name="Объем SSD" unit="">512 ГБ</param>
+    <param name="Объем оперативной памяти" unit="">16 ГБ</param>
+    <param name="Операционная система" unit="">без операционной системы</param>
+    <param name="Особенности" unit="">TPM модуль</param>
+    <param name="Поверхность экрана" unit="">матовая</param>
+    <param name="Поколение процессора Intel" unit="">13-е поколение</param>
+    <param name="Процессор" unit="">Intel Core i3-1315U (3.3 - 4.5 ГГц)</param>
+    <param name="Разрешение" unit="">1920х1080 (FullHD)</param>
+    <param name="Серия (модельный ряд)" unit="">Lenovo V</param>
+    <param name="Сетевой адаптер" unit="">Gigabit Ethernet</param>
+    <param name="Стандарт интерфейса SSD M.2" unit="">PCI Express 4.0x4</param>
+    <param name="Страна производства" unit="">Китай</param>
+    <param name="Также ищут" unit="">ультрабуки, для графического дизайна, до 50000 грн, до 40000 грн, 2024 года, до 30 000 грн, с большим объемом памяти, с SSD-диском, для подростков, для дома</param>
+    <param name="Тип видеокарты" unit="">интегрированная</param>
+    <param name="Тип ноутбука" unit="">для работы</param>
+  </offer>
+  <offer id="amp-3015-21" available="true">
+    <url>https://cs3879995.prom.ua/p2987831085-noutbuk-lenovo-v15.html</url>
+    <price>33402</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>152427008</categoryId>
+    <picture>https://images.prom.ua/7179706889_noutbuk-lenovo-v15.jpg</picture>
+    <picture>https://images.prom.ua/7179706890_noutbuk-lenovo-v15.jpg</picture>
+    <picture>https://images.prom.ua/7179706891_noutbuk-lenovo-v15.jpg</picture>
+    <picture>https://images.prom.ua/7179706892_noutbuk-lenovo-v15.jpg</picture>
+    <picture>https://images.prom.ua/7179706894_noutbuk-lenovo-v15.jpg</picture>
+    <picture>https://images.prom.ua/7179706895_noutbuk-lenovo-v15.jpg</picture>
+    <picture>https://images.prom.ua/7179706897_noutbuk-lenovo-v15.jpg</picture>
+    <picture>https://images.prom.ua/7179706898_noutbuk-lenovo-v15.jpg</picture>
+    <picture>https://images.prom.ua/7179706899_noutbuk-lenovo-v15.jpg</picture>
+    <pickup>false</pickup>
+    <delivery>true</delivery>
+    <name>Ноутбук Lenovo V15 G4 IRU (83A100Q4RA)</name>
+    <name_ua>Ноутбук Lenovo V15 G4 IRU (83A100Q4RA)</name_ua>
+    <vendor>Lenovo</vendor>
+    <vendorCode>855626-01</vendorCode>
+    <description>Lenovo V15 G4 – ноутбук в сдержанном дизайне, разработанный для ведения бизнеса и решения рабочих задач. Выполнен в достаточно компактных размерах и вес всего 1.65 кг, поэтому его легко можно брать с собой на рабочие встречи или в командировку.Устройство поможет решить сложные  задачи, а со сбалансированной начинкой позволит реализовать масштабные проекты .Центральный процессор представлен  Intel Core i3-1315U ,  который демонстрирует хорошую энергоэффективность и скорость обработки данных. В аппаратной конфигурации модели также имеется  SSD-диск , работа которого заключается в записи и хранении информации. Lenovo V15 обладает широким набором интерфейсов для подключения всех необходимых устройств.Ноутбук прошел множество тестирований и имеет сертификат MIL-STD-810H, подтверждающий его готовность к работе в разных условиях. Крышка способна открываться на 180 градусов, предлагая наиболее удобное положение для работы, а эргономичная клавиатура упростит работу с текстом.</description>
+    <description_ua>Lenovo V15 G4 — ноутбук у стриманому дизайні, розроблений для ведення бізнесу та вирішення робочих завдань. Виконаний у досить компактних розмірах та має вагу всього 1.65 кг, тому його легко можна брати з собою на робочі зустрічі чи у відрядження.Пристрій допоможе розв'язувати складні задачі, а зі збалансованою начинкою дасть змогу реалізувати масштабні проєкти. Оснащення екраном 15.6" дюймів спростить роботу з презентаціями, мультимедійним контентом, діаграмами, адже надає більше площі для відтворення інформації. Центральний процесор представлений Intel Core i3-1315U, який демонструє хорошу енергоефективність і швидкість в обробці даних. У апаратній конфігурації моделі також наявний SSD-диск, робота якого полягає у записі та збереженні інформації. Lenovo V15 має широкий набір інтерфейсів для підключення всіх необхідних пристроїв. Також передбачено вбудований модуль Bluetooth 5.1 для бездротових пристроїв, роз'єм RJ-45 та адаптер Wi-Fi 11ac для під'єднання до мережі інтернет.Ноутбук пройшов безліч тестувань та має сертифікат MIL-STD-810H, який підтверджує його готовність до роботи в різних умовах. Кришка здатна відкриватися на 180 градусів, пропонуючи найбільш зручне положення для роботи, а ергономічна клавіатура спростить роботу з текстом.</description_ua>
+    <quantity_in_stock>100</quantity_in_stock>
+    <keywords>Ноутбук Lenovo V15 G4 IRU (83A100Q4RA)</keywords>
+    <keywords_ua>Ноутбук Lenovo V15 G4 IRU (83A100Q4RA)</keywords_ua>
+    <param name="Вес" unit="кг">1.7</param>
+    <param name="Количество ядер процессора">6</param>
+    <param name="Тип матрицы">IPS</param>
+    <param name="Тип накопителя">SSD</param>
+    <param name="Тип оперативной памяти">DDR4</param>
+    <param name="Цвет">Черный</param>
+    <param name="Частота обновления экрана" unit="Гц">60</param>
+    <param name="Ширина" unit="мм">359.2</param>
+    <param name="Тип">Ноутбук</param>
+    <param name="Тип процессора">Core i3</param>
+    <param name="Артикул" unit="">83A100Q4RA</param>
+    <param name="Беспроводные технологии" unit="">Bluetooth, Wi-Fi</param>
+    <param name="Веб-камера" unit="">WEB-Camera</param>
+    <param name="Видеокарта" unit="">Intel UHD Graphics</param>
+    <param name="Высота" unit="">19.9 мм</param>
+    <param name="Гарантия, мес" unit="">36</param>
+    <param name="Глубина" unit="">235.8 мм</param>
+    <param name="Диагональ дисплея" unit="">15.6&amp;quot;</param>
+    <param name="Дополнительные возможности" unit="">встроенный микрофон, стереодинамики</param>
+    <param name="Емкость аккумулятора" unit="">65 Втч</param>
+    <param name="Емкость батареи" unit="">3 cell</param>
+    <param name="Интерфейсы и подключения" unit="">LAN (RJ-45), Комбинированный аудиоразъем, HDMI, USB 3.2 Type-C, USB 2.0, 1 х USB 3.2</param>
+    <param name="Количество отсеков 2.5&amp;quot; SATA для HDD/SSD" unit="">1</param>
+    <param name="Количество слотов M.2" unit="">1</param>
+    <param name="Количество слотов для оперативной памяти" unit="">1</param>
+    <param name="Мoдель" unit="">V15 G4 IRU</param>
+    <param name="Объем SSD" unit="">512 ГБ</param>
+    <param name="Объем оперативной памяти" unit="">16 ГБ</param>
+    <param name="Операционная система" unit="">без операционной системы</param>
+    <param name="Особенности" unit="">TPM модуль</param>
+    <param name="Поверхность экрана" unit="">матовая</param>
+    <param name="Поколение процессора Intel" unit="">13-е поколение</param>
+    <param name="Процессор" unit="">Intel Core i3-1315U (3.3 - 4.5 ГГц)</param>
+    <param name="Разрешение" unit="">1920х1080 (FullHD)</param>
+    <param name="Серия (модельный ряд)" unit="">Lenovo V</param>
+    <param name="Сетевой адаптер" unit="">Gigabit Ethernet</param>
+    <param name="Стандарт интерфейса SSD M.2" unit="">PCI Express 4.0x4</param>
+    <param name="Страна производства" unit="">Китай</param>
+    <param name="Также ищут" unit="">ультрабуки, для графического дизайна, до 50000 грн, до 40000 грн, 2024 года, до 30 000 грн, с большим объемом памяти, с SSD-диском, для подростков, для дома</param>
+    <param name="Тип видеокарты" unit="">интегрированная</param>
+    <param name="Тип ноутбука" unit="">для работы</param>
+  </offer>
+  <offer id="amp-3015-22" available="true">
+    <url>https://cs3879995.prom.ua/p2987831085-noutbuk-lenovo-v15.html</url>
+    <price>33402</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>152427008</categoryId>
+    <picture>https://images.prom.ua/7179706889_noutbuk-lenovo-v15.jpg</picture>
+    <picture>https://images.prom.ua/7179706890_noutbuk-lenovo-v15.jpg</picture>
+    <picture>https://images.prom.ua/7179706891_noutbuk-lenovo-v15.jpg</picture>
+    <picture>https://images.prom.ua/7179706892_noutbuk-lenovo-v15.jpg</picture>
+    <picture>https://images.prom.ua/7179706894_noutbuk-lenovo-v15.jpg</picture>
+    <picture>https://images.prom.ua/7179706895_noutbuk-lenovo-v15.jpg</picture>
+    <picture>https://images.prom.ua/7179706897_noutbuk-lenovo-v15.jpg</picture>
+    <picture>https://images.prom.ua/7179706898_noutbuk-lenovo-v15.jpg</picture>
+    <picture>https://images.prom.ua/7179706899_noutbuk-lenovo-v15.jpg</picture>
+    <pickup>false</pickup>
+    <delivery>true</delivery>
+    <name>Ноутбук Lenovo V15 G4 IRU (83A100Q4RA)</name>
+    <name_ua>Ноутбук Lenovo V15 G4 IRU (83A100Q4RA)</name_ua>
+    <vendor>Lenovo</vendor>
+    <vendorCode>855626-01</vendorCode>
+    <description>Lenovo V15 G4 – ноутбук в сдержанном дизайне, разработанный для ведения бизнеса и решения рабочих задач. Выполнен в достаточно компактных размерах и вес всего 1.65 кг, поэтому его легко можно брать с собой на рабочие встречи или в командировку.Устройство поможет решить сложные  задачи, а со сбалансированной начинкой позволит реализовать масштабные проекты .Центральный процессор представлен  Intel Core i3-1315U ,  который демонстрирует хорошую энергоэффективность и скорость обработки данных. В аппаратной конфигурации модели также имеется  SSD-диск , работа которого заключается в записи и хранении информации. Lenovo V15 обладает широким набором интерфейсов для подключения всех необходимых устройств.Ноутбук прошел множество тестирований и имеет сертификат MIL-STD-810H, подтверждающий его готовность к работе в разных условиях. Крышка способна открываться на 180 градусов, предлагая наиболее удобное положение для работы, а эргономичная клавиатура упростит работу с текстом.</description>
+    <description_ua>Lenovo V15 G4 — ноутбук у стриманому дизайні, розроблений для ведення бізнесу та вирішення робочих завдань. Виконаний у досить компактних розмірах та має вагу всього 1.65 кг, тому його легко можна брати з собою на робочі зустрічі чи у відрядження.Пристрій допоможе розв'язувати складні задачі, а зі збалансованою начинкою дасть змогу реалізувати масштабні проєкти. Оснащення екраном 15.6" дюймів спростить роботу з презентаціями, мультимедійним контентом, діаграмами, адже надає більше площі для відтворення інформації. Центральний процесор представлений Intel Core i3-1315U, який демонструє хорошу енергоефективність і швидкість в обробці даних. У апаратній конфігурації моделі також наявний SSD-диск, робота якого полягає у записі та збереженні інформації. Lenovo V15 має широкий набір інтерфейсів для підключення всіх необхідних пристроїв. Також передбачено вбудований модуль Bluetooth 5.1 для бездротових пристроїв, роз'єм RJ-45 та адаптер Wi-Fi 11ac для під'єднання до мережі інтернет.Ноутбук пройшов безліч тестувань та має сертифікат MIL-STD-810H, який підтверджує його готовність до роботи в різних умовах. Кришка здатна відкриватися на 180 градусів, пропонуючи найбільш зручне положення для роботи, а ергономічна клавіатура спростить роботу з текстом.</description_ua>
+    <quantity_in_stock>100</quantity_in_stock>
+    <keywords>Ноутбук Lenovo V15 G4 IRU (83A100Q4RA)</keywords>
+    <keywords_ua>Ноутбук Lenovo V15 G4 IRU (83A100Q4RA)</keywords_ua>
+    <param name="Вес" unit="кг">1.7</param>
+    <param name="Количество ядер процессора">6</param>
+    <param name="Тип матрицы">IPS</param>
+    <param name="Тип накопителя">SSD</param>
+    <param name="Тип оперативной памяти">DDR4</param>
+    <param name="Цвет">Черный</param>
+    <param name="Частота обновления экрана" unit="Гц">60</param>
+    <param name="Ширина" unit="мм">359.2</param>
+    <param name="Тип">Ноутбук</param>
+    <param name="Тип процессора">Core i3</param>
+    <param name="Артикул" unit="">83A100Q4RA</param>
+    <param name="Беспроводные технологии" unit="">Bluetooth, Wi-Fi</param>
+    <param name="Веб-камера" unit="">WEB-Camera</param>
+    <param name="Видеокарта" unit="">Intel UHD Graphics</param>
+    <param name="Высота" unit="">19.9 мм</param>
+    <param name="Гарантия, мес" unit="">36</param>
+    <param name="Глубина" unit="">235.8 мм</param>
+    <param name="Диагональ дисплея" unit="">15.6&amp;quot;</param>
+    <param name="Дополнительные возможности" unit="">встроенный микрофон, стереодинамики</param>
+    <param name="Емкость аккумулятора" unit="">66 Втч</param>
+    <param name="Емкость батареи" unit="">3 cell</param>
+    <param name="Интерфейсы и подключения" unit="">LAN (RJ-45), Комбинированный аудиоразъем, HDMI, USB 3.2 Type-C, USB 2.0, 1 х USB 3.2</param>
+    <param name="Количество отсеков 2.5&amp;quot; SATA для HDD/SSD" unit="">1</param>
+    <param name="Количество слотов M.2" unit="">1</param>
+    <param name="Количество слотов для оперативной памяти" unit="">1</param>
+    <param name="Мoдель" unit="">V15 G4 IRU</param>
+    <param name="Объем SSD" unit="">512 ГБ</param>
+    <param name="Объем оперативной памяти" unit="">16 ГБ</param>
+    <param name="Операционная система" unit="">без операционной системы</param>
+    <param name="Особенности" unit="">TPM модуль</param>
+    <param name="Поверхность экрана" unit="">матовая</param>
+    <param name="Поколение процессора Intel" unit="">13-е поколение</param>
+    <param name="Процессор" unit="">Intel Core i3-1315U (3.3 - 4.5 ГГц)</param>
+    <param name="Разрешение" unit="">1920х1080 (FullHD)</param>
+    <param name="Серия (модельный ряд)" unit="">Lenovo V</param>
+    <param name="Сетевой адаптер" unit="">Gigabit Ethernet</param>
+    <param name="Стандарт интерфейса SSD M.2" unit="">PCI Express 4.0x4</param>
+    <param name="Страна производства" unit="">Китай</param>
+    <param name="Также ищут" unit="">ультрабуки, для графического дизайна, до 50000 грн, до 40000 грн, 2024 года, до 30 000 грн, с большим объемом памяти, с SSD-диском, для подростков, для дома</param>
+    <param name="Тип видеокарты" unit="">интегрированная</param>
+    <param name="Тип ноутбука" unit="">для работы</param>
+  </offer>
+  <offer id="amp-3015-24" available="true">
+    <url>https://cs3879995.prom.ua/p2987831085-noutbuk-lenovo-v15.html</url>
+    <price>33402</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>152427008</categoryId>
+    <picture>https://images.prom.ua/7179706889_noutbuk-lenovo-v15.jpg</picture>
+    <picture>https://images.prom.ua/7179706890_noutbuk-lenovo-v15.jpg</picture>
+    <picture>https://images.prom.ua/7179706891_noutbuk-lenovo-v15.jpg</picture>
+    <picture>https://images.prom.ua/7179706892_noutbuk-lenovo-v15.jpg</picture>
+    <picture>https://images.prom.ua/7179706894_noutbuk-lenovo-v15.jpg</picture>
+    <picture>https://images.prom.ua/7179706895_noutbuk-lenovo-v15.jpg</picture>
+    <picture>https://images.prom.ua/7179706897_noutbuk-lenovo-v15.jpg</picture>
+    <picture>https://images.prom.ua/7179706898_noutbuk-lenovo-v15.jpg</picture>
+    <picture>https://images.prom.ua/7179706899_noutbuk-lenovo-v15.jpg</picture>
+    <pickup>false</pickup>
+    <delivery>true</delivery>
+    <name>Ноутбук Lenovo V15 G4 IRU (83A100Q4RA)</name>
+    <name_ua>Ноутбук Lenovo V15 G4 IRU (83A100Q4RA)</name_ua>
+    <vendor>Lenovo</vendor>
+    <vendorCode>855626-01</vendorCode>
+    <description>Lenovo V15 G4 – ноутбук в сдержанном дизайне, разработанный для ведения бизнеса и решения рабочих задач. Выполнен в достаточно компактных размерах и вес всего 1.65 кг, поэтому его легко можно брать с собой на рабочие встречи или в командировку.Устройство поможет решить сложные  задачи, а со сбалансированной начинкой позволит реализовать масштабные проекты .Центральный процессор представлен  Intel Core i3-1315U ,  который демонстрирует хорошую энергоэффективность и скорость обработки данных. В аппаратной конфигурации модели также имеется  SSD-диск , работа которого заключается в записи и хранении информации. Lenovo V15 обладает широким набором интерфейсов для подключения всех необходимых устройств.Ноутбук прошел множество тестирований и имеет сертификат MIL-STD-810H, подтверждающий его готовность к работе в разных условиях. Крышка способна открываться на 180 градусов, предлагая наиболее удобное положение для работы, а эргономичная клавиатура упростит работу с текстом.</description>
+    <description_ua>Lenovo V15 G4 — ноутбук у стриманому дизайні, розроблений для ведення бізнесу та вирішення робочих завдань. Виконаний у досить компактних розмірах та має вагу всього 1.65 кг, тому його легко можна брати з собою на робочі зустрічі чи у відрядження.Пристрій допоможе розв'язувати складні задачі, а зі збалансованою начинкою дасть змогу реалізувати масштабні проєкти. Оснащення екраном 15.6" дюймів спростить роботу з презентаціями, мультимедійним контентом, діаграмами, адже надає більше площі для відтворення інформації. Центральний процесор представлений Intel Core i3-1315U, який демонструє хорошу енергоефективність і швидкість в обробці даних. У апаратній конфігурації моделі також наявний SSD-диск, робота якого полягає у записі та збереженні інформації. Lenovo V15 має широкий набір інтерфейсів для підключення всіх необхідних пристроїв. Також передбачено вбудований модуль Bluetooth 5.1 для бездротових пристроїв, роз'єм RJ-45 та адаптер Wi-Fi 11ac для під'єднання до мережі інтернет.Ноутбук пройшов безліч тестувань та має сертифікат MIL-STD-810H, який підтверджує його готовність до роботи в різних умовах. Кришка здатна відкриватися на 180 градусів, пропонуючи найбільш зручне положення для роботи, а ергономічна клавіатура спростить роботу з текстом.</description_ua>
+    <quantity_in_stock>100</quantity_in_stock>
+    <keywords>Ноутбук Lenovo V15 G4 IRU (83A100Q4RA)</keywords>
+    <keywords_ua>Ноутбук Lenovo V15 G4 IRU (83A100Q4RA)</keywords_ua>
+    <param name="Вес" unit="кг">1.7</param>
+    <param name="Количество ядер процессора">6</param>
+    <param name="Тип матрицы">IPS</param>
+    <param name="Тип накопителя">SSD</param>
+    <param name="Тип оперативной памяти">DDR4</param>
+    <param name="Цвет">Черный</param>
+    <param name="Частота обновления экрана" unit="Гц">60</param>
+    <param name="Ширина" unit="мм">359.2</param>
+    <param name="Тип">Ноутбук</param>
+    <param name="Тип процессора">Core i3</param>
+    <param name="Артикул" unit="">83A100Q4RA</param>
+    <param name="Беспроводные технологии" unit="">Bluetooth, Wi-Fi</param>
+    <param name="Веб-камера" unit="">WEB-Camera</param>
+    <param name="Видеокарта" unit="">Intel UHD Graphics</param>
+    <param name="Высота" unit="">19.9 мм</param>
+    <param name="Гарантия, мес" unit="">36</param>
+    <param name="Глубина" unit="">235.8 мм</param>
+    <param name="Диагональ дисплея" unit="">15.6&amp;quot;</param>
+    <param name="Дополнительные возможности" unit="">встроенный микрофон, стереодинамики</param>
+    <param name="Емкость аккумулятора" unit="">67 Втч</param>
+    <param name="Емкость батареи" unit="">3 cell</param>
+    <param name="Интерфейсы и подключения" unit="">LAN (RJ-45), Комбинированный аудиоразъем, HDMI, USB 3.2 Type-C, USB 2.0, 1 х USB 3.2</param>
+    <param name="Количество отсеков 2.5&amp;quot; SATA для HDD/SSD" unit="">1</param>
+    <param name="Количество слотов M.2" unit="">1</param>
+    <param name="Количество слотов для оперативной памяти" unit="">1</param>
+    <param name="Мoдель" unit="">V15 G4 IRU</param>
+    <param name="Объем SSD" unit="">512 ГБ</param>
+    <param name="Объем оперативной памяти" unit="">16 ГБ</param>
+    <param name="Операционная система" unit="">без операционной системы</param>
+    <param name="Особенности" unit="">TPM модуль</param>
+    <param name="Поверхность экрана" unit="">матовая</param>
+    <param name="Поколение процессора Intel" unit="">13-е поколение</param>
+    <param name="Процессор" unit="">Intel Core i3-1315U (3.3 - 4.5 ГГц)</param>
+    <param name="Разрешение" unit="">1920х1080 (FullHD)</param>
+    <param name="Серия (модельный ряд)" unit="">Lenovo V</param>
+    <param name="Сетевой адаптер" unit="">Gigabit Ethernet</param>
+    <param name="Стандарт интерфейса SSD M.2" unit="">PCI Express 4.0x4</param>
+    <param name="Страна производства" unit="">Китай</param>
+    <param name="Также ищут" unit="">ультрабуки, для графического дизайна, до 50000 грн, до 40000 грн, 2024 года, до 30 000 грн, с большим объемом памяти, с SSD-диском, для подростков, для дома</param>
+    <param name="Тип видеокарты" unit="">интегрированная</param>
+    <param name="Тип ноутбука" unit="">для работы</param>
+  </offer>
+  <offer id="amp-3015-26" available="true">
+    <url>https://cs3879995.prom.ua/p2987831085-noutbuk-lenovo-v15.html</url>
+    <price>33402</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>152427008</categoryId>
+    <picture>https://images.prom.ua/7179706889_noutbuk-lenovo-v15.jpg</picture>
+    <picture>https://images.prom.ua/7179706890_noutbuk-lenovo-v15.jpg</picture>
+    <picture>https://images.prom.ua/7179706891_noutbuk-lenovo-v15.jpg</picture>
+    <picture>https://images.prom.ua/7179706892_noutbuk-lenovo-v15.jpg</picture>
+    <picture>https://images.prom.ua/7179706894_noutbuk-lenovo-v15.jpg</picture>
+    <picture>https://images.prom.ua/7179706895_noutbuk-lenovo-v15.jpg</picture>
+    <picture>https://images.prom.ua/7179706897_noutbuk-lenovo-v15.jpg</picture>
+    <picture>https://images.prom.ua/7179706898_noutbuk-lenovo-v15.jpg</picture>
+    <picture>https://images.prom.ua/7179706899_noutbuk-lenovo-v15.jpg</picture>
+    <pickup>false</pickup>
+    <delivery>true</delivery>
+    <name>Ноутбук Lenovo V15 G4 IRU (83A100Q4RA)</name>
+    <name_ua>Ноутбук Lenovo V15 G4 IRU (83A100Q4RA)</name_ua>
+    <vendor>Lenovo</vendor>
+    <vendorCode>855626-01</vendorCode>
+    <description>Lenovo V15 G4 – ноутбук в сдержанном дизайне, разработанный для ведения бизнеса и решения рабочих задач. Выполнен в достаточно компактных размерах и вес всего 1.65 кг, поэтому его легко можно брать с собой на рабочие встречи или в командировку.Устройство поможет решить сложные  задачи, а со сбалансированной начинкой позволит реализовать масштабные проекты .Центральный процессор представлен  Intel Core i3-1315U ,  который демонстрирует хорошую энергоэффективность и скорость обработки данных. В аппаратной конфигурации модели также имеется  SSD-диск , работа которого заключается в записи и хранении информации. Lenovo V15 обладает широким набором интерфейсов для подключения всех необходимых устройств.Ноутбук прошел множество тестирований и имеет сертификат MIL-STD-810H, подтверждающий его готовность к работе в разных условиях. Крышка способна открываться на 180 градусов, предлагая наиболее удобное положение для работы, а эргономичная клавиатура упростит работу с текстом.</description>
+    <description_ua>Lenovo V15 G4 — ноутбук у стриманому дизайні, розроблений для ведення бізнесу та вирішення робочих завдань. Виконаний у досить компактних розмірах та має вагу всього 1.65 кг, тому його легко можна брати з собою на робочі зустрічі чи у відрядження.Пристрій допоможе розв'язувати складні задачі, а зі збалансованою начинкою дасть змогу реалізувати масштабні проєкти. Оснащення екраном 15.6" дюймів спростить роботу з презентаціями, мультимедійним контентом, діаграмами, адже надає більше площі для відтворення інформації. Центральний процесор представлений Intel Core i3-1315U, який демонструє хорошу енергоефективність і швидкість в обробці даних. У апаратній конфігурації моделі також наявний SSD-диск, робота якого полягає у записі та збереженні інформації. Lenovo V15 має широкий набір інтерфейсів для підключення всіх необхідних пристроїв. Також передбачено вбудований модуль Bluetooth 5.1 для бездротових пристроїв, роз'єм RJ-45 та адаптер Wi-Fi 11ac для під'єднання до мережі інтернет.Ноутбук пройшов безліч тестувань та має сертифікат MIL-STD-810H, який підтверджує його готовність до роботи в різних умовах. Кришка здатна відкриватися на 180 градусів, пропонуючи найбільш зручне положення для роботи, а ергономічна клавіатура спростить роботу з текстом.</description_ua>
+    <quantity_in_stock>100</quantity_in_stock>
+    <keywords>Ноутбук Lenovo V15 G4 IRU (83A100Q4RA)</keywords>
+    <keywords_ua>Ноутбук Lenovo V15 G4 IRU (83A100Q4RA)</keywords_ua>
+    <param name="Вес" unit="кг">1.7</param>
+    <param name="Количество ядер процессора">6</param>
+    <param name="Тип матрицы">IPS</param>
+    <param name="Тип накопителя">SSD</param>
+    <param name="Тип оперативной памяти">DDR4</param>
+    <param name="Цвет">Черный</param>
+    <param name="Частота обновления экрана" unit="Гц">60</param>
+    <param name="Ширина" unit="мм">359.2</param>
+    <param name="Тип">Ноутбук</param>
+    <param name="Тип процессора">Core i3</param>
+    <param name="Артикул" unit="">83A100Q4RA</param>
+    <param name="Беспроводные технологии" unit="">Bluetooth, Wi-Fi</param>
+    <param name="Веб-камера" unit="">WEB-Camera</param>
+    <param name="Видеокарта" unit="">Intel UHD Graphics</param>
+    <param name="Высота" unit="">19.9 мм</param>
+    <param name="Гарантия, мес" unit="">36</param>
+    <param name="Глубина" unit="">235.8 мм</param>
+    <param name="Диагональ дисплея" unit="">15.6&amp;quot;</param>
+    <param name="Дополнительные возможности" unit="">встроенный микрофон, стереодинамики</param>
+    <param name="Емкость аккумулятора" unit="">70 Втч</param>
+    <param name="Емкость батареи" unit="">3 cell</param>
+    <param name="Интерфейсы и подключения" unit="">LAN (RJ-45), Комбинированный аудиоразъем, HDMI, USB 3.2 Type-C, USB 2.0, 1 х USB 3.2</param>
+    <param name="Количество отсеков 2.5&amp;quot; SATA для HDD/SSD" unit="">1</param>
+    <param name="Количество слотов M.2" unit="">1</param>
+    <param name="Количество слотов для оперативной памяти" unit="">1</param>
+    <param name="Мoдель" unit="">V15 G4 IRU</param>
+    <param name="Объем SSD" unit="">512 ГБ</param>
+    <param name="Объем оперативной памяти" unit="">16 ГБ</param>
+    <param name="Операционная система" unit="">без операционной системы</param>
+    <param name="Особенности" unit="">TPM модуль</param>
+    <param name="Поверхность экрана" unit="">матовая</param>
+    <param name="Поколение процессора Intel" unit="">13-е поколение</param>
+    <param name="Процессор" unit="">Intel Core i3-1315U (3.3 - 4.5 ГГц)</param>
+    <param name="Разрешение" unit="">1920х1080 (FullHD)</param>
+    <param name="Серия (модельный ряд)" unit="">Lenovo V</param>
+    <param name="Сетевой адаптер" unit="">Gigabit Ethernet</param>
+    <param name="Стандарт интерфейса SSD M.2" unit="">PCI Express 4.0x4</param>
+    <param name="Страна производства" unit="">Китай</param>
+    <param name="Также ищут" unit="">ультрабуки, для графического дизайна, до 50000 грн, до 40000 грн, 2024 года, до 30 000 грн, с большим объемом памяти, с SSD-диском, для подростков, для дома</param>
+    <param name="Тип видеокарты" unit="">интегрированная</param>
+    <param name="Тип ноутбука" unit="">для работы</param>
+  </offer>
+  <offer id="amp-3015-27" available="true">
+    <url>https://cs3879995.prom.ua/p2987831085-noutbuk-lenovo-v15.html</url>
+    <price>33402</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>152427008</categoryId>
+    <picture>https://images.prom.ua/7179706889_noutbuk-lenovo-v15.jpg</picture>
+    <picture>https://images.prom.ua/7179706890_noutbuk-lenovo-v15.jpg</picture>
+    <picture>https://images.prom.ua/7179706891_noutbuk-lenovo-v15.jpg</picture>
+    <picture>https://images.prom.ua/7179706892_noutbuk-lenovo-v15.jpg</picture>
+    <picture>https://images.prom.ua/7179706894_noutbuk-lenovo-v15.jpg</picture>
+    <picture>https://images.prom.ua/7179706895_noutbuk-lenovo-v15.jpg</picture>
+    <picture>https://images.prom.ua/7179706897_noutbuk-lenovo-v15.jpg</picture>
+    <picture>https://images.prom.ua/7179706898_noutbuk-lenovo-v15.jpg</picture>
+    <picture>https://images.prom.ua/7179706899_noutbuk-lenovo-v15.jpg</picture>
+    <pickup>false</pickup>
+    <delivery>true</delivery>
+    <name>Ноутбук Lenovo V15 G4 IRU (83A100Q4RA)</name>
+    <name_ua>Ноутбук Lenovo V15 G4 IRU (83A100Q4RA)</name_ua>
+    <vendor>Lenovo</vendor>
+    <vendorCode>855626-01</vendorCode>
+    <description>Lenovo V15 G4 – ноутбук в сдержанном дизайне, разработанный для ведения бизнеса и решения рабочих задач. Выполнен в достаточно компактных размерах и вес всего 1.65 кг, поэтому его легко можно брать с собой на рабочие встречи или в командировку.Устройство поможет решить сложные  задачи, а со сбалансированной начинкой позволит реализовать масштабные проекты .Центральный процессор представлен  Intel Core i3-1315U ,  который демонстрирует хорошую энергоэффективность и скорость обработки данных. В аппаратной конфигурации модели также имеется  SSD-диск , работа которого заключается в записи и хранении информации. Lenovo V15 обладает широким набором интерфейсов для подключения всех необходимых устройств.Ноутбук прошел множество тестирований и имеет сертификат MIL-STD-810H, подтверждающий его готовность к работе в разных условиях. Крышка способна открываться на 180 градусов, предлагая наиболее удобное положение для работы, а эргономичная клавиатура упростит работу с текстом.</description>
+    <description_ua>Lenovo V15 G4 — ноутбук у стриманому дизайні, розроблений для ведення бізнесу та вирішення робочих завдань. Виконаний у досить компактних розмірах та має вагу всього 1.65 кг, тому його легко можна брати з собою на робочі зустрічі чи у відрядження.Пристрій допоможе розв'язувати складні задачі, а зі збалансованою начинкою дасть змогу реалізувати масштабні проєкти. Оснащення екраном 15.6" дюймів спростить роботу з презентаціями, мультимедійним контентом, діаграмами, адже надає більше площі для відтворення інформації. Центральний процесор представлений Intel Core i3-1315U, який демонструє хорошу енергоефективність і швидкість в обробці даних. У апаратній конфігурації моделі також наявний SSD-диск, робота якого полягає у записі та збереженні інформації. Lenovo V15 має широкий набір інтерфейсів для підключення всіх необхідних пристроїв. Також передбачено вбудований модуль Bluetooth 5.1 для бездротових пристроїв, роз'єм RJ-45 та адаптер Wi-Fi 11ac для під'єднання до мережі інтернет.Ноутбук пройшов безліч тестувань та має сертифікат MIL-STD-810H, який підтверджує його готовність до роботи в різних умовах. Кришка здатна відкриватися на 180 градусів, пропонуючи найбільш зручне положення для роботи, а ергономічна клавіатура спростить роботу з текстом.</description_ua>
+    <quantity_in_stock>100</quantity_in_stock>
+    <keywords>Ноутбук Lenovo V15 G4 IRU (83A100Q4RA)</keywords>
+    <keywords_ua>Ноутбук Lenovo V15 G4 IRU (83A100Q4RA)</keywords_ua>
+    <param name="Вес" unit="кг">1.7</param>
+    <param name="Количество ядер процессора">6</param>
+    <param name="Тип матрицы">IPS</param>
+    <param name="Тип накопителя">SSD</param>
+    <param name="Тип оперативной памяти">DDR4</param>
+    <param name="Цвет">Черный</param>
+    <param name="Частота обновления экрана" unit="Гц">60</param>
+    <param name="Ширина" unit="мм">359.2</param>
+    <param name="Тип">Ноутбук</param>
+    <param name="Тип процессора">Core i3</param>
+    <param name="Артикул" unit="">83A100Q4RA</param>
+    <param name="Беспроводные технологии" unit="">Bluetooth, Wi-Fi</param>
+    <param name="Веб-камера" unit="">WEB-Camera</param>
+    <param name="Видеокарта" unit="">Intel UHD Graphics</param>
+    <param name="Высота" unit="">19.9 мм</param>
+    <param name="Гарантия, мес" unit="">36</param>
+    <param name="Глубина" unit="">235.8 мм</param>
+    <param name="Диагональ дисплея" unit="">15.6&amp;quot;</param>
+    <param name="Дополнительные возможности" unit="">встроенный микрофон, стереодинамики</param>
+    <param name="Емкость аккумулятора" unit="">71 Втч</param>
+    <param name="Емкость батареи" unit="">3 cell</param>
+    <param name="Интерфейсы и подключения" unit="">LAN (RJ-45), Комбинированный аудиоразъем, HDMI, USB 3.2 Type-C, USB 2.0, 1 х USB 3.2</param>
+    <param name="Количество отсеков 2.5&amp;quot; SATA для HDD/SSD" unit="">1</param>
+    <param name="Количество слотов M.2" unit="">1</param>
+    <param name="Количество слотов для оперативной памяти" unit="">1</param>
+    <param name="Мoдель" unit="">V15 G4 IRU</param>
+    <param name="Объем SSD" unit="">512 ГБ</param>
+    <param name="Объем оперативной памяти" unit="">16 ГБ</param>
+    <param name="Операционная система" unit="">без операционной системы</param>
+    <param name="Особенности" unit="">TPM модуль</param>
+    <param name="Поверхность экрана" unit="">матовая</param>
+    <param name="Поколение процессора Intel" unit="">13-е поколение</param>
+    <param name="Процессор" unit="">Intel Core i3-1315U (3.3 - 4.5 ГГц)</param>
+    <param name="Разрешение" unit="">1920х1080 (FullHD)</param>
+    <param name="Серия (модельный ряд)" unit="">Lenovo V</param>
+    <param name="Сетевой адаптер" unit="">Gigabit Ethernet</param>
+    <param name="Стандарт интерфейса SSD M.2" unit="">PCI Express 4.0x4</param>
+    <param name="Страна производства" unit="">Китай</param>
+    <param name="Также ищут" unit="">ультрабуки, для графического дизайна, до 50000 грн, до 40000 грн, 2024 года, до 30 000 грн, с большим объемом памяти, с SSD-диском, для подростков, для дома</param>
+    <param name="Тип видеокарты" unit="">интегрированная</param>
+    <param name="Тип ноутбука" unit="">для работы</param>
+  </offer>
+  <offer id="amp-3015-28" available="true">
+    <url>https://cs3879995.prom.ua/p2987831085-noutbuk-lenovo-v15.html</url>
+    <price>33402</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>152427008</categoryId>
+    <picture>https://images.prom.ua/7179706889_noutbuk-lenovo-v15.jpg</picture>
+    <picture>https://images.prom.ua/7179706890_noutbuk-lenovo-v15.jpg</picture>
+    <picture>https://images.prom.ua/7179706891_noutbuk-lenovo-v15.jpg</picture>
+    <picture>https://images.prom.ua/7179706892_noutbuk-lenovo-v15.jpg</picture>
+    <picture>https://images.prom.ua/7179706894_noutbuk-lenovo-v15.jpg</picture>
+    <picture>https://images.prom.ua/7179706895_noutbuk-lenovo-v15.jpg</picture>
+    <picture>https://images.prom.ua/7179706897_noutbuk-lenovo-v15.jpg</picture>
+    <picture>https://images.prom.ua/7179706898_noutbuk-lenovo-v15.jpg</picture>
+    <picture>https://images.prom.ua/7179706899_noutbuk-lenovo-v15.jpg</picture>
+    <pickup>false</pickup>
+    <delivery>true</delivery>
+    <name>Ноутбук Lenovo V15 G4 IRU (83A100Q4RA)</name>
+    <name_ua>Ноутбук Lenovo V15 G4 IRU (83A100Q4RA)</name_ua>
+    <vendor>Lenovo</vendor>
+    <vendorCode>855626-01</vendorCode>
+    <description>Lenovo V15 G4 – ноутбук в сдержанном дизайне, разработанный для ведения бизнеса и решения рабочих задач. Выполнен в достаточно компактных размерах и вес всего 1.65 кг, поэтому его легко можно брать с собой на рабочие встречи или в командировку.Устройство поможет решить сложные  задачи, а со сбалансированной начинкой позволит реализовать масштабные проекты .Центральный процессор представлен  Intel Core i3-1315U ,  который демонстрирует хорошую энергоэффективность и скорость обработки данных. В аппаратной конфигурации модели также имеется  SSD-диск , работа которого заключается в записи и хранении информации. Lenovo V15 обладает широким набором интерфейсов для подключения всех необходимых устройств.Ноутбук прошел множество тестирований и имеет сертификат MIL-STD-810H, подтверждающий его готовность к работе в разных условиях. Крышка способна открываться на 180 градусов, предлагая наиболее удобное положение для работы, а эргономичная клавиатура упростит работу с текстом.</description>
+    <description_ua>Lenovo V15 G4 — ноутбук у стриманому дизайні, розроблений для ведення бізнесу та вирішення робочих завдань. Виконаний у досить компактних розмірах та має вагу всього 1.65 кг, тому його легко можна брати з собою на робочі зустрічі чи у відрядження.Пристрій допоможе розв'язувати складні задачі, а зі збалансованою начинкою дасть змогу реалізувати масштабні проєкти. Оснащення екраном 15.6" дюймів спростить роботу з презентаціями, мультимедійним контентом, діаграмами, адже надає більше площі для відтворення інформації. Центральний процесор представлений Intel Core i3-1315U, який демонструє хорошу енергоефективність і швидкість в обробці даних. У апаратній конфігурації моделі також наявний SSD-диск, робота якого полягає у записі та збереженні інформації. Lenovo V15 має широкий набір інтерфейсів для підключення всіх необхідних пристроїв. Також передбачено вбудований модуль Bluetooth 5.1 для бездротових пристроїв, роз'єм RJ-45 та адаптер Wi-Fi 11ac для під'єднання до мережі інтернет.Ноутбук пройшов безліч тестувань та має сертифікат MIL-STD-810H, який підтверджує його готовність до роботи в різних умовах. Кришка здатна відкриватися на 180 градусів, пропонуючи найбільш зручне положення для роботи, а ергономічна клавіатура спростить роботу з текстом.</description_ua>
+    <quantity_in_stock>100</quantity_in_stock>
+    <keywords>Ноутбук Lenovo V15 G4 IRU (83A100Q4RA)</keywords>
+    <keywords_ua>Ноутбук Lenovo V15 G4 IRU (83A100Q4RA)</keywords_ua>
+    <param name="Вес" unit="кг">1.7</param>
+    <param name="Количество ядер процессора">6</param>
+    <param name="Тип матрицы">IPS</param>
+    <param name="Тип накопителя">SSD</param>
+    <param name="Тип оперативной памяти">DDR4</param>
+    <param name="Цвет">Черный</param>
+    <param name="Частота обновления экрана" unit="Гц">60</param>
+    <param name="Ширина" unit="мм">359.2</param>
+    <param name="Тип">Ноутбук</param>
+    <param name="Тип процессора">Core i3</param>
+    <param name="Артикул" unit="">83A100Q4RA</param>
+    <param name="Беспроводные технологии" unit="">Bluetooth, Wi-Fi</param>
+    <param name="Веб-камера" unit="">WEB-Camera</param>
+    <param name="Видеокарта" unit="">Intel UHD Graphics</param>
+    <param name="Высота" unit="">19.9 мм</param>
+    <param name="Гарантия, мес" unit="">36</param>
+    <param name="Глубина" unit="">235.8 мм</param>
+    <param name="Диагональ дисплея" unit="">15.6&amp;quot;</param>
+    <param name="Дополнительные возможности" unit="">встроенный микрофон, стереодинамики</param>
+    <param name="Емкость аккумулятора" unit="">75 Втч</param>
+    <param name="Емкость батареи" unit="">3 cell</param>
+    <param name="Интерфейсы и подключения" unit="">LAN (RJ-45), Комбинированный аудиоразъем, HDMI, USB 3.2 Type-C, USB 2.0, 1 х USB 3.2</param>
+    <param name="Количество отсеков 2.5&amp;quot; SATA для HDD/SSD" unit="">1</param>
+    <param name="Количество слотов M.2" unit="">1</param>
+    <param name="Количество слотов для оперативной памяти" unit="">1</param>
+    <param name="Мoдель" unit="">V15 G4 IRU</param>
+    <param name="Объем SSD" unit="">512 ГБ</param>
+    <param name="Объем оперативной памяти" unit="">16 ГБ</param>
+    <param name="Операционная система" unit="">без операционной системы</param>
+    <param name="Особенности" unit="">TPM модуль</param>
+    <param name="Поверхность экрана" unit="">матовая</param>
+    <param name="Поколение процессора Intel" unit="">13-е поколение</param>
+    <param name="Процессор" unit="">Intel Core i3-1315U (3.3 - 4.5 ГГц)</param>
+    <param name="Разрешение" unit="">1920х1080 (FullHD)</param>
+    <param name="Серия (модельный ряд)" unit="">Lenovo V</param>
+    <param name="Сетевой адаптер" unit="">Gigabit Ethernet</param>
+    <param name="Стандарт интерфейса SSD M.2" unit="">PCI Express 4.0x4</param>
+    <param name="Страна производства" unit="">Китай</param>
+    <param name="Также ищут" unit="">ультрабуки, для графического дизайна, до 50000 грн, до 40000 грн, 2024 года, до 30 000 грн, с большим объемом памяти, с SSD-диском, для подростков, для дома</param>
+    <param name="Тип видеокарты" unit="">интегрированная</param>
+    <param name="Тип ноутбука" unit="">для работы</param>
+  </offer>
+  <offer id="amp-3015-29" available="true">
+    <url>https://cs3879995.prom.ua/p2987831085-noutbuk-lenovo-v15.html</url>
+    <price>33402</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>152427008</categoryId>
+    <picture>https://images.prom.ua/7179706889_noutbuk-lenovo-v15.jpg</picture>
+    <picture>https://images.prom.ua/7179706890_noutbuk-lenovo-v15.jpg</picture>
+    <picture>https://images.prom.ua/7179706891_noutbuk-lenovo-v15.jpg</picture>
+    <picture>https://images.prom.ua/7179706892_noutbuk-lenovo-v15.jpg</picture>
+    <picture>https://images.prom.ua/7179706894_noutbuk-lenovo-v15.jpg</picture>
+    <picture>https://images.prom.ua/7179706895_noutbuk-lenovo-v15.jpg</picture>
+    <picture>https://images.prom.ua/7179706897_noutbuk-lenovo-v15.jpg</picture>
+    <picture>https://images.prom.ua/7179706898_noutbuk-lenovo-v15.jpg</picture>
+    <picture>https://images.prom.ua/7179706899_noutbuk-lenovo-v15.jpg</picture>
+    <pickup>false</pickup>
+    <delivery>true</delivery>
+    <name>Ноутбук Lenovo V15 G4 IRU (83A100Q4RA)</name>
+    <name_ua>Ноутбук Lenovo V15 G4 IRU (83A100Q4RA)</name_ua>
+    <vendor>Lenovo</vendor>
+    <vendorCode>855626-01</vendorCode>
+    <description>Lenovo V15 G4 – ноутбук в сдержанном дизайне, разработанный для ведения бизнеса и решения рабочих задач. Выполнен в достаточно компактных размерах и вес всего 1.65 кг, поэтому его легко можно брать с собой на рабочие встречи или в командировку.Устройство поможет решить сложные  задачи, а со сбалансированной начинкой позволит реализовать масштабные проекты .Центральный процессор представлен  Intel Core i3-1315U ,  который демонстрирует хорошую энергоэффективность и скорость обработки данных. В аппаратной конфигурации модели также имеется  SSD-диск , работа которого заключается в записи и хранении информации. Lenovo V15 обладает широким набором интерфейсов для подключения всех необходимых устройств.Ноутбук прошел множество тестирований и имеет сертификат MIL-STD-810H, подтверждающий его готовность к работе в разных условиях. Крышка способна открываться на 180 градусов, предлагая наиболее удобное положение для работы, а эргономичная клавиатура упростит работу с текстом.</description>
+    <description_ua>Lenovo V15 G4 — ноутбук у стриманому дизайні, розроблений для ведення бізнесу та вирішення робочих завдань. Виконаний у досить компактних розмірах та має вагу всього 1.65 кг, тому його легко можна брати з собою на робочі зустрічі чи у відрядження.Пристрій допоможе розв'язувати складні задачі, а зі збалансованою начинкою дасть змогу реалізувати масштабні проєкти. Оснащення екраном 15.6" дюймів спростить роботу з презентаціями, мультимедійним контентом, діаграмами, адже надає більше площі для відтворення інформації. Центральний процесор представлений Intel Core i3-1315U, який демонструє хорошу енергоефективність і швидкість в обробці даних. У апаратній конфігурації моделі також наявний SSD-диск, робота якого полягає у записі та збереженні інформації. Lenovo V15 має широкий набір інтерфейсів для підключення всіх необхідних пристроїв. Також передбачено вбудований модуль Bluetooth 5.1 для бездротових пристроїв, роз'єм RJ-45 та адаптер Wi-Fi 11ac для під'єднання до мережі інтернет.Ноутбук пройшов безліч тестувань та має сертифікат MIL-STD-810H, який підтверджує його готовність до роботи в різних умовах. Кришка здатна відкриватися на 180 градусів, пропонуючи найбільш зручне положення для роботи, а ергономічна клавіатура спростить роботу з текстом.</description_ua>
+    <quantity_in_stock>100</quantity_in_stock>
+    <keywords>Ноутбук Lenovo V15 G4 IRU (83A100Q4RA)</keywords>
+    <keywords_ua>Ноутбук Lenovo V15 G4 IRU (83A100Q4RA)</keywords_ua>
+    <param name="Вес" unit="кг">1.7</param>
+    <param name="Количество ядер процессора">6</param>
+    <param name="Тип матрицы">IPS</param>
+    <param name="Тип накопителя">SSD</param>
+    <param name="Тип оперативной памяти">DDR4</param>
+    <param name="Цвет">Черный</param>
+    <param name="Частота обновления экрана" unit="Гц">60</param>
+    <param name="Ширина" unit="мм">359.2</param>
+    <param name="Тип">Ноутбук</param>
+    <param name="Тип процессора">Core i3</param>
+    <param name="Артикул" unit="">83A100Q4RA</param>
+    <param name="Беспроводные технологии" unit="">Bluetooth, Wi-Fi</param>
+    <param name="Веб-камера" unit="">WEB-Camera</param>
+    <param name="Видеокарта" unit="">Intel UHD Graphics</param>
+    <param name="Высота" unit="">19.9 мм</param>
+    <param name="Гарантия, мес" unit="">36</param>
+    <param name="Глубина" unit="">235.8 мм</param>
+    <param name="Диагональ дисплея" unit="">15.6&amp;quot;</param>
+    <param name="Дополнительные возможности" unit="">встроенный микрофон, стереодинамики</param>
+    <param name="Емкость аккумулятора" unit="">78 Втч</param>
+    <param name="Емкость батареи" unit="">3 cell</param>
+    <param name="Интерфейсы и подключения" unit="">LAN (RJ-45), Комбинированный аудиоразъем, HDMI, USB 3.2 Type-C, USB 2.0, 1 х USB 3.2</param>
+    <param name="Количество отсеков 2.5&amp;quot; SATA для HDD/SSD" unit="">1</param>
+    <param name="Количество слотов M.2" unit="">1</param>
+    <param name="Количество слотов для оперативной памяти" unit="">1</param>
+    <param name="Мoдель" unit="">V15 G4 IRU</param>
+    <param name="Объем SSD" unit="">512 ГБ</param>
+    <param name="Объем оперативной памяти" unit="">16 ГБ</param>
+    <param name="Операционная система" unit="">без операционной системы</param>
+    <param name="Особенности" unit="">TPM модуль</param>
+    <param name="Поверхность экрана" unit="">матовая</param>
+    <param name="Поколение процессора Intel" unit="">13-е поколение</param>
+    <param name="Процессор" unit="">Intel Core i3-1315U (3.3 - 4.5 ГГц)</param>
+    <param name="Разрешение" unit="">1920х1080 (FullHD)</param>
+    <param name="Серия (модельный ряд)" unit="">Lenovo V</param>
+    <param name="Сетевой адаптер" unit="">Gigabit Ethernet</param>
+    <param name="Стандарт интерфейса SSD M.2" unit="">PCI Express 4.0x4</param>
+    <param name="Страна производства" unit="">Китай</param>
+    <param name="Также ищут" unit="">ультрабуки, для графического дизайна, до 50000 грн, до 40000 грн, 2024 года, до 30 000 грн, с большим объемом памяти, с SSD-диском, для подростков, для дома</param>
+    <param name="Тип видеокарты" unit="">интегрированная</param>
+    <param name="Тип ноутбука" unit="">для работы</param>
+  </offer>
+  <offer id="amp-3015-29" available="true">
+    <url>https://cs3879995.prom.ua/p2987831085-noutbuk-lenovo-v15.html</url>
+    <price>33402</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>152427008</categoryId>
+    <picture>https://images.prom.ua/7179706889_noutbuk-lenovo-v15.jpg</picture>
+    <picture>https://images.prom.ua/7179706890_noutbuk-lenovo-v15.jpg</picture>
+    <picture>https://images.prom.ua/7179706891_noutbuk-lenovo-v15.jpg</picture>
+    <picture>https://images.prom.ua/7179706892_noutbuk-lenovo-v15.jpg</picture>
+    <picture>https://images.prom.ua/7179706894_noutbuk-lenovo-v15.jpg</picture>
+    <picture>https://images.prom.ua/7179706895_noutbuk-lenovo-v15.jpg</picture>
+    <picture>https://images.prom.ua/7179706897_noutbuk-lenovo-v15.jpg</picture>
+    <picture>https://images.prom.ua/7179706898_noutbuk-lenovo-v15.jpg</picture>
+    <picture>https://images.prom.ua/7179706899_noutbuk-lenovo-v15.jpg</picture>
+    <pickup>false</pickup>
+    <delivery>true</delivery>
+    <name>Ноутбук Lenovo V15 G4 IRU (83A100Q4RA)</name>
+    <name_ua>Ноутбук Lenovo V15 G4 IRU (83A100Q4RA)</name_ua>
+    <vendor>Lenovo</vendor>
+    <vendorCode>855626-01</vendorCode>
+    <description>Lenovo V15 G4 – ноутбук в сдержанном дизайне, разработанный для ведения бизнеса и решения рабочих задач. Выполнен в достаточно компактных размерах и вес всего 1.65 кг, поэтому его легко можно брать с собой на рабочие встречи или в командировку.Устройство поможет решить сложные  задачи, а со сбалансированной начинкой позволит реализовать масштабные проекты .Центральный процессор представлен  Intel Core i3-1315U ,  который демонстрирует хорошую энергоэффективность и скорость обработки данных. В аппаратной конфигурации модели также имеется  SSD-диск , работа которого заключается в записи и хранении информации. Lenovo V15 обладает широким набором интерфейсов для подключения всех необходимых устройств.Ноутбук прошел множество тестирований и имеет сертификат MIL-STD-810H, подтверждающий его готовность к работе в разных условиях. Крышка способна открываться на 180 градусов, предлагая наиболее удобное положение для работы, а эргономичная клавиатура упростит работу с текстом.</description>
+    <description_ua>Lenovo V15 G4 — ноутбук у стриманому дизайні, розроблений для ведення бізнесу та вирішення робочих завдань. Виконаний у досить компактних розмірах та має вагу всього 1.65 кг, тому його легко можна брати з собою на робочі зустрічі чи у відрядження.Пристрій допоможе розв'язувати складні задачі, а зі збалансованою начинкою дасть змогу реалізувати масштабні проєкти. Оснащення екраном 15.6" дюймів спростить роботу з презентаціями, мультимедійним контентом, діаграмами, адже надає більше площі для відтворення інформації. Центральний процесор представлений Intel Core i3-1315U, який демонструє хорошу енергоефективність і швидкість в обробці даних. У апаратній конфігурації моделі також наявний SSD-диск, робота якого полягає у записі та збереженні інформації. Lenovo V15 має широкий набір інтерфейсів для підключення всіх необхідних пристроїв. Також передбачено вбудований модуль Bluetooth 5.1 для бездротових пристроїв, роз'єм RJ-45 та адаптер Wi-Fi 11ac для під'єднання до мережі інтернет.Ноутбук пройшов безліч тестувань та має сертифікат MIL-STD-810H, який підтверджує його готовність до роботи в різних умовах. Кришка здатна відкриватися на 180 градусів, пропонуючи найбільш зручне положення для роботи, а ергономічна клавіатура спростить роботу з текстом.</description_ua>
+    <quantity_in_stock>100</quantity_in_stock>
+    <keywords>Ноутбук Lenovo V15 G4 IRU (83A100Q4RA)</keywords>
+    <keywords_ua>Ноутбук Lenovo V15 G4 IRU (83A100Q4RA)</keywords_ua>
+    <param name="Вес" unit="кг">1.7</param>
+    <param name="Количество ядер процессора">6</param>
+    <param name="Тип матрицы">IPS</param>
+    <param name="Тип накопителя">SSD</param>
+    <param name="Тип оперативной памяти">DDR4</param>
+    <param name="Цвет">Черный</param>
+    <param name="Частота обновления экрана" unit="Гц">60</param>
+    <param name="Ширина" unit="мм">359.2</param>
+    <param name="Тип">Ноутбук</param>
+    <param name="Тип процессора">Core i3</param>
+    <param name="Артикул" unit="">83A100Q4RA</param>
+    <param name="Беспроводные технологии" unit="">Bluetooth, Wi-Fi</param>
+    <param name="Веб-камера" unit="">WEB-Camera</param>
+    <param name="Видеокарта" unit="">Intel UHD Graphics</param>
+    <param name="Высота" unit="">19.9 мм</param>
+    <param name="Гарантия, мес" unit="">36</param>
+    <param name="Глубина" unit="">235.8 мм</param>
+    <param name="Диагональ дисплея" unit="">15.6&amp;quot;</param>
+    <param name="Дополнительные возможности" unit="">встроенный микрофон, стереодинамики</param>
+    <param name="Емкость аккумулятора" unit="">79 Втч</param>
+    <param name="Емкость батареи" unit="">3 cell</param>
+    <param name="Интерфейсы и подключения" unit="">LAN (RJ-45), Комбинированный аудиоразъем, HDMI, USB 3.2 Type-C, USB 2.0, 1 х USB 3.2</param>
+    <param name="Количество отсеков 2.5&amp;quot; SATA для HDD/SSD" unit="">1</param>
+    <param name="Количество слотов M.2" unit="">1</param>
+    <param name="Количество слотов для оперативной памяти" unit="">1</param>
+    <param name="Мoдель" unit="">V15 G4 IRU</param>
+    <param name="Объем SSD" unit="">512 ГБ</param>
+    <param name="Объем оперативной памяти" unit="">16 ГБ</param>
+    <param name="Операционная система" unit="">без операционной системы</param>
+    <param name="Особенности" unit="">TPM модуль</param>
+    <param name="Поверхность экрана" unit="">матовая</param>
+    <param name="Поколение процессора Intel" unit="">13-е поколение</param>
+    <param name="Процессор" unit="">Intel Core i3-1315U (3.3 - 4.5 ГГц)</param>
+    <param name="Разрешение" unit="">1920х1080 (FullHD)</param>
+    <param name="Серия (модельный ряд)" unit="">Lenovo V</param>
+    <param name="Сетевой адаптер" unit="">Gigabit Ethernet</param>
+    <param name="Стандарт интерфейса SSD M.2" unit="">PCI Express 4.0x4</param>
+    <param name="Страна производства" unit="">Китай</param>
+    <param name="Также ищут" unit="">ультрабуки, для графического дизайна, до 50000 грн, до 40000 грн, 2024 года, до 30 000 грн, с большим объемом памяти, с SSD-диском, для подростков, для дома</param>
+    <param name="Тип видеокарты" unit="">интегрированная</param>
+    <param name="Тип ноутбука" unit="">для работы</param>
+  </offer>
+  <offer id="amp-3015-30" available="true">
+    <url>https://cs3879995.prom.ua/p2987831085-noutbuk-lenovo-v15.html</url>
+    <price>33402</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>152427008</categoryId>
+    <picture>https://images.prom.ua/7179706889_noutbuk-lenovo-v15.jpg</picture>
+    <picture>https://images.prom.ua/7179706890_noutbuk-lenovo-v15.jpg</picture>
+    <picture>https://images.prom.ua/7179706891_noutbuk-lenovo-v15.jpg</picture>
+    <picture>https://images.prom.ua/7179706892_noutbuk-lenovo-v15.jpg</picture>
+    <picture>https://images.prom.ua/7179706894_noutbuk-lenovo-v15.jpg</picture>
+    <picture>https://images.prom.ua/7179706895_noutbuk-lenovo-v15.jpg</picture>
+    <picture>https://images.prom.ua/7179706897_noutbuk-lenovo-v15.jpg</picture>
+    <picture>https://images.prom.ua/7179706898_noutbuk-lenovo-v15.jpg</picture>
+    <picture>https://images.prom.ua/7179706899_noutbuk-lenovo-v15.jpg</picture>
+    <pickup>false</pickup>
+    <delivery>true</delivery>
+    <name>Ноутбук Lenovo V15 G4 IRU (83A100Q4RA)</name>
+    <name_ua>Ноутбук Lenovo V15 G4 IRU (83A100Q4RA)</name_ua>
+    <vendor>Lenovo</vendor>
+    <vendorCode>855626-01</vendorCode>
+    <description>Lenovo V15 G4 – ноутбук в сдержанном дизайне, разработанный для ведения бизнеса и решения рабочих задач. Выполнен в достаточно компактных размерах и вес всего 1.65 кг, поэтому его легко можно брать с собой на рабочие встречи или в командировку.Устройство поможет решить сложные  задачи, а со сбалансированной начинкой позволит реализовать масштабные проекты .Центральный процессор представлен  Intel Core i3-1315U ,  который демонстрирует хорошую энергоэффективность и скорость обработки данных. В аппаратной конфигурации модели также имеется  SSD-диск , работа которого заключается в записи и хранении информации. Lenovo V15 обладает широким набором интерфейсов для подключения всех необходимых устройств.Ноутбук прошел множество тестирований и имеет сертификат MIL-STD-810H, подтверждающий его готовность к работе в разных условиях. Крышка способна открываться на 180 градусов, предлагая наиболее удобное положение для работы, а эргономичная клавиатура упростит работу с текстом.</description>
+    <description_ua>Lenovo V15 G4 — ноутбук у стриманому дизайні, розроблений для ведення бізнесу та вирішення робочих завдань. Виконаний у досить компактних розмірах та має вагу всього 1.65 кг, тому його легко можна брати з собою на робочі зустрічі чи у відрядження.Пристрій допоможе розв'язувати складні задачі, а зі збалансованою начинкою дасть змогу реалізувати масштабні проєкти. Оснащення екраном 15.6" дюймів спростить роботу з презентаціями, мультимедійним контентом, діаграмами, адже надає більше площі для відтворення інформації. Центральний процесор представлений Intel Core i3-1315U, який демонструє хорошу енергоефективність і швидкість в обробці даних. У апаратній конфігурації моделі також наявний SSD-диск, робота якого полягає у записі та збереженні інформації. Lenovo V15 має широкий набір інтерфейсів для підключення всіх необхідних пристроїв. Також передбачено вбудований модуль Bluetooth 5.1 для бездротових пристроїв, роз'єм RJ-45 та адаптер Wi-Fi 11ac для під'єднання до мережі інтернет.Ноутбук пройшов безліч тестувань та має сертифікат MIL-STD-810H, який підтверджує його готовність до роботи в різних умовах. Кришка здатна відкриватися на 180 градусів, пропонуючи найбільш зручне положення для роботи, а ергономічна клавіатура спростить роботу з текстом.</description_ua>
+    <quantity_in_stock>100</quantity_in_stock>
+    <keywords>Ноутбук Lenovo V15 G4 IRU (83A100Q4RA)</keywords>
+    <keywords_ua>Ноутбук Lenovo V15 G4 IRU (83A100Q4RA)</keywords_ua>
+    <param name="Вес" unit="кг">1.7</param>
+    <param name="Количество ядер процессора">6</param>
+    <param name="Тип матрицы">IPS</param>
+    <param name="Тип накопителя">SSD</param>
+    <param name="Тип оперативной памяти">DDR4</param>
+    <param name="Цвет">Черный</param>
+    <param name="Частота обновления экрана" unit="Гц">60</param>
+    <param name="Ширина" unit="мм">359.2</param>
+    <param name="Тип">Ноутбук</param>
+    <param name="Тип процессора">Core i3</param>
+    <param name="Артикул" unit="">83A100Q4RA</param>
+    <param name="Беспроводные технологии" unit="">Bluetooth, Wi-Fi</param>
+    <param name="Веб-камера" unit="">WEB-Camera</param>
+    <param name="Видеокарта" unit="">Intel UHD Graphics</param>
+    <param name="Высота" unit="">19.9 мм</param>
+    <param name="Гарантия, мес" unit="">36</param>
+    <param name="Глубина" unit="">235.8 мм</param>
+    <param name="Диагональ дисплея" unit="">15.6&amp;quot;</param>
+    <param name="Дополнительные возможности" unit="">встроенный микрофон, стереодинамики</param>
+    <param name="Емкость аккумулятора" unit="">80 Втч</param>
+    <param name="Емкость батареи" unit="">3 cell</param>
+    <param name="Интерфейсы и подключения" unit="">LAN (RJ-45), Комбинированный аудиоразъем, HDMI, USB 3.2 Type-C, USB 2.0, 1 х USB 3.2</param>
+    <param name="Количество отсеков 2.5&amp;quot; SATA для HDD/SSD" unit="">1</param>
+    <param name="Количество слотов M.2" unit="">1</param>
+    <param name="Количество слотов для оперативной памяти" unit="">1</param>
+    <param name="Мoдель" unit="">V15 G4 IRU</param>
+    <param name="Объем SSD" unit="">512 ГБ</param>
+    <param name="Объем оперативной памяти" unit="">16 ГБ</param>
+    <param name="Операционная система" unit="">без операционной системы</param>
+    <param name="Особенности" unit="">TPM модуль</param>
+    <param name="Поверхность экрана" unit="">матовая</param>
+    <param name="Поколение процессора Intel" unit="">13-е поколение</param>
+    <param name="Процессор" unit="">Intel Core i3-1315U (3.3 - 4.5 ГГц)</param>
+    <param name="Разрешение" unit="">1920х1080 (FullHD)</param>
+    <param name="Серия (модельный ряд)" unit="">Lenovo V</param>
+    <param name="Сетевой адаптер" unit="">Gigabit Ethernet</param>
+    <param name="Стандарт интерфейса SSD M.2" unit="">PCI Express 4.0x4</param>
+    <param name="Страна производства" unit="">Китай</param>
+    <param name="Также ищут" unit="">ультрабуки, для графического дизайна, до 50000 грн, до 40000 грн, 2024 года, до 30 000 грн, с большим объемом памяти, с SSD-диском, для подростков, для дома</param>
+    <param name="Тип видеокарты" unit="">интегрированная</param>
+    <param name="Тип ноутбука" unit="">для работы</param>
+  </offer>
   </offers>
 </shop>
 </yml_catalog>
