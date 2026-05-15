@@ -1,0 +1,576 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE yml_catalog SYSTEM "shops.dtd"[]>
+<yml_catalog
+  date="2026-05-15 04:10">
+  <shop>
+    <name>Test</name>
+    <company>Test</company>
+    <url>http://www.Venditore.ua/</url>
+    <currencies>
+      <currency
+        id="UAH"
+        rate="1" />
+    </currencies>
+    <categories>
+      <category
+        id="1"
+        parentId="77">Процессоры</category>
+      <category
+        id="2"
+        parentId="77">Оперативная память для ПК и ноутбуков</category>
+      <category
+        id="6"
+        parentId="77">Материнские платы</category>
+      <category
+        id="8"
+        parentId="77">Корпуса для ПК</category>
+      <category
+        id="9"
+        parentId="77">Видеокарты</category>
+      <category
+        id="10"
+        parentId="77">Звуковые карты</category>
+      <category
+        id="11"
+        parentId="1419">Мыши</category>
+      <category
+        id="13"
+        parentId="698">Сканеры</category>
+      <category
+        id="15"
+        parentId="77">Контроллеры</category>
+      <category
+        id="24"
+        parentId="1419">Игровые поверхности</category>
+      <category
+        id="26"
+        parentId="72">Компьютеры</category>
+    </categories>
+    <offers>
+      <offer
+        id="568390"
+        available="true">
+        <price>133799</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>26</categoryId>
+        <picture>https://source.dclink.com.ua/images/I225F-32-S20-57T-16-6189-568390-2230734.jpg</picture>
+        <picture>https://source.dclink.com.ua/images/I225F-32-S20-57T-16-6189-568390-2230735.jpg</picture>
+        <picture>https://source.dclink.com.ua/images/I225F-32-S20-57T-16-6189-568390-2230736.jpg</picture>
+        <picture>https://source.dclink.com.ua/images/I225F-32-S20-57T-16-6189-568390-2230737.jpg</picture>
+        <picture>https://source.dclink.com.ua/images/I225F-32-S20-57T-16-6189-568390-2230738.jpg</picture>
+        <picture>https://source.dclink.com.ua/images/I225F-32-S20-57T-16-6189-568390-2230739.jpg</picture>
+        <picture>https://source.dclink.com.ua/images/I225F-32-S20-57T-16-6189-568390-2230740.jpg</picture>
+        <picture>https://source.dclink.com.ua/images/I225F-32-S20-57T-16-6189-568390-2230741.jpg</picture>
+        <picture>https://source.dclink.com.ua/images/I225F-32-S20-57T-16-6189-568390-2230742.jpeg</picture>
+        <picture>https://source.dclink.com.ua/images/I225F-32-S20-57T-16-6189-568390-2230743.jpeg</picture>
+        <picture>https://source.dclink.com.ua/images/I225F-32-S20-57T-16-6189-568390-2230744.jpg</picture>
+        <picture>https://source.dclink.com.ua/images/I225F-32-S20-57T-16-6189-568390-2230745.jpg</picture>
+        <vendor>ASGARD</vendor>
+        <stock_quantity>1</stock_quantity>
+        <name>Персональный компьютер ASGARD Gorr (I225F.32.S20.57T.16.6189); Intel Core Ultra 5 225F (3.7 - 5.0 ГГц) / ОЗУ 32 ГБ / SSD 2 ТБ / NVIDIA GeForce RTX 5070 Ti 16 ГБ / без ОП / LAN / Linux / черный</name>
+        <description><![CDATA[Украинский производитель ASGARD – это онлайн лаборатория по созданию неповторимых кастомизированных игровых персональных компьютеров.
+
+
+Геймер создает свое персонализированное, игровое пространство, где каждая деталь имеет особое значение. Печать ваших любимых героев на корпусе, комплектующие лучших производителей мира, множество вариантов подсветки – все это создаст невероятную атмосферу и еще больше погрузит вас в мир игры.
+
+
+Все комплектующие ASGARD подобраны так, чтобы ваш ПК работал как можно производительнее.
+Бренд предлагает множество конфигураций модельного ряда, поэтому вы можете легко подобрать желаемый вариант.<br><br><iframe width="280" height="160" src="//youtu.be/TeFgafSYTQM" frameborder="0" allowfullscreen></iframe><br><iframe width="280" height="160" src="//youtu.be/AIWutMXTFzE" frameborder="0" allowfullscreen></iframe>]]></description>
+        <param
+          name="Dota 2">да</param>
+        <param
+          name="Call of Duty: Warzone 2.0">да</param>
+        <param
+          name="Apex Legends">да</param>
+        <param
+          name="Display Port">3</param>
+        <param
+          name="D-Sub">нет</param>
+        <param
+          name="Grand Theft Auto V">да</param>
+        <param
+          name="Audio">2</param>
+        <param
+          name="Counter-Strike 2">да</param>
+        <param
+          name="DVI">нет</param>
+        <param
+          name="The Witcher 3: Wild Hunt">да</param>
+        <param
+          name="Bluetooth">нет</param>
+        <param
+          name="USB 3.2 Gen 2 (USB 3.1/3.1 Gen 2)">1</param>
+        <param
+          name="HDMI">1</param>
+        <param
+          name="USB 3.x">1</param>
+        <param
+          name="Rust">да</param>
+        <param
+          name="Counter-Strike: Global Offensive">да</param>
+        <param
+          name="S.T.A.L.K.E.R. 2">да</param>
+        <param
+          name="World of Tanks">да</param>
+        <param
+          name="USB 2.0 ">2</param>
+        <param
+          name="Операционная система устройства">нет</param>
+        <param
+          name="World of Warcraft">да</param>
+        <param
+          name="Количество установленных планок ОЗУ">2</param>
+        <param
+          name="USB Type-C">нет</param>
+        <param
+          name="Cyberpunk 2077">да</param>
+        <param
+          name="Аудио-порт">3</param>
+        <param
+          name="Многоканальный звук">7.1</param>
+        <param
+          name="Объем HDD">нет</param>
+        <param
+          name="Тип видеокарты">дискретная</param>
+        <param
+          name="Количество ядер процессора">10</param>
+        <param
+          name="Производитель видеокарты">-</param>
+        <param
+          name="Объем SSD">2 ТБ</param>
+        <param
+          name="Far Cry 5">да</param>
+        <param
+          name="Назначение">для игр</param>
+        <param
+          name="Производитель материнской платы">-</param>
+        <param
+          name="Охлаждение процессора">система воздушного охлаждения</param>
+        <param
+          name="Процессор">Intel Core Ultra 5 225F</param>
+        <param
+          name="Производитель ОЗУ">-</param>
+        <param
+          name="Производитель процессора">Intel</param>
+        <param
+          name="Стандарт 80 Plus">-</param>
+        <param
+          name="Fortnite">да</param>
+        <param
+          name="СOM">нет</param>
+        <param
+          name="Цвет">Black</param>
+        <param
+          name="Тип накопителя">SSD</param>
+        <param
+          name="Тип памяти">DDR5</param>
+        <param
+          name="Серия процессора">Intel Core Ultra 5</param>
+        <param
+          name="Чипсет материнской платы">Intel B860</param>
+        <param
+          name="Видеокарта">GeForce RTX 5070 Ti</param>
+        <param
+          name="Hogwarts Legacy">да</param>
+        <param
+          name="Частота процессора">3.3 - 4.9 ГГц</param>
+        <param
+          name="Объем оперативной памяти"> 32 ГБ</param>
+        <param
+          name="Мощность БП"> 850 Вт</param>
+        <param
+          name="Metro Exodus">да</param>
+        <param
+          name="Беспроводные технологии">нет</param>
+        <param
+          name="Minecraft">да</param>
+        <param
+          name="Предустановленное ПО">без ОС</param>
+        <param
+          name="Overwatch">да</param>
+        <param
+          name="Размеры">400 x 375 x 230 мм</param>
+        <param
+          name="PUBG: Battlegrounds">да</param>
+        <param
+          name="USB 2.0">3</param>
+        <param
+          name="USB 3.2 Gen 1 (USB 3.0/3.1 Gen 1)">2</param>
+        <param
+          name="Производитель графического чипа">NVIDIA</param>
+        <param
+          name="Сетевой адаптер (LAN)">2500 Мбит/с  </param>
+        <param
+          name="Частота оперативной памяти">5200 МГц</param>
+        <param
+          name="Оптический привод">без дисковода</param>
+        <param
+          name="Тип видеокарты и обьем видеопамяти">16 ГБ</param>
+        <param
+          name="Артикул">I225F.32.S20.57T.16.6189</param>
+        <param
+          name="Категория">1</param>
+        <param
+          name="Гарантия">36 мес.</param>
+        <keywords>I225F.32.S20.57T.16.6189,ПК,ПК,моноблоки,неттопы,PC-Sticks,мини ПК,Системные блоки</keywords>
+      </offer>
+      <offer
+        id="510730"
+        available="true">
+        <price>69</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>58</categoryId>
+        <picture>https://source.dclink.com.ua/images/1672819-510730-187724596.jpg</picture>
+        <picture>https://source.dclink.com.ua/images/1672820-510730-187724581.jpg</picture>
+        <vendor>Usams</vendor>
+        <stock_quantity>5</stock_quantity>
+        <name>Кабель Usams US-SJ220 USB - Lightning (M/M), 1.2 м, Red (SJ220IP02)</name>
+        <description><![CDATA[Кабель Usams – идеальный выбор для комфортной, быстрой зарядки гаджетов, с разъемом Lightning и их подключение к компьютеру для синхронизации. Модель реализована в современном дизайне, отличается исключительной надежностью, что гарантирует безопасность устройств.
+]]></description>
+      </offer>
+      <offer
+        id="601443"
+        available="true">
+        <price>75999</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>26</categoryId>
+        <picture>https://source.dclink.com.ua/images/A75F-32-S10-56T-K7303-601443-2431211.jpg</picture>
+        <vendor>ASGARD</vendor>
+        <stock_quantity>1</stock_quantity>
+        <name>Персональный компьютер ASGARD (A75F.32.S10.56T.7303); AMD Ryzen 5 7500F (3.7 - 5.0 ГГц) / ОЗУ 32 ГБ / SSD 1 ТБ / NVIDIA GeForce RTX 5060 Ti 16 ГБ / без ОП / LAN / Wi-Fi / Bluetooth / без ОС / черный</name>
+        <description><![CDATA[Украинский производитель ASGARD – это онлайн лаборатория по созданию неповторимых кастомизированных игровых персональных компьютеров.
+
+
+Геймер создает свое персонализированное, игровое пространство, где каждая деталь имеет особое значение. Печать ваших любимых героев на корпусе, комплектующие лучших производителей мира, множество вариантов подсветки – все это создаст невероятную атмосферу и еще больше погрузит вас в мир игры.
+
+
+Все комплектующие ASGARD подобраны так, чтобы ваш ПК работал как можно производительнее.
+
+
+Бренд предлагает множество конфигураций модельного ряда, поэтому вы можете легко подобрать желаемый вариант.<br><br><iframe width="280" height="160" src="//youtu.be/TeFgafSYTQM" frameborder="0" allowfullscreen></iframe><br><iframe width="280" height="160" src="//youtu.be/AIWutMXTFzE" frameborder="0" allowfullscreen></iframe>]]></description>
+        <param
+          name="Объем SSD">1 ТБ</param>
+        <param
+          name="Audio">1</param>
+        <param
+          name="DVI">нет</param>
+        <param
+          name="D-Sub">нет</param>
+        <param
+          name="Производитель видеокарты">Asus</param>
+        <param
+          name="Display Port">3</param>
+        <param
+          name="USB 3.2 Gen 2 (USB 3.1/3.1 Gen 2)">3</param>
+        <param
+          name="USB 2.0 ">1</param>
+        <param
+          name="Производитель графического чипа">NVIDIA</param>
+        <param
+          name="Bluetooth">5.3</param>
+        <param
+          name="USB Type-C">1</param>
+        <param
+          name="USB 2.0">2</param>
+        <param
+          name="Серия процессора">AMD Ryzen 5</param>
+        <param
+          name="USB 3.x">1 + USB Type-C</param>
+        <param
+          name="Аудио-порт">5</param>
+        <param
+          name="USB 3.2 Gen 1 (USB 3.0/3.1 Gen 1)">2</param>
+        <param
+          name="Видеокарта">GeForce RTX 5060 Ti</param>
+        <param
+          name="HDMI">1</param>
+        <param
+          name="Количество ядер процессора">6</param>
+        <param
+          name="Количество установленных планок ОЗУ">2</param>
+        <param
+          name="Тип видеокарты и обьем видеопамяти">16 ГБ</param>
+        <param
+          name="Сетевой адаптер (LAN)">2500 Мбит/с  </param>
+        <param
+          name="Назначение">для игр</param>
+        <param
+          name="Многоканальный звук">7.1</param>
+        <param
+          name="Охлаждение процессора">система воздушного охлаждения</param>
+        <param
+          name="Производитель ОЗУ">Kingston</param>
+        <param
+          name="Производитель материнской платы">Asus</param>
+        <param
+          name="Объем HDD">нет</param>
+        <param
+          name="СOM">нет</param>
+        <param
+          name="Чипсет материнской платы">AMD B650</param>
+        <param
+          name="Тип видеокарты">дискретная</param>
+        <param
+          name="Операционная система устройства">нет</param>
+        <param
+          name="Объем оперативной памяти"> 32 ГБ</param>
+        <param
+          name="Стандарт 80 Plus">80 Plus White</param>
+        <param
+          name="Предустановленное ПО">без ОС</param>
+        <param
+          name="Производитель процессора">AMD</param>
+        <param
+          name="Беспроводные технологии">Wi-Fi 6 (802.11ax)</param>
+        <param
+          name="Частота процессора">3.7 - 5.0 ГГц</param>
+        <param
+          name="Тип накопителя">SSD</param>
+        <param
+          name="Оптический привод">без дисковода</param>
+        <param
+          name="Мощность БП"> 650 Вт</param>
+        <param
+          name="Цвет">Black</param>
+        <param
+          name="Процессор">AMD Ryzen 5 7500F</param>
+        <param
+          name="Частота оперативной памяти">5600 МГц</param>
+        <param
+          name="Тип памяти">DDR5</param>
+        <param
+          name="Размеры">212 х 490 х 438 мм</param>
+        <param
+          name="Артикул">A75F.32.S10.56T.7303</param>
+        <param
+          name="Категория">1</param>
+        <param
+          name="Гарантия">36 мес.</param>
+        <keywords>A75F.32.S10.56T.7303,ПК,ПК,моноблоки,неттопы,PC-Sticks,мини ПК,Системные блоки</keywords>
+      </offer>
+      <offer
+        id="490006"
+        available="true">
+        <price>6999</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>11</categoryId>
+        <picture>https://source.dclink.com.ua/images/490006-0-1u6.jpg</picture>
+        <picture>https://source.dclink.com.ua/images/490006-0-1vh.jpg</picture>
+        <picture>https://source.dclink.com.ua/images/490006-0-1.jpg</picture>
+        <picture>https://source.dclink.com.ua/images/490006-2-1cgu.jpg</picture>
+        <picture>https://source.dclink.com.ua/images/490006-4-1faf.jpg</picture>
+        <picture>https://source.dclink.com.ua/images/490006-2-1vhjv.jpg</picture>
+        <picture>https://source.dclink.com.ua/images/490006-7-1hg.jpg</picture>
+        <picture>https://source.dclink.com.ua/images/490006-5-1fx.jpg</picture>
+        <picture>https://source.dclink.com.ua/images/490006-2-1yy4.jpg</picture>
+        <picture>https://source.dclink.com.ua/images/490006-8-1hr.jpg</picture>
+        <picture>https://source.dclink.com.ua/images/490006-6-1gfg.jpg</picture>
+        <picture>https://source.dclink.com.ua/images/490006-3-1с.jpg</picture>
+        <picture>https://source.dclink.com.ua/images/490006-1-1cgh.jpg</picture>
+        <picture>https://source.dclink.com.ua/images/490006-1-1yeyw.jpg</picture>
+        <vendor>Logitech</vendor>
+        <stock_quantity>4</stock_quantity>
+        <name>Мышь беспроводная Logitech G Pro X Superlight 2 Magenta (910-006797)</name>
+        <description><![CDATA[ПРОФЕССИОНАЛЬНАЯ ИКОНА ЭВОЛЮЦИОНИРОВАЛА
+Быстрее. Точнее. Создана для победы в чемпионатах. Следующее поколение нашей профессиональной игровой мыши весом всего 60 г.
+Усовершенствованная благодаря сотрудничеству с лучшими игроками мира.
+
+
+ИГРАЙТЕ С ПРОФЕССИОНАЛЬНОЙ ТОЧНОСТЬЮ
+Новая разработка гибридных оптико-механических переключателей LIGHTFORCE обеспечивает точность и надежность на играх высочайшего уровня.
+
+
+ТОЧНАЯ КАЛИБРОВКА СЕНСОРА
+Ощутите надежное отслеживание более 500+ IPS, до 32 000 DPI и точную калибровку сенсора с самым производительным датчиком в гейминге.
+
+
+БЫСТРАЯ ЧАСТОТА ОБНОВЛЕНИЯ
+Надежность технологии LIGHTSPEED – теперь улучшена для более быстрой частоты обновления по сравнению с предыдущим поколением.
+
+
+ПЛАВНОСТЬ И БЕСШОВНОСТЬ
+Глайды с нулевым содержимым PTFE обеспечивают комфортную плавность движения.
+
+
+ДО 95 ЧАСОВ ИГРЫ
+Рассчитана на долгую игру, до 95 часов постоянного использования – уничтожая больше барьеров между вами и вашей игрой.
+ТЕХНОЛОГИЯ ПРОФЕССИОНАЛЬНОГО УРОВНЯ
+Самая популярная мышь для киберспорта, усовершенствованная. Теперь с частотой опроса 2K, разъемом USB-C, питанием на 95 часов и совместимостью с технологией POWERPLAY.]]></description>
+        <param
+          name="Другое">-</param>
+        <param
+          name="Время отклика">1 мс</param>
+        <param
+          name="Колесо прокрутки">есть</param>
+        <param
+          name="USB-приемник">идет в комплекте</param>
+        <param
+          name="Наличие подсветки">без подсветки</param>
+        <param
+          name="Подключение по Bluetooth">нет</param>
+        <param
+          name="Подключение по USB">да</param>
+        <param
+          name="Максимальное DPI">более 20 000 dpi</param>
+        <param
+          name="Подключение по USB Type-C">нет</param>
+        <param
+          name="Подключение по PS/2">нет</param>
+        <param
+          name="Программируемые кнопки">да</param>
+        <param
+          name="Внутренняя память">да</param>
+        <param
+          name="Тип и количество батареек / аккумулятора">Li-Ion</param>
+        <param
+          name="Подключение по радиоканалу">да</param>
+        <param
+          name="Ориентация">симметричная (для левой и правой руки)</param>
+        <param
+          name="Радиус действия ">10 м</param>
+        <param
+          name="Количество кнопок"> 5</param>
+        <param
+          name="Тип мыши">игровая</param>
+        <param
+          name="Перфорированный корпус">нет</param>
+        <param
+          name="Подключение">беспроводное подключение</param>
+        <param
+          name="Расширение сенсора, dpi">100 - 32000 dpi</param>
+        <param
+          name="Вес">0.06 кг</param>
+        <param
+          name="Регулировка веса">нет</param>
+        <param
+          name="Цвет">Розовый</param>
+        <param
+          name="Технология сенсора">Hero 2</param>
+        <param
+          name="Тип питания">аккумулятор</param>
+        <param
+          name="Эргономичная">нет</param>
+        <param
+          name="Длина кабеля">-</param>
+        <param
+          name="Размеры, мм (Ш х В х Г)">100–25 600 dpi</param>
+        <param
+          name="Тип датчика">оптический сенсор</param>
+        <param
+          name="Артикул">910-006797</param>
+        <param
+          name="Категория">4</param>
+        <param
+          name="Гарантия">24 мес.</param>
+        <keywords>910-006797,Ігровий бездротовий,Мышь,мышка</keywords>
+      </offer>
+      <offer
+        id="72013"
+        available="true">
+        <price>599</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>29</categoryId>
+        <picture>https://source.dclink.com.ua/images/710096-new.jpg</picture>
+        <picture>https://source.dclink.com.ua/images/710097-new.jpg</picture>
+        <picture>https://source.dclink.com.ua/images/710098-new.jpg</picture>
+        <picture>https://source.dclink.com.ua/images/858790-new.jpg</picture>
+        <vendor>ColorWay</vendor>
+        <stock_quantity>3</stock_quantity>
+        <name>Картридж ColorWay (CW-H283M) HP LJ Pro M125nw/M127fn/M127fw (CF283A)</name>
+        <description><![CDATA[Для устройств :
+HP:  
+LaserJet Pro: M125, M126, M127, M128, M201, M225]]></description>
+        <param
+          name="Цвет">Black </param>
+        <param
+          name="Подходит к">HP</param>
+        <param
+          name="Тип">совместимый</param>
+        <param
+          name="Ресурс (при 5% заполненности листа)">1 500 стр @5% (A4)</param>
+        <param
+          name="Артикул">CW-H283M</param>
+        <param
+          name="Категория">3</param>
+        <param
+          name="Гарантия">12 мес.</param>
+        <keywords>CW-H283M,Картриджі,картриджи для принтеров,картриджи</keywords>
+      </offer>
+      <offer
+        id="161487"
+        available="true">
+        <price>1580</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>40</categoryId>
+        <picture>https://source.dclink.com.ua/images/3UBT6-6G-Black-161487-2178768.jpg</picture>
+        <vendor>AgeStar</vendor>
+        <stock_quantity>1</stock_quantity>
+        <name>Док-станция AgeStar 3UBT6-6G для 2.5"/3.5" SATA HDD или SSD USB3.0 Black</name>
+        <description><![CDATA[Особенности:
+Док-станция 3UBT6-6G подключается к компьютеру или ноутбуку через высокоскоростной интерфейс USB 3.0.
+Протокол UASP позволяет увеличить скорость передачи данных USB 3.0 порта на 20%
+Функция Clone позволяет дублировать информацию с одного жесткого диска на другой без участия компьютера
+Скорость передачи данных:
+при подключении к порту USB 3.0 – до 5 Гбит/сек
+при подключении к порту USB 2.0 – до 480 Мбит/сек]]></description>
+        <param
+          name="Интерфейс подключения">USB3.0</param>
+        <param
+          name="Цвет">черный</param>
+        <param
+          name="Материал корпуса">пластик</param>
+        <param
+          name="Интерфейс">SATA III</param>
+        <param
+          name="Назначение">для HDD 2,5"/3,5"</param>
+        <param
+          name="Тип">док-станция</param>
+        <param
+          name="Питание">от адаптера</param>
+        <param
+          name="Артикул">3UBT6-6G (Black)</param>
+        <param
+          name="Категория">1</param>
+        <param
+          name="Гарантия">12 мес.</param>
+        <keywords>3UBT6-6G (Black),Док-станція,мобилреки,мобилрек,Mobile Rack</keywords>
+      </offer>
+      <offer
+        id="553058"
+        available="true">
+        <url></url>
+        <price>1440</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>441</categoryId>
+        <picture>https://source.dclink.com.ua/images/Akumulyatory-Panasonic-Eneloop-AA-HR06-NI-MH-2500--0-15-1.jpg</picture>
+        <picture>https://source.dclink.com.ua/images/Akumulyatory-Panasonic-Eneloop-AA-HR06-NI-MH-2500--1-14.jpg</picture>
+        <vendor>Panasonic</vendor>
+        <stock_quantity>3</stock_quantity>
+        <name>Аккумуляторы Panasonic Eneloop AA/HR06 NI-MH 2500 mAh BL 4 шт</name>
+        <description><![CDATA[Аккумуляторы Panasonic eneloop Pro хороший выбор для современных устройств, которые потребляют много тока, такие как фотовспышки, игровые контроллеры (беспроводная клавиатура, мышь, автомобильный руль), радиоуправляемые игрушки и ряд бытовых приборов.]]></description>
+        <!-- здесь я оставил твои параметры, но по смыслу они явно копипастнуты от док-станции -->
+        <param
+          name="Интерфейс подключения">USB3.0</param>
+        <param
+          name="Цвет">черный</param>
+        <param
+          name="Материал корпуса">пластик</param>
+        <param
+          name="Интерфейс">SATA III</param>
+        <param
+          name="Назначение">для HDD 2,5"/3,5"</param>
+        <param
+          name="Тип">док-станция</param>
+        <param
+          name="Питание">от адаптера</param>
+        <param
+          name="Артикул">3UBT6-6G (Black)</param>
+        <param
+          name="Категория">1</param>
+        <param
+          name="Гарантия">12 мес.</param>
+        <keywords>3UBT6-6G (Black),Док-станція,мобилреки,мобилрек,Mobile Rack</keywords>
+      </offer>
+    </offers>
+  </shop>
+</yml_catalog>
