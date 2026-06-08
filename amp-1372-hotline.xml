@@ -1,0 +1,1954 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<price>
+    <date>2023-10-04 17:00</date>
+    <firmName>Shop.ua</firmName>
+    <firmId>31234</firmId>
+    <rate>42.2</rate>
+    <categories>
+       <category>
+            <id>2</id>
+            <parentId>1</parentId>
+            <name>Планшети</name>
+        </category>
+    </categories>
+    <items>
+        <item>
+            <id>amp-1372-hotline-xml-1</id>
+            <categoryId>2</categoryId>
+            <code>12345</code>
+            <vendor>Apple</vendor>
+            <name>1. Check min numbers</name>
+            <description>1. Check min numbers</description>
+            <image>https://www.google.com/images/errors/robot.png</image>
+            <priceRUAH>15400</priceRUAH>
+            <priceRUSD>546</priceRUSD>
+            <stock>В наявності</stock>
+            <guarantee type="manufacturer">12</guarantee>
+            <param name="Країна виготовлення">Китай</param>
+            <param name="Оригінальність">Оригінал</param>
+            <payment type="cash-on-delivery" fee="2">true</payment>
+            <condition>0</condition>
+            <shipping>1</shipping>
+            <custom>1</custom>
+        </item>
+        <item>
+            <id>amp-1372-hotline-xml-2</id>
+            <categoryId>2</categoryId>
+            <code>987654321098765432109876543210</code>
+            <vendor>Apple</vendor>
+            <name>2. Check max numbers</name>
+            <description>2. Check max numbers</description>
+            <image>https://www.google.com/images/errors/robot.png</image>
+            <priceRUAH>15400</priceRUAH>
+            <priceRUSD>546</priceRUSD>
+            <stock>В наявності</stock>
+            <guarantee type="manufacturer">12</guarantee>
+            <param name="Країна виготовлення">Китай</param>
+            <param name="Оригінальність">Оригінал</param>
+            <payment type="cash-on-delivery" fee="2">true</payment>
+            <condition>0</condition>
+            <shipping>1</shipping>
+            <custom>1</custom>
+        </item>
+        <item>
+            <id>amp-1372-hotline-xml-3</id>
+            <categoryId>2</categoryId>
+            <code>TEST12345</code>
+            <vendor>Apple</vendor>
+            <name>3. Alphanumeric simple structure</name>
+            <description>3. Alphanumeric simple structure</description>
+            <image>https://www.google.com/images/errors/robot.png</image>
+            <priceRUAH>15400</priceRUAH>
+            <priceRUSD>546</priceRUSD>
+            <stock>В наявності</stock>
+            <guarantee type="manufacturer">12</guarantee>
+            <param name="Країна виготовлення">Китай</param>
+            <param name="Оригінальність">Оригінал</param>
+            <payment type="cash-on-delivery" fee="2">true</payment>
+            <condition>0</condition>
+            <shipping>1</shipping>
+            <custom>1</custom>
+        </item>
+        <item>
+            <id>amp-1372-hotline-xml-4</id>
+            <categoryId>2</categoryId>
+            <code>UA-GG-TEST-4567</code>
+            <vendor>Apple</vendor>
+            <name>4. Hierarchical structure with region and supplier</name>
+            <description>4. Hierarchical structure with region and supplier</description>
+            <image>https://www.google.com/images/errors/robot.png</image>
+            <priceRUAH>15400</priceRUAH>
+            <priceRUSD>546</priceRUSD>
+            <stock>В наявності</stock>
+            <guarantee type="manufacturer">12</guarantee>
+            <param name="Країна виготовлення">Китай</param>
+            <param name="Оригінальність">Оригінал</param>
+            <payment type="cash-on-delivery" fee="2">true</payment>
+            <condition>0</condition>
+            <shipping>1</shipping>
+            <custom>1</custom>
+        </item>
+        <item>
+            <id>amp-1372-hotline-xml-5</id>
+            <categoryId>2</categoryId>
+            <code>GG_TEST/1234</code>
+            <vendor>Apple</vendor>
+            <name>5. Allowed punctuation and letters</name>
+            <description>5. Allowed punctuation and letters</description>
+            <image>https://www.google.com/images/errors/robot.png</image>
+            <priceRUAH>15400</priceRUAH>
+            <priceRUSD>546</priceRUSD>
+            <stock>В наявності</stock>
+            <guarantee type="manufacturer">12</guarantee>
+            <param name="Країна виготовлення">Китай</param>
+            <param name="Оригінальність">Оригінал</param>
+            <payment type="cash-on-delivery" fee="2">true</payment>
+            <condition>0</condition>
+            <shipping>1</shipping>
+            <custom>1</custom>
+        </item>
+        <item>
+            <id>amp-1372-hotline-xml-6</id>
+            <categoryId>2</categoryId>
+            <code>ПРОВЕРКА-2024</code>
+            <vendor>Apple</vendor>
+            <name>6. Cyrillic and numbers</name>
+            <description>6. Cyrillic and numbers</description>
+            <image>https://www.google.com/images/errors/robot.png</image>
+            <priceRUAH>15400</priceRUAH>
+            <priceRUSD>546</priceRUSD>
+            <stock>В наявності</stock>
+            <guarantee type="manufacturer">12</guarantee>
+            <param name="Країна виготовлення">Китай</param>
+            <param name="Оригінальність">Оригінал</param>
+            <payment type="cash-on-delivery" fee="2">true</payment>
+            <condition>0</condition>
+            <shipping>1</shipping>
+            <custom>1</custom>
+        </item>
+        <item>
+            <id>amp-1372-hotline-xml-7</id>
+            <categoryId>2</categoryId>
+            <code>UA-ПОСТАВЩИК_5678+9</code>
+            <vendor>Apple</vendor>
+            <name>7. Latin, Cyrillic, numbers, and punctuation</name>
+            <description>7. Latin, Cyrillic, numbers, and punctuation</description>
+            <image>https://www.google.com/images/errors/robot.png</image>
+            <priceRUAH>15400</priceRUAH>
+            <priceRUSD>546</priceRUSD>
+            <stock>В наявності</stock>
+            <guarantee type="manufacturer">12</guarantee>
+            <param name="Країна виготовлення">Китай</param>
+            <param name="Оригінальність">Оригінал</param>
+            <payment type="cash-on-delivery" fee="2">true</payment>
+            <condition>0</condition>
+            <shipping>1</shipping>
+            <custom>1</custom>
+        </item>
+        <item>
+            <id>amp-1372-hotline-xml-8</id>
+            <categoryId>2</categoryId>
+            <code>1234-5678+9</code>
+            <vendor>Apple</vendor>
+            <name>8. Numbers and allowed punctuation only</name>
+            <description>8. Numbers and allowed punctuation only</description>
+            <image>https://www.google.com/images/errors/robot.png</image>
+            <priceRUAH>15400</priceRUAH>
+            <priceRUSD>546</priceRUSD>
+            <stock>В наявності</stock>
+            <guarantee type="manufacturer">12</guarantee>
+            <param name="Країна виготовлення">Китай</param>
+            <param name="Оригінальність">Оригінал</param>
+            <payment type="cash-on-delivery" fee="2">true</payment>
+            <condition>0</condition>
+            <shipping>1</shipping>
+            <custom>1</custom>
+        </item>
+        <item>
+            <id>amp-1372-hotline-xml-9</id>
+            <categoryId>2</categoryId>
+            <code>FR-TEST\CODE_9876+2024</code>
+            <vendor>Apple</vendor>
+            <name>9. Complex structure with multiple allowed characters</name>
+            <description>9. Complex structure with multiple allowed characters</description>
+            <image>https://www.google.com/images/errors/robot.png</image>
+            <priceRUAH>15400</priceRUAH>
+            <priceRUSD>546</priceRUSD>
+            <stock>В наявності</stock>
+            <guarantee type="manufacturer">12</guarantee>
+            <param name="Країна виготовлення">Китай</param>
+            <param name="Оригінальність">Оригінал</param>
+            <payment type="cash-on-delivery" fee="2">true</payment>
+            <condition>0</condition>
+            <shipping>1</shipping>
+            <custom>1</custom>
+        </item>
+        <item>
+            <id>amp-1372-hotline-xml-9</id>
+            <categoryId>2</categoryId>
+            <code>VALID-TEST-3344</code>
+            <vendor>Apple</vendor>
+            <name>10. Logical restriction (does not start or end with restricted characters)</name>
+            <description>10. Logical restriction (does not start or end with restricted characters)</description>
+            <image>https://www.google.com/images/errors/robot.png</image>
+            <priceRUAH>15400</priceRUAH>
+            <priceRUSD>546</priceRUSD>
+            <stock>В наявності</stock>
+            <guarantee type="manufacturer">12</guarantee>
+            <param name="Країна виготовлення">Китай</param>
+            <param name="Оригінальність">Оригінал</param>
+            <payment type="cash-on-delivery" fee="2">true</payment>
+            <condition>0</condition>
+            <shipping>1</shipping>
+            <custom>1</custom>
+        </item>
+        <item>
+            <id>amp-1372-hotline-xml-10</id>
+            <categoryId>2</categoryId>
+            <vendor>Apple</vendor>
+            <code>VALID-TEST-3344</code>
+            <name>10. Logical restriction (does not start or end with restricted characters)</name>
+            <description>10. Logical restriction (does not start or end with restricted characters)</description>
+            <image>https://www.google.com/images/errors/robot.png</image>
+            <priceRUAH>15400</priceRUAH>
+            <priceRUSD>546</priceRUSD>
+            <stock>В наявності</stock>
+            <guarantee type="manufacturer">12</guarantee>
+            <param name="Країна виготовлення">Китай</param>
+            <param name="Оригінальність">Оригінал</param>
+            <payment type="cash-on-delivery" fee="2">true</payment>
+            <condition>0</condition>
+            <shipping>1</shipping>
+            <custom>1</custom>
+        </item>
+        <item>
+            <id>amp-1372-hotline-xml-11</id>
+            <categoryId>2</categoryId>
+            <vendor>Apple</vendor>
+            <code>ABC-1234-XYZ-5678</code>
+            <name>11. Long alphanumeric code with separators</name>
+            <description>11. Long alphanumeric code with separators</description>
+            <image>https://www.google.com/images/errors/robot.png</image>
+            <priceRUAH>15400</priceRUAH>
+            <priceRUSD>546</priceRUSD>
+            <stock>В наявності</stock>
+            <guarantee type="manufacturer">12</guarantee>
+            <param name="Країна виготовлення">Китай</param>
+            <param name="Оригінальність">Оригінал</param>
+            <payment type="cash-on-delivery" fee="2">true</payment>
+            <condition>0</condition>
+            <shipping>1</shipping>
+            <custom>1</custom>
+        </item>
+        <item>
+            <id>amp-1372-hotline-xml-12</id>
+            <categoryId>2</categoryId>
+            <vendor>Apple</vendor>
+            <code>РУС-ПРОВЕРКА_2024/TEST</code>
+            <name>12. Cyrillic with multiple separators</name>
+            <description>12. Cyrillic with multiple separators</description>
+            <image>https://www.google.com/images/errors/robot.png</image>
+            <priceRUAH>15400</priceRUAH>
+            <priceRUSD>546</priceRUSD>
+            <stock>В наявності</stock>
+            <guarantee type="manufacturer">12</guarantee>
+            <param name="Країна виготовлення">Китай</param>
+            <param name="Оригінальність">Оригінал</param>
+            <payment type="cash-on-delivery" fee="2">true</payment>
+            <condition>0</condition>
+            <shipping>1</shipping>
+            <custom>1</custom>
+        </item>
+         <item>
+            <id>amp-1372-hotline-xml-13</id>
+            <categoryId>2</categoryId>
+            <vendor>Apple</vendor>
+            <code>РУС-ПРОВЕРКА_2024/TEST</code>
+            <name>13. Code with mixed allowed characters</name>
+            <description>13. Code with mixed allowed characters</description>
+            <image>https://www.google.com/images/errors/robot.png</image>
+            <priceRUAH>15400</priceRUAH>
+            <priceRUSD>546</priceRUSD>
+            <stock>В наявності</stock>
+            <guarantee type="manufacturer">12</guarantee>
+            <param name="Країна виготовлення">Китай</param>
+            <param name="Оригінальність">Оригінал</param>
+            <payment type="cash-on-delivery" fee="2">true</payment>
+            <condition>0</condition>
+            <shipping>1</shipping>
+            <custom>1</custom>
+        </item>
+        <item>
+            <id>amp-1372-hotline-xml-14</id>
+            <categoryId>2</categoryId>
+            <vendor>Apple</vendor>
+            <code>1234/TEST\5678+CODE_999</code>
+            <name>14. Code with allowed punctuation at various positions</name>
+            <description>14. Code with allowed punctuation at various positions</description>
+            <image>https://www.google.com/images/errors/robot.png</image>
+            <priceRUAH>15400</priceRUAH>
+            <priceRUSD>546</priceRUSD>
+            <stock>В наявності</stock>
+            <guarantee type="manufacturer">12</guarantee>
+            <param name="Країна виготовлення">Китай</param>
+            <param name="Оригінальність">Оригінал</param>
+            <payment type="cash-on-delivery" fee="2">true</payment>
+            <condition>0</condition>
+            <shipping>1</shipping>
+            <custom>1</custom>
+        </item>
+        <item>
+            <id>amp-1372-hotline-xml-15</id>
+            <categoryId>2</categoryId>
+            <vendor>Apple</vendor>
+            <code>EU-GR-FOOD_12345</code>
+            <name>15. Supplier-region-category structure</name>
+            <description>15. Supplier-region-category structure</description>
+            <image>https://www.google.com/images/errors/robot.png</image>
+            <priceRUAH>15400</priceRUAH>
+            <priceRUSD>546</priceRUSD>
+            <stock>В наявності</stock>
+            <guarantee type="manufacturer">12</guarantee>
+            <param name="Країна виготовлення">Китай</param>
+            <param name="Оригінальність">Оригінал</param>
+            <payment type="cash-on-delivery" fee="2">true</payment>
+            <condition>0</condition>
+            <shipping>1</shipping>
+            <custom>1</custom>
+        </item>
+        <item>
+            <id>amp-1372-hotline-xml-16</id>
+            <categoryId>2</categoryId>
+            <vendor>Apple</vendor>
+            <code>ПРОДУКТ-TEST/2025+SKU</code>
+            <name>16. Cyrillic letters with numbers and allowed separators</name>
+            <description>16. Cyrillic letters with numbers and allowed separators</description>
+            <image>https://www.google.com/images/errors/robot.png</image>
+            <priceRUAH>15400</priceRUAH>
+            <priceRUSD>546</priceRUSD>
+            <stock>В наявності</stock>
+            <guarantee type="manufacturer">12</guarantee>
+            <param name="Країна виготовлення">Китай</param>
+            <param name="Оригінальність">Оригінал</param>
+            <payment type="cash-on-delivery" fee="2">true</payment>
+            <condition>0</condition>
+            <shipping>1</shipping>
+            <custom>1</custom>
+        </item>
+        <item>
+            <id>amp-1372-hotline-xml-17</id>
+            <categoryId>2</categoryId>
+            <vendor>Apple</vendor>
+            <code>SUPPLIER(9876)-UA</code>
+            <name>17. Vendor code with brackets</name>
+            <description>17. Vendor code with brackets</description>
+            <image>https://www.google.com/images/errors/robot.png</image>
+            <priceRUAH>15400</priceRUAH>
+            <priceRUSD>546</priceRUSD>
+            <stock>В наявності</stock>
+            <guarantee type="manufacturer">12</guarantee>
+            <param name="Країна виготовлення">Китай</param>
+            <param name="Оригінальність">Оригінал</param>
+            <payment type="cash-on-delivery" fee="2">true</payment>
+            <condition>0</condition>
+            <shipping>1</shipping>
+            <custom>1</custom>
+        </item>
+        <item>
+            <id>amp-1372-hotline-xml-18</id>
+            <categoryId>2</categoryId>
+            <vendor>Apple</vendor>
+            <code>9876-5432_ABC+TEST/UA</code>
+            <name>18. Vendor code containing numbers and multiple separators</name>
+            <description>18. Vendor code containing numbers and multiple separators</description>
+            <image>https://www.google.com/images/errors/robot.png</image>
+            <priceRUAH>15400</priceRUAH>
+            <priceRUSD>546</priceRUSD>
+            <stock>В наявності</stock>
+            <guarantee type="manufacturer">12</guarantee>
+            <param name="Країна виготовлення">Китай</param>
+            <param name="Оригінальність">Оригінал</param>
+            <payment type="cash-on-delivery" fee="2">true</payment>
+            <condition>0</condition>
+            <shipping>1</shipping>
+            <custom>1</custom>
+        </item>
+        <item>
+            <id>amp-1372-hotline-xml-19</id>
+            <categoryId>2</categoryId>
+            <vendor>Apple</vendor>
+            <code>ТЕСТ-2024+FR-4567\CHECK</code>
+            <name>19. Code with Latin, Cyrillic, numbers, and special allowed characters</name>
+            <description>19. Code with Latin, Cyrillic, numbers, and special allowed characters</description>
+            <image>https://www.google.com/images/errors/robot.png</image>
+            <priceRUAH>15400</priceRUAH>
+            <priceRUSD>546</priceRUSD>
+            <stock>В наявності</stock>
+            <guarantee type="manufacturer">12</guarantee>
+            <param name="Країна виготовлення">Китай</param>
+            <param name="Оригінальність">Оригінал</param>
+            <payment type="cash-on-delivery" fee="2">true</payment>
+            <condition>0</condition>
+            <shipping>1</shipping>
+            <custom>1</custom>
+        </item>
+        <item>
+            <id>amp-1372-hotline-xml-20</id>
+            <categoryId>2</categoryId>
+            <vendor>Apple</vendor>
+            <code>CHECK-TEST-334455</code>
+            <name>20. Code ensuring logical restriction compliance</name>
+            <description>20. Code ensuring logical restriction compliance</description>
+            <image>https://www.google.com/images/errors/robot.png</image>
+            <priceRUAH>15400</priceRUAH>
+            <priceRUSD>546</priceRUSD>
+            <stock>В наявності</stock>
+            <guarantee type="manufacturer">12</guarantee>
+            <param name="Країна виготовлення">Китай</param>
+            <param name="Оригінальність">Оригінал</param>
+            <payment type="cash-on-delivery" fee="2">true</payment>
+            <condition>0</condition>
+            <shipping>1</shipping>
+            <custom>1</custom>
+        </item>
+        <item>
+            <id>amp-1372-hotline-xml-21</id>
+            <categoryId>2</categoryId>
+            <vendor>Apple</vendor>
+            <code>SUPPLIER|CATEGORY_7890</code>
+            <name>21. Vendor code with pipeline separator</name>
+            <description>21. Vendor code with pipeline separator</description>
+            <image>https://www.google.com/images/errors/robot.png</image>
+            <priceRUAH>15400</priceRUAH>
+            <priceRUSD>546</priceRUSD>
+            <stock>В наявності</stock>
+            <guarantee type="manufacturer">12</guarantee>
+            <param name="Країна виготовлення">Китай</param>
+            <param name="Оригінальність">Оригінал</param>
+            <payment type="cash-on-delivery" fee="2">true</payment>
+            <condition>0</condition>
+            <shipping>1</shipping>
+            <custom>1</custom>
+        </item>
+        <item>
+            <id>amp-1372-hotline-xml-22</id>
+            <categoryId>2</categoryId>
+            <vendor>Apple</vendor>
+            <code>UK_TEST_SUPPLIER_3456</code>
+            <name>22. Vendor code with underscore as primary separator</name>
+            <description>22. Vendor code with underscore as primary separator</description>
+            <image>https://www.google.com/images/errors/robot.png</image>
+            <priceRUAH>15400</priceRUAH>
+            <priceRUSD>546</priceRUSD>
+            <stock>В наявності</stock>
+            <guarantee type="manufacturer">12</guarantee>
+            <param name="Країна виготовлення">Китай</param>
+            <param name="Оригінальність">Оригінал</param>
+            <payment type="cash-on-delivery" fee="2">true</payment>
+            <condition>0</condition>
+            <shipping>1</shipping>
+            <custom>1</custom>
+        </item>
+        <item>
+            <id>amp-1372-hotline-xml-23</id>
+            <categoryId>2</categoryId>
+            <vendor>Apple</vendor>
+            <code>ITEM.4567.TEST</code>
+            <name>23. Code with period separator</name>
+            <description>23. Code with period separator</description>
+            <image>https://www.google.com/images/errors/robot.png</image>
+            <priceRUAH>15400</priceRUAH>
+            <priceRUSD>546</priceRUSD>
+            <stock>В наявності</stock>
+            <guarantee type="manufacturer">12</guarantee>
+            <param name="Країна виготовлення">Китай</param>
+            <param name="Оригінальність">Оригінал</param>
+            <payment type="cash-on-delivery" fee="2">true</payment>
+            <condition>0</condition>
+            <shipping>1</shipping>
+            <custom>1</custom>
+        </item>
+        <item>
+            <id>amp-1372-hotline-xml-24</id>
+            <categoryId>2</categoryId>
+            <vendor>Apple</vendor>
+            <code>SUPPLIER=FR-6789</code>
+            <name>24. Code with equal sign as part of the format</name>
+            <description>24. Code with equal sign as part of the format</description>
+            <image>https://www.google.com/images/errors/robot.png</image>
+            <priceRUAH>15400</priceRUAH>
+            <priceRUSD>546</priceRUSD>
+            <stock>В наявності</stock>
+            <guarantee type="manufacturer">12</guarantee>
+            <param name="Країна виготовлення">Китай</param>
+            <param name="Оригінальність">Оригінал</param>
+            <payment type="cash-on-delivery" fee="2">true</payment>
+            <condition>0</condition>
+            <shipping>1</shipping>
+            <custom>1</custom>
+        </item>
+        <item>
+            <id>amp-1372-hotline-xml-25</id>
+            <categoryId>2</categoryId>
+            <vendor>Apple</vendor>
+            <code>US-GROUP\TEST_5678+CODE,999</code>
+            <name>25. Vendor code with multiple separators but following all rules</name>
+            <description>25. Vendor code with multiple separators but following all rules</description>
+            <image>https://www.google.com/images/errors/robot.png</image>
+            <priceRUAH>15400</priceRUAH>
+            <priceRUSD>546</priceRUSD>
+            <stock>В наявності</stock>
+            <guarantee type="manufacturer">12</guarantee>
+            <param name="Країна виготовлення">Китай</param>
+            <param name="Оригінальність">Оригінал</param>
+            <payment type="cash-on-delivery" fee="2">true</payment>
+            <condition>0</condition>
+            <shipping>1</shipping>
+            <custom>1</custom>
+        </item>
+        <item>
+            <id>amp-1372-hotline-xml-26</id>
+            <categoryId>2</categoryId>
+            <vendor>Apple</vendor>
+            <code>CN-PROVIDER-ELEC_2023</code>
+            <name>26. Code with region-supplier-category format</name>
+            <description>26. Code with region-supplier-category format</description>
+            <image>https://www.google.com/images/errors/robot.png</image>
+            <priceRUAH>15400</priceRUAH>
+            <priceRUSD>546</priceRUSD>
+            <stock>В наявності</stock>
+            <guarantee type="manufacturer">12</guarantee>
+            <param name="Країна виготовлення">Китай</param>
+            <param name="Оригінальність">Оригінал</param>
+            <payment type="cash-on-delivery" fee="2">true</payment>
+            <condition>0</condition>
+            <shipping>1</shipping>
+            <custom>1</custom>
+        </item>
+        <item>
+            <id>amp-1372-hotline-xml-27</id>
+            <categoryId>2</categoryId>
+            <vendor>Apple</vendor>
+            <code>MAX-ALLOWED-CODE-12345678901234</code>
+            <name>27. Code with maximum length allowed + 1 (31 characters)</name>
+            <description>27. Code with maximum length allowed + 1 (31 characters)</description>
+            <image>https://www.google.com/images/errors/robot.png</image>
+            <priceRUAH>15400</priceRUAH>
+            <priceRUSD>546</priceRUSD>
+            <stock>В наявності</stock>
+            <guarantee type="manufacturer">12</guarantee>
+            <param name="Країна виготовлення">Китай</param>
+            <param name="Оригінальність">Оригінал</param>
+            <payment type="cash-on-delivery" fee="2">true</payment>
+            <condition>0</condition>
+            <shipping>1</shipping>
+            <custom>1</custom>
+        </item>
+        <item>
+            <id>amp-1372-hotline-xml-28</id>
+            <categoryId>2</categoryId>
+            <vendor>Apple</vendor>
+            <code>MX.TEST_12345+SKU\CATEG-6789</code>
+            <name>28. Vendor code with mix of all allowed characters</name>
+            <description>28. Vendor code with mix of all allowed characters</description>
+            <image>https://www.google.com/images/errors/robot.png</image>
+            <priceRUAH>15400</priceRUAH>
+            <priceRUSD>546</priceRUSD>
+            <stock>В наявності</stock>
+            <guarantee type="manufacturer">12</guarantee>
+            <param name="Країна виготовлення">Китай</param>
+            <param name="Оригінальність">Оригінал</param>
+            <payment type="cash-on-delivery" fee="2">true</payment>
+            <condition>0</condition>
+            <shipping>1</shipping>
+            <custom>1</custom>
+        </item>
+        <item>
+            <id>amp-1372-hotline-xml-29</id>
+            <categoryId>2</categoryId>
+            <vendor>Apple</vendor>
+            <code>VALIDATE-56789-TEST</code>
+            <name>29. Code ensuring logical restriction compliance</name>
+            <description>29. Code ensuring logical restriction compliance</description>
+            <image>https://www.google.com/images/errors/robot.png</image>
+            <priceRUAH>15400</priceRUAH>
+            <priceRUSD>546</priceRUSD>
+            <stock>В наявності</stock>
+            <guarantee type="manufacturer">12</guarantee>
+            <param name="Країна виготовлення">Китай</param>
+            <param name="Оригінальність">Оригінал</param>
+            <payment type="cash-on-delivery" fee="2">true</payment>
+            <condition>0</condition>
+            <shipping>1</shipping>
+            <custom>1</custom>
+        </item>
+        <item>
+            <id>amp-1372-hotline-xml-30</id>
+            <categoryId>2</categoryId>
+            <vendor>Apple</vendor>
+            <code>DE-SUPPLIER/CODE_9876+ORDER</code>
+            <name>30. Complex code within limits</name>
+            <description>30. Complex code within limits</description>
+            <image>https://www.google.com/images/errors/robot.png</image>
+            <priceRUAH>15400</priceRUAH>
+            <priceRUSD>546</priceRUSD>
+            <stock>В наявності</stock>
+            <guarantee type="manufacturer">12</guarantee>
+            <param name="Країна виготовлення">Китай</param>
+            <param name="Оригінальність">Оригінал</param>
+            <payment type="cash-on-delivery" fee="2">true</payment>
+            <condition>0</condition>
+            <shipping>1</shipping>
+            <custom>1</custom>
+        </item>
+        <item>
+            <id>amp-1372-hotline-xml-31</id>
+            <categoryId>2</categoryId>
+            <vendor>Apple</vendor>
+            <code>ПРОДАВЕЦ-1234-SUPPLIER</code>
+            <name>31. Vendor code with a mix of Cyrillic, Latin, and numbers</name>
+            <description>31. Vendor code with a mix of Cyrillic, Latin, and numbers</description>
+            <image>https://www.google.com/images/errors/robot.png</image>
+            <priceRUAH>15400</priceRUAH>
+            <priceRUSD>546</priceRUSD>
+            <stock>В наявності</stock>
+            <guarantee type="manufacturer">12</guarantee>
+            <param name="Країна виготовлення">Китай</param>
+            <param name="Оригінальність">Оригінал</param>
+            <payment type="cash-on-delivery" fee="2">true</payment>
+            <condition>0</condition>
+            <shipping>1</shipping>
+            <custom>1</custom>
+        </item>
+         <item>
+            <id>amp-1372-hotline-xml-32</id>
+            <categoryId>2</categoryId>
+            <vendor>Apple</vendor>
+            <code>EU-TRADE\SUPPLIER_7777+456</code>  
+            <name>32. Vendor code with multiple separators in a structured format</name>
+            <description>32. Vendor code with multiple separators in a structured format</description>
+            <image>https://www.google.com/images/errors/robot.png</image>
+            <priceRUAH>15400</priceRUAH>
+            <priceRUSD>546</priceRUSD>
+            <stock>В наявності</stock>
+            <guarantee type="manufacturer">12</guarantee>
+            <param name="Країна виготовлення">Китай</param>
+            <param name="Оригінальність">Оригінал</param>
+            <payment type="cash-on-delivery" fee="2">true</payment>
+            <condition>0</condition>
+            <shipping>1</shipping>
+            <custom>1</custom>
+        </item>
+         <item>
+            <id>amp-1372-hotline-xml-33</id>
+            <categoryId>2</categoryId>
+            <vendor>Apple</vendor>
+            <code>SUP-ITEM/98765_CODE-TEST</code> 
+            <name>33. Vendor code with a complex format but still valid </name>
+            <description>33. Vendor code with a complex format but still valid </description>
+            <image>https://www.google.com/images/errors/robot.png</image>
+            <priceRUAH>15400</priceRUAH>
+            <priceRUSD>546</priceRUSD>
+            <stock>В наявності</stock>
+            <guarantee type="manufacturer">12</guarantee>
+            <param name="Країна виготовлення">Китай</param>
+            <param name="Оригінальність">Оригінал</param>
+            <payment type="cash-on-delivery" fee="2">true</payment>
+            <condition>0</condition>
+            <shipping>1</shipping>
+            <custom>1</custom>
+        </item>
+          <item>
+            <id>amp-1372-hotline-xml-34</id>
+            <categoryId>2</categoryId>
+            <vendor>Apple</vendor>
+            <code>CHECK_ITEM_2024_4567</code> 
+            <name>34. Code with underscores and numbers </name>
+            <description>34. Code with underscores and numbers </description>
+            <image>https://www.google.com/images/errors/robot.png</image>
+            <priceRUAH>15400</priceRUAH>
+            <priceRUSD>546</priceRUSD>
+            <stock>В наявності</stock>
+            <guarantee type="manufacturer">12</guarantee>
+            <param name="Країна виготовлення">Китай</param>
+            <param name="Оригінальність">Оригінал</param>
+            <payment type="cash-on-delivery" fee="2">true</payment>
+            <condition>0</condition>
+            <shipping>1</shipping>
+            <custom>1</custom>
+        </item>
+        <item>
+            <id>amp-1372-hotline-xml-35</id>
+            <categoryId>2</categoryId>
+            <vendor>Apple</vendor>
+            <code>VALID-CODE+9876</code> 
+            <name>35. Vendor code using both hyphen and plus sign  </name>
+            <description>35. Vendor code using both hyphen and plus sign  </description>
+            <image>https://www.google.com/images/errors/robot.png</image>
+            <priceRUAH>15400</priceRUAH>
+            <priceRUSD>546</priceRUSD>
+            <stock>В наявності</stock>
+            <guarantee type="manufacturer">12</guarantee>
+            <param name="Країна виготовлення">Китай</param>
+            <param name="Оригінальність">Оригінал</param>
+            <payment type="cash-on-delivery" fee="2">true</payment>
+            <condition>0</condition>
+            <shipping>1</shipping>
+            <custom>1</custom>
+        </item>
+        <item>
+            <id>amp-1372-hotline-xml-36</id>
+            <categoryId>2</categoryId>
+            <vendor>Apple</vendor>
+            <code>US-UK-UA_SUPPLIER_23456</code>  
+            <name>36. Code with multiple regions and suppliers  </name>
+            <description>36. Code with multiple regions and suppliers  </description>
+            <image>https://www.google.com/images/errors/robot.png</image>
+            <priceRUAH>15400</priceRUAH>
+            <priceRUSD>546</priceRUSD>
+            <stock>В наявності</stock>
+            <guarantee type="manufacturer">12</guarantee>
+            <param name="Країна виготовлення">Китай</param>
+            <param name="Оригінальність">Оригінал</param>
+            <payment type="cash-on-delivery" fee="2">true</payment>
+            <condition>0</condition>
+            <shipping>1</shipping>
+            <custom>1</custom>
+        </item>
+        <item>
+            <id>amp-1372-hotline-xml-37</id>
+            <categoryId>2</categoryId>
+            <vendor>Apple</vendor>
+            <code>SUPPLIER-TEST/9876-2023</code>  
+            <name>37. Vendor code including slashes and dashes</name>
+            <description>37. Vendor code including slashes and dashes</description>
+            <image>https://www.google.com/images/errors/robot.png</image>
+            <priceRUAH>15400</priceRUAH>
+            <priceRUSD>546</priceRUSD>
+            <stock>В наявності</stock>
+            <guarantee type="manufacturer">12</guarantee>
+            <param name="Країна виготовлення">Китай</param>
+            <param name="Оригінальність">Оригінал</param>
+            <payment type="cash-on-delivery" fee="2">true</payment>
+            <condition>0</condition>
+            <shipping>1</shipping>
+            <custom>1</custom>
+        </item>
+        <item>
+            <id>amp-1372-hotline-xml-38</id>
+            <categoryId>2</categoryId>
+            <vendor>Apple</vendor>
+            <code>FR-GROUP/ITEM_998877+SKU</code>   
+            <name>38. Long hierarchical structure with multiple parts </name>
+            <description>38. Long hierarchical structure with multiple parts  </description>
+            <image>https://www.google.com/images/errors/robot.png</image>
+            <priceRUAH>15400</priceRUAH>
+            <priceRUSD>546</priceRUSD>
+            <stock>В наявності</stock>
+            <guarantee type="manufacturer">12</guarantee>
+            <param name="Країна виготовлення">Китай</param>
+            <param name="Оригінальність">Оригінал</param>
+            <payment type="cash-on-delivery" fee="2">true</payment>
+            <condition>0</condition>
+            <shipping>1</shipping>
+            <custom>1</custom>
+        </item>
+        <item>
+            <id>amp-1372-hotline-xml-39</id>
+            <categoryId>2</categoryId>
+            <vendor>Apple</vendor>
+            <code>TEST|SUP-9876-2025</code>   
+            <name>39. Code using pipes and dashes  </name>
+            <description>39. Code using pipes and dashes  </description>
+            <image>https://www.google.com/images/errors/robot.png</image>
+            <priceRUAH>15400</priceRUAH>
+            <priceRUSD>546</priceRUSD>
+            <stock>В наявності</stock>
+            <guarantee type="manufacturer">12</guarantee>
+            <param name="Країна виготовлення">Китай</param>
+            <param name="Оригінальність">Оригінал</param>
+            <payment type="cash-on-delivery" fee="2">true</payment>
+            <condition>0</condition>
+            <shipping>1</shipping>
+            <custom>1</custom>
+        </item>
+        <item>
+            <id>amp-1372-hotline-xml-40</id>
+            <categoryId>2</categoryId>
+            <vendor>Apple</vendor>
+            <code>SUPPLIER(1234)-TEST</code>   
+            <name>40. Vendor code with a bracketed number  </name>
+            <description>40. Vendor code with a bracketed number  </description>
+            <image>https://www.google.com/images/errors/robot.png</image>
+            <priceRUAH>15400</priceRUAH>
+            <priceRUSD>546</priceRUSD>
+            <stock>В наявності</stock>
+            <guarantee type="manufacturer">12</guarantee>
+            <param name="Країна виготовлення">Китай</param>
+            <param name="Оригінальність">Оригінал</param>
+            <payment type="cash-on-delivery" fee="2">true</payment>
+            <condition>0</condition>
+            <shipping>1</shipping>
+            <custom>1</custom>
+        </item>
+        <item>
+            <id>amp-1372-hotline-xml-41</id>
+            <categoryId>2</categoryId>
+            <vendor>Apple</vendor>
+            <code>PRODUCT.45678.TEST</code>  
+            <name>41. Code with periods separating sections </name>
+            <description>41. Code with periods separating sections  </description>
+            <image>https://www.google.com/images/errors/robot.png</image>
+            <priceRUAH>15400</priceRUAH>
+            <priceRUSD>546</priceRUSD>
+            <stock>В наявності</stock>
+            <guarantee type="manufacturer">12</guarantee>
+            <param name="Країна виготовлення">Китай</param>
+            <param name="Оригінальність">Оригінал</param>
+            <payment type="cash-on-delivery" fee="2">true</payment>
+            <condition>0</condition>
+            <shipping>1</shipping>
+            <custom>1</custom>
+        </item>
+        <item>
+            <id>amp-1372-hotline-xml-42</id>
+            <categoryId>2</categoryId>
+            <vendor>Apple</vendor>
+            <code>SUPPLIER/TEST_CODE_777</code>
+            <name>42. Vendor code formatted with slashes and underscores</name>
+            <description>42. Vendor code formatted with slashes and underscores</description>
+            <image>https://www.google.com/images/errors/robot.png</image>
+            <priceRUAH>15400</priceRUAH>
+            <priceRUSD>546</priceRUSD>
+            <stock>В наявності</stock>
+            <guarantee type="manufacturer">12</guarantee>
+            <param name="Країна виготовлення">Китай</param>
+            <param name="Оригінальність">Оригінал</param>
+            <payment type="cash-on-delivery" fee="2">true</payment>
+            <condition>0</condition>
+            <shipping>1</shipping>
+            <custom>1</custom>
+        </item>
+        <item>
+            <id>amp-1372-hotline-xml-43</id>
+            <categoryId>2</categoryId>
+            <vendor>Apple</vendor>
+            <code>ASIA-SUPPLIER-GROUP_5555</code>  
+            <name>43. Region-based hierarchical structure  </name>
+            <description>43. Region-based hierarchical structure  </description>
+            <image>https://www.google.com/images/errors/robot.png</image>
+            <priceRUAH>15400</priceRUAH>
+            <priceRUSD>546</priceRUSD>
+            <stock>В наявності</stock>
+            <guarantee type="manufacturer">12</guarantee>
+            <param name="Країна виготовлення">Китай</param>
+            <param name="Оригінальність">Оригінал</param>
+            <payment type="cash-on-delivery" fee="2">true</payment>
+            <condition>0</condition>
+            <shipping>1</shipping>
+            <custom>1</custom>
+        </item>
+        <item>
+            <id>amp-1372-hotline-xml-44</id>
+            <categoryId>2</categoryId>
+            <vendor>Apple</vendor>
+            <code>ITEM-6789/SUP-TEST_2024</code> 
+            <name>44. Code with a structured separator format</name>
+            <description>44. Code with a structured separator format</description>
+            <image>https://www.google.com/images/errors/robot.png</image>
+            <priceRUAH>15400</priceRUAH>
+            <priceRUSD>546</priceRUSD>
+            <stock>В наявності</stock>
+            <guarantee type="manufacturer">12</guarantee>
+            <param name="Країна виготовлення">Китай</param>
+            <param name="Оригінальність">Оригінал</param>
+            <payment type="cash-on-delivery" fee="2">true</payment>
+            <condition>0</condition>
+            <shipping>1</shipping>
+            <custom>1</custom>
+        </item>
+        <item>
+            <id>amp-1372-hotline-xml-45</id>
+            <categoryId>2</categoryId>
+            <vendor>Apple</vendor>
+            <code>EU_TEST+CODE-1234\4567</code>
+            <name>45. Vendor code with mixed punctuation</name>
+            <description>45. Vendor code with mixed punctuation</description>
+            <image>https://www.google.com/images/errors/robot.png</image>
+            <priceRUAH>15400</priceRUAH>
+            <priceRUSD>546</priceRUSD>
+            <stock>В наявності</stock>
+            <guarantee type="manufacturer">12</guarantee>
+            <param name="Країна виготовлення">Китай</param>
+            <param name="Оригінальність">Оригінал</param>
+            <payment type="cash-on-delivery" fee="2">true</payment>
+            <condition>0</condition>
+            <shipping>1</shipping>
+            <custom>1</custom>
+        </item>
+        <item>
+            <id>amp-1372-hotline-xml-46</id>
+            <categoryId>2</categoryId>
+            <vendor>Apple</vendor>
+            <code>VALID_CODE+CHECK_5678</code>
+            <name>46. Code with underscores and plus signs</name>
+            <description>46. Code with underscores and plus signs</description>
+            <image>https://www.google.com/images/errors/robot.png</image>
+            <priceRUAH>15400</priceRUAH>
+            <priceRUSD>546</priceRUSD>
+            <stock>В наявності</stock>
+            <guarantee type="manufacturer">12</guarantee>
+            <param name="Країна виготовлення">Китай</param>
+            <param name="Оригінальність">Оригінал</param>
+            <payment type="cash-on-delivery" fee="2">true</payment>
+            <condition>0</condition>
+            <shipping>1</shipping>
+            <custom>1</custom>
+        </item>
+        <item>
+            <id>amp-1372-hotline-xml-47</id>
+            <categoryId>2</categoryId>
+            <vendor>Apple</vendor>
+            <code>MAX_CODE-12345+67890/EU</code>
+            <name>47. Long but valid alphanumeric structure</name>
+            <description>47. Long but valid alphanumeric structure</description>
+            <image>https://www.google.com/images/errors/robot.png</image>
+            <priceRUAH>15400</priceRUAH>
+            <priceRUSD>546</priceRUSD>
+            <stock>В наявності</stock>
+            <guarantee type="manufacturer">12</guarantee>
+            <param name="Країна виготовлення">Китай</param>
+            <param name="Оригінальність">Оригінал</param>
+            <payment type="cash-on-delivery" fee="2">true</payment>
+            <condition>0</condition>
+            <shipping>1</shipping>
+            <custom>1</custom>
+        </item>
+        <item>
+            <id>amp-1372-hotline-xml-48</id>
+            <categoryId>2</categoryId>
+            <vendor>Apple</vendor>
+            <code>USA-TEST_ITEM/7890+CHECK</code>
+            <name>48. Vendor code using different separator styles</name>
+            <description>48. Vendor code using different separator styles</description>
+            <image>https://www.google.com/images/errors/robot.png</image>
+            <priceRUAH>15400</priceRUAH>
+            <priceRUSD>546</priceRUSD>
+            <stock>В наявності</stock>
+            <guarantee type="manufacturer">12</guarantee>
+            <param name="Країна виготовлення">Китай</param>
+            <param name="Оригінальність">Оригінал</param>
+            <payment type="cash-on-delivery" fee="2">true</payment>
+            <condition>0</condition>
+            <shipping>1</shipping>
+            <custom>1</custom>
+        </item>
+        <item>
+            <id>amp-1372-hotline-xml-49</id>
+            <categoryId>2</categoryId>
+            <vendor>Apple</vendor>
+            <code>MX.TEST_98765+SKU\ITEM-2345</code>
+            <name>49. Code that combines all possible separators</name>
+            <description>49. Code that combines all possible separators</description>
+            <image>https://www.google.com/images/errors/robot.png</image>
+            <priceRUAH>15400</priceRUAH>
+            <priceRUSD>546</priceRUSD>
+            <stock>В наявності</stock>
+            <guarantee type="manufacturer">12</guarantee>
+            <param name="Країна виготовлення">Китай</param>
+            <param name="Оригінальність">Оригінал</param>
+            <payment type="cash-on-delivery" fee="2">true</payment>
+            <condition>0</condition>
+            <shipping>1</shipping>
+            <custom>1</custom>
+        </item>
+        <item>
+            <id>amp-1372-hotline-xml-50</id>
+            <categoryId>2</categoryId>
+            <vendor>Apple</vendor>
+            <code>REGION-GROUP/SUPPLIER_4567+ITEM</code>  
+            <name>50. Complex vendor code with multi-part structure</name>
+            <description>50. Complex vendor code with multi-part structure</description>
+            <image>https://www.google.com/images/errors/robot.png</image>
+            <priceRUAH>15400</priceRUAH>
+            <priceRUSD>546</priceRUSD>
+            <stock>В наявності</stock>
+            <guarantee type="manufacturer">12</guarantee>
+            <param name="Країна виготовлення">Китай</param>
+            <param name="Оригінальність">Оригінал</param>
+            <payment type="cash-on-delivery" fee="2">true</payment>
+            <condition>0</condition>
+            <shipping>1</shipping>
+            <custom>1</custom>
+        </item>
+        <item>
+            <id>amp-1372-hotline-xml-51</id>
+            <categoryId>2</categoryId>
+            <vendor>Apple</vendor>
+            <code>SAFE-CODE-12345</code>
+            <name>51. Code ensuring no restricted characters at the start/end</name>
+            <description>51. Code ensuring no restricted characters at the start/end</description>
+            <image>https://www.google.com/images/errors/robot.png</image>
+            <priceRUAH>15400</priceRUAH>
+            <priceRUSD>546</priceRUSD>
+            <stock>В наявності</stock>
+            <guarantee type="manufacturer">12</guarantee>
+            <param name="Країна виготовлення">Китай</param>
+            <param name="Оригінальність">Оригінал</param>
+            <payment type="cash-on-delivery" fee="2">true</payment>
+            <condition>0</condition>
+            <shipping>1</shipping>
+            <custom>1</custom>
+        </item>
+        <item>
+            <id>amp-1372-hotline-xml-52</id>
+            <categoryId>2</categoryId>
+            <vendor>Apple</vendor>
+            <code>ITEM/TEST_9999+CODE</code>  
+            <name>52. Alphanumeric vendor code with allowed symbols </name>
+            <description>52. Alphanumeric vendor code with allowed symbols </description>
+            <image>https://www.google.com/images/errors/robot.png</image>
+            <priceRUAH>15400</priceRUAH>
+            <priceRUSD>546</priceRUSD>
+            <stock>В наявності</stock>
+            <guarantee type="manufacturer">12</guarantee>
+            <param name="Країна виготовлення">Китай</param>
+            <param name="Оригінальність">Оригінал</param>
+            <payment type="cash-on-delivery" fee="2">true</payment>
+            <condition>0</condition>
+            <shipping>1</shipping>
+            <custom>1</custom>
+        </item>
+        <item>
+            <id>amp-1372-hotline-xml-53</id>
+            <categoryId>2</categoryId>
+            <vendor>Apple</vendor>
+            <code>EU-TECH_SUPPLIER/2025</code> 
+            <name>53. Vendor code with a structured category format </name>
+            <description>53. Vendor code with a structured category format </description>
+            <image>https://www.google.com/images/errors/robot.png</image>
+            <priceRUAH>15400</priceRUAH>
+            <priceRUSD>546</priceRUSD>
+            <stock>В наявності</stock>
+            <guarantee type="manufacturer">12</guarantee>
+            <param name="Країна виготовлення">Китай</param>
+            <param name="Оригінальність">Оригінал</param>
+            <payment type="cash-on-delivery" fee="2">true</payment>
+            <condition>0</condition>
+            <shipping>1</shipping>
+            <custom>1</custom>
+        </item>
+        <item>
+            <id>amp-1372-hotline-xml-54</id>
+            <categoryId>2</categoryId>
+            <vendor>Apple</vendor>
+            <code>REGION+SUP_ITEM/2345</code>
+            <name>54. Vendor code ensuring logical formatting rules</name>
+            <description>54. Vendor code ensuring logical formatting rules</description>
+            <image>https://www.google.com/images/errors/robot.png</image>
+            <priceRUAH>15400</priceRUAH>
+            <priceRUSD>546</priceRUSD>
+            <stock>В наявності</stock>
+            <guarantee type="manufacturer">12</guarantee>
+            <param name="Країна виготовлення">Китай</param>
+            <param name="Оригінальність">Оригінал</param>
+            <payment type="cash-on-delivery" fee="2">true</payment>
+            <condition>0</condition>
+            <shipping>1</shipping>
+            <custom>1</custom>
+        </item>
+        <item>
+            <id>amp-1372-hotline-xml-55</id>
+            <categoryId>2</categoryId>
+            <vendor>Apple</vendor>
+            <code>ASIA-TRADE/ITEM_7890+SKU</code>
+            <name>55. Hierarchical structure including supplier and product ID</name>
+            <description>55. Hierarchical structure including supplier and product ID</description>
+            <image>https://www.google.com/images/errors/robot.png</image>
+            <priceRUAH>15400</priceRUAH>
+            <priceRUSD>546</priceRUSD>
+            <stock>В наявності</stock>
+            <guarantee type="manufacturer">12</guarantee>
+            <param name="Країна виготовлення">Китай</param>
+            <param name="Оригінальність">Оригінал</param>
+            <payment type="cash-on-delivery" fee="2">true</payment>
+            <condition>0</condition>
+            <shipping>1</shipping>
+            <custom>1</custom>
+        </item>
+        <item>
+            <id>amp-1372-hotline-xml-56</id>
+            <categoryId>2</categoryId>
+            <vendor>Apple</vendor>
+            <code>CHECK-SUPPLIER_5678+ITEM</code>
+            <name>56. Vendor code ensuring strict separator rules </name>
+            <description>56. Vendor code ensuring strict separator rules </description>
+            <image>https://www.google.com/images/errors/robot.png</image>
+            <priceRUAH>15400</priceRUAH>
+            <priceRUSD>546</priceRUSD>
+            <stock>В наявності</stock>
+            <guarantee type="manufacturer">12</guarantee>
+            <param name="Країна виготовлення">Китай</param>
+            <param name="Оригінальність">Оригінал</param>
+            <payment type="cash-on-delivery" fee="2">true</payment>
+            <condition>0</condition>
+            <shipping>1</shipping>
+            <custom>1</custom>
+        </item>
+        <item>
+            <id>amp-1372-hotline-xml-57</id>
+            <categoryId>2</categoryId>
+            <vendor>Apple</vendor>
+            <code>PRODUCT(4567)-TEST</code>
+            <name>57. Code with brackets and numbers</name>
+            <description>57. Code with brackets and numbers</description>
+            <image>https://www.google.com/images/errors/robot.png</image>
+            <priceRUAH>15400</priceRUAH>
+            <priceRUSD>546</priceRUSD>
+            <stock>В наявності</stock>
+            <guarantee type="manufacturer">12</guarantee>
+            <param name="Країна виготовлення">Китай</param>
+            <param name="Оригінальність">Оригінал</param>
+            <payment type="cash-on-delivery" fee="2">true</payment>
+            <condition>0</condition>
+            <shipping>1</shipping>
+            <custom>1</custom>
+        </item>
+        <item>
+            <id>amp-1372-hotline-xml-58</id>
+            <categoryId>2</categoryId>
+            <vendor>Apple</vendor>
+            <code>GLOBAL-GROUP/TEST_3456+ITEM</code>
+            <name>58. Code ensuring region and category compliance</name>
+            <description>58. Code ensuring region and category compliance</description>
+            <image>https://www.google.com/images/errors/robot.png</image>
+            <priceRUAH>15400</priceRUAH>
+            <priceRUSD>546</priceRUSD>
+            <stock>В наявності</stock>
+            <guarantee type="manufacturer">12</guarantee>
+            <param name="Країна виготовлення">Китай</param>
+            <param name="Оригінальність">Оригінал</param>
+            <payment type="cash-on-delivery" fee="2">true</payment>
+            <condition>0</condition>
+            <shipping>1</shipping>
+            <custom>1</custom>
+        </item>
+        <item>
+            <id>amp-1372-hotline-xml-59</id>
+            <categoryId>2</categoryId>
+            <vendor>Apple</vendor>
+            <code>DE-PRODUCT_SUPPLIER/1234</code>
+            <name>59. Vendor code following hierarchical supplier structure</name>
+            <description>59. Vendor code following hierarchical supplier structure</description>
+            <image>https://www.google.com/images/errors/robot.png</image>
+            <priceRUAH>15400</priceRUAH>
+            <priceRUSD>546</priceRUSD>
+            <stock>В наявності</stock>
+            <guarantee type="manufacturer">12</guarantee>
+            <param name="Країна виготовлення">Китай</param>
+            <param name="Оригінальність">Оригінал</param>
+            <payment type="cash-on-delivery" fee="2">true</payment>
+            <condition>0</condition>
+            <shipping>1</shipping>
+            <custom>1</custom>
+        </item>
+        <item>
+            <id>amp-1372-hotline-xml-60</id>
+            <categoryId>2</categoryId>
+            <vendor>Apple</vendor>
+            <code>VALID/TEST_2025+SKU-7890</code> 
+            <name>60. Vendor code with allowed symbols and length compliance</name>
+            <description>60. Vendor code with allowed symbols and length compliance</description>
+            <image>https://www.google.com/images/errors/robot.png</image>
+            <priceRUAH>15400</priceRUAH>
+            <priceRUSD>546</priceRUSD>
+            <stock>В наявності</stock>
+            <guarantee type="manufacturer">12</guarantee>
+            <param name="Країна виготовлення">Китай</param>
+            <param name="Оригінальність">Оригінал</param>
+            <payment type="cash-on-delivery" fee="2">true</payment>
+            <condition>0</condition>
+            <shipping>1</shipping>
+            <custom>1</custom>
+        </item>
+        <item>
+            <id>amp-1372-hotline-xml-61</id>
+            <categoryId>2</categoryId>
+            <vendor>Apple</vendor>
+            <code>INVALID CODE 12345</code>  
+            <name>61. Code contains spaces (not allowed)</name>
+            <description>61. Code contains spaces (not allowed)</description>
+            <image>https://www.google.com/images/errors/robot.png</image>
+            <priceRUAH>15400</priceRUAH>
+            <priceRUSD>546</priceRUSD>
+            <stock>В наявності</stock>
+            <guarantee type="manufacturer">12</guarantee>
+            <param name="Країна виготовлення">Китай</param>
+            <param name="Оригінальність">Оригінал</param>
+            <payment type="cash-on-delivery" fee="2">true</payment>
+            <condition>0</condition>
+            <shipping>1</shipping>
+            <custom>1</custom>
+        </item>
+        <item>
+            <id>amp-1372-hotline-xml-62</id>
+            <categoryId>2</categoryId>
+            <vendor>Apple</vendor>
+            <code>-INVALID-12345</code>  
+            <name>62. Code starts with a restricted character (-)</name>
+            <description>62. Code starts with a restricted character (-)</description>
+            <image>https://www.google.com/images/errors/robot.png</image>
+            <priceRUAH>15400</priceRUAH>
+            <priceRUSD>546</priceRUSD>
+            <stock>В наявності</stock>
+            <guarantee type="manufacturer">12</guarantee>
+            <param name="Країна виготовлення">Китай</param>
+            <param name="Оригінальність">Оригінал</param>
+            <payment type="cash-on-delivery" fee="2">true</payment>
+            <condition>0</condition>
+            <shipping>1</shipping>
+            <custom>1</custom>
+        </item>
+        <item>
+            <id>amp-1372-hotline-xml-63</id>
+            <categoryId>2</categoryId>
+            <vendor>Apple</vendor>
+            <code>INVALID-12345-</code>
+            <name>63. Code ends with a restricted character (-)</name>
+            <description>63. Code ends with a restricted character (-)</description>
+            <image>https://www.google.com/images/errors/robot.png</image>
+            <priceRUAH>15400</priceRUAH>
+            <priceRUSD>546</priceRUSD>
+            <stock>В наявності</stock>
+            <guarantee type="manufacturer">12</guarantee>
+            <param name="Країна виготовлення">Китай</param>
+            <param name="Оригінальність">Оригінал</param>
+            <payment type="cash-on-delivery" fee="2">true</payment>
+            <condition>0</condition>
+            <shipping>1</shipping>
+            <custom>1</custom>
+        </item>
+        <item>
+            <id>amp-1372-hotline-xml-64</id>
+            <categoryId>2</categoryId>
+            <vendor>Apple</vendor>
+            <code>_INVALID_1234_</code>
+            <name>64. Code starts and ends with an underscore (not allowed)</name>
+            <description>64. Code starts and ends with an underscore (not allowed)</description>
+            <image>https://www.google.com/images/errors/robot.png</image>
+            <priceRUAH>15400</priceRUAH>
+            <priceRUSD>546</priceRUSD>
+            <stock>В наявності</stock>
+            <guarantee type="manufacturer">12</guarantee>
+            <param name="Країна виготовлення">Китай</param>
+            <param name="Оригінальність">Оригінал</param>
+            <payment type="cash-on-delivery" fee="2">true</payment>
+            <condition>0</condition>
+            <shipping>1</shipping>
+            <custom>1</custom>
+        </item>
+        <item>
+            <id>amp-1372-hotline-xml-65</id>
+            <categoryId>2</categoryId>
+            <vendor>Apple</vendor>
+            <code>INVALID!CODE@123</code>
+            <name>65. Code contains special characters not allowed (!@#$)</name>
+            <description>65. Code contains special characters not allowed (!@#$)</description>
+            <image>https://www.google.com/images/errors/robot.png</image>
+            <priceRUAH>15400</priceRUAH>
+            <priceRUSD>546</priceRUSD>
+            <stock>В наявності</stock>
+            <guarantee type="manufacturer">12</guarantee>
+            <param name="Країна виготовлення">Китай</param>
+            <param name="Оригінальність">Оригінал</param>
+            <payment type="cash-on-delivery" fee="2">true</payment>
+            <condition>0</condition>
+            <shipping>1</shipping>
+            <custom>1</custom>
+        </item>
+        <item>
+            <id>amp-1372-hotline-xml-66</id>
+            <categoryId>2</categoryId>
+            <vendor>Apple</vendor>
+            <code>InvalidCode123</code>  
+            <name>66. Code includes lowercase letters (must be uppercase)</name>
+            <description>66. Code includes lowercase letters (must be uppercase)</description>
+            <image>https://www.google.com/images/errors/robot.png</image>
+            <priceRUAH>15400</priceRUAH>
+            <priceRUSD>546</priceRUSD>
+            <stock>В наявності</stock>
+            <guarantee type="manufacturer">12</guarantee>
+            <param name="Країна виготовлення">Китай</param>
+            <param name="Оригінальність">Оригінал</param>
+            <payment type="cash-on-delivery" fee="2">true</payment>
+            <condition>0</condition>
+            <shipping>1</shipping>
+            <custom>1</custom>
+        </item>
+        <item>
+            <id>amp-1372-hotline-xml-67</id>
+            <categoryId>2</categoryId>
+            <vendor>Apple</vendor>
+            <code>INVALID-EXCEEDING-123456789012345</code>  
+            <name>67. Code exceeds max length (31 characters)</name>
+            <description>67. Code exceeds max length (31 characters)</description>
+            <image>https://www.google.com/images/errors/robot.png</image>
+            <priceRUAH>15400</priceRUAH>
+            <priceRUSD>546</priceRUSD>
+            <stock>В наявності</stock>
+            <guarantee type="manufacturer">12</guarantee>
+            <param name="Країна виготовлення">Китай</param>
+            <param name="Оригінальність">Оригінал</param>
+            <payment type="cash-on-delivery" fee="2">true</payment>
+            <condition>0</condition>
+            <shipping>1</shipping>
+            <custom>1</custom>
+        </item>
+        <item>
+            <id>amp-1372-hotline-xml-68</id>
+            <categoryId>2</categoryId>
+            <vendor>Apple</vendor>
+            <code>123</code>  
+            <name>68. Code below min length (less than 5 characters) </name>
+            <description>68. Code below min length (less than 5 characters) </description>
+            <image>https://www.google.com/images/errors/robot.png</image>
+            <priceRUAH>15400</priceRUAH>
+            <priceRUSD>546</priceRUSD>
+            <stock>В наявності</stock>
+            <guarantee type="manufacturer">12</guarantee>
+            <param name="Країна виготовлення">Китай</param>
+            <param name="Оригінальність">Оригінал</param>
+            <payment type="cash-on-delivery" fee="2">true</payment>
+            <condition>0</condition>
+            <shipping>1</shipping>
+            <custom>1</custom>
+        </item>
+        <item>
+            <id>amp-1372-hotline-xml-69</id>
+            <categoryId>2</categoryId>
+            <vendor>Apple</vendor>
+            <code>TEST😊1234</code>
+            <name>69. Code contains an emoji (not allowed)</name>
+            <description>69. Code contains an emoji (not allowed)</description>
+            <image>https://www.google.com/images/errors/robot.png</image>
+            <priceRUAH>15400</priceRUAH>
+            <priceRUSD>546</priceRUSD>
+            <stock>В наявності</stock>
+            <guarantee type="manufacturer">12</guarantee>
+            <param name="Країна виготовлення">Китай</param>
+            <param name="Оригінальність">Оригінал</param>
+            <payment type="cash-on-delivery" fee="2">true</payment>
+            <condition>0</condition>
+            <shipping>1</shipping>
+            <custom>1</custom>
+        </item>
+        <item>
+            <id>amp-1372-hotline-xml-70</id>
+            <categoryId>2</categoryId>
+            <vendor>Apple</vendor>
+            <code>     </code>
+            <name>70. Code contains only spaces (completely invalid)</name>
+            <description>70. Code contains only spaces (completely invalid)</description>
+            <image>https://www.google.com/images/errors/robot.png</image>
+            <priceRUAH>15400</priceRUAH>
+            <priceRUSD>546</priceRUSD>
+            <stock>В наявності</stock>
+            <guarantee type="manufacturer">12</guarantee>
+            <param name="Країна виготовлення">Китай</param>
+            <param name="Оригінальність">Оригінал</param>
+            <payment type="cash-on-delivery" fee="2">true</payment>
+            <condition>0</condition>
+            <shipping>1</shipping>
+            <custom>1</custom>
+        </item>
+        <item>
+            <id>amp-1372-hotline-xml-71</id>
+            <categoryId>2</categoryId>
+            <vendor>Apple</vendor>
+            <code>INVALID~CODE^1234</code>
+            <name>71. Code has an invalid separator (not listed)  </name>
+            <description>71. Code has an invalid separator (not listed)  </description>
+            <image>https://www.google.com/images/errors/robot.png</image>
+            <priceRUAH>15400</priceRUAH>
+            <priceRUSD>546</priceRUSD>
+            <stock>В наявності</stock>
+            <guarantee type="manufacturer">12</guarantee>
+            <param name="Країна виготовлення">Китай</param>
+            <param name="Оригінальність">Оригінал</param>
+            <payment type="cash-on-delivery" fee="2">true</payment>
+            <condition>0</condition>
+            <shipping>1</shipping>
+            <custom>1</custom>
+        </item>
+        <item>
+            <id>amp-1372-hotline-xml-72</id>
+            <categoryId>2</categoryId>
+            <vendor>Apple</vendor>
+            <code>TEST’CODE’123</code>  
+            <name>72. Code contains an apostrophe (not allowed) </name>
+            <description>72. Code contains an apostrophe (not allowed) </description>
+            <image>https://www.google.com/images/errors/robot.png</image>
+            <priceRUAH>15400</priceRUAH>
+            <priceRUSD>546</priceRUSD>
+            <stock>В наявності</stock>
+            <guarantee type="manufacturer">12</guarantee>
+            <param name="Країна виготовлення">Китай</param>
+            <param name="Оригінальність">Оригінал</param>
+            <payment type="cash-on-delivery" fee="2">true</payment>
+            <condition>0</condition>
+            <shipping>1</shipping>
+            <custom>1</custom>
+        </item>
+        <item>
+            <id>amp-1372-hotline-xml-73</id>
+            <categoryId>2</categoryId>
+            <vendor>Apple</vendor>
+            <code>+INVALIDCODE123</code>  
+            <name>73. Code starts with a plus sign (not allowed) </name>
+            <description>73. Code starts with a plus sign (not allowed)  </description>
+            <image>https://www.google.com/images/errors/robot.png</image>
+            <priceRUAH>15400</priceRUAH>
+            <priceRUSD>546</priceRUSD>
+            <stock>В наявності</stock>
+            <guarantee type="manufacturer">12</guarantee>
+            <param name="Країна виготовлення">Китай</param>
+            <param name="Оригінальність">Оригінал</param>
+            <payment type="cash-on-delivery" fee="2">true</payment>
+            <condition>0</condition>
+            <shipping>1</shipping>
+            <custom>1</custom>
+        </item>
+        <item>
+            <id>amp-1372-hotline-xml-74</id>
+            <categoryId>2</categoryId>
+            <vendor>Apple</vendor>
+            <code>INVALIDCODE123+</code>   
+            <name>74. Code ends with a plus sign (not allowed)  </name>
+            <description>74. Code ends with a plus sign (not allowed)  </description>
+            <image>https://www.google.com/images/errors/robot.png</image>
+            <priceRUAH>15400</priceRUAH>
+            <priceRUSD>546</priceRUSD>
+            <stock>В наявності</stock>
+            <guarantee type="manufacturer">12</guarantee>
+            <param name="Країна виготовлення">Китай</param>
+            <param name="Оригінальність">Оригінал</param>
+            <payment type="cash-on-delivery" fee="2">true</payment>
+            <condition>0</condition>
+            <shipping>1</shipping>
+            <custom>1</custom>
+        </item>
+        <item>
+            <id>amp-1372-hotline-xml-75</id>
+            <categoryId>2</categoryId>
+            <vendor>Apple</vendor>
+            <code>=INVALID=CODE</code>  
+            <name>75. Code starts with an equal sign (not allowed)  </name>
+            <description>75. Code starts with an equal sign (not allowed)  </description>
+            <image>https://www.google.com/images/errors/robot.png</image>
+            <priceRUAH>15400</priceRUAH>
+            <priceRUSD>546</priceRUSD>
+            <stock>В наявності</stock>
+            <guarantee type="manufacturer">12</guarantee>
+            <param name="Країна виготовлення">Китай</param>
+            <param name="Оригінальність">Оригінал</param>
+            <payment type="cash-on-delivery" fee="2">true</payment>
+            <condition>0</condition>
+            <shipping>1</shipping>
+            <custom>1</custom>
+        </item>
+        <item>
+            <id>amp-1372-hotline-xml-76</id>
+            <categoryId>2</categoryId>
+            <vendor>Apple</vendor>
+            <code>INVALID=CODE=</code>   
+            <name>76. Code ends with an equal sign (not allowed)  </name>
+            <description>76. Code ends with an equal sign (not allowed)  </description>
+            <image>https://www.google.com/images/errors/robot.png</image>
+            <priceRUAH>15400</priceRUAH>
+            <priceRUSD>546</priceRUSD>
+            <stock>В наявності</stock>
+            <guarantee type="manufacturer">12</guarantee>
+            <param name="Країна виготовлення">Китай</param>
+            <param name="Оригінальність">Оригінал</param>
+            <payment type="cash-on-delivery" fee="2">true</payment>
+            <condition>0</condition>
+            <shipping>1</shipping>
+            <custom>1</custom>
+        </item>
+        <item>
+            <id>amp-1372-hotline-xml-77</id>
+            <categoryId>2</categoryId>
+            <vendor>Apple</vendor>
+            <code>INVALID*CODE&amp;1234</code>   
+            <name>77. Code contains prohibited symbols (*&amp;)  </name>
+            <description>77. Code contains prohibited symbols (*&amp;)  </description>
+            <image>https://www.google.com/images/errors/robot.png</image>
+            <priceRUAH>15400</priceRUAH>
+            <priceRUSD>546</priceRUSD>
+            <stock>В наявності</stock>
+            <guarantee type="manufacturer">12</guarantee>
+            <param name="Країна виготовлення">Китай</param>
+            <param name="Оригінальність">Оригінал</param>
+            <payment type="cash-on-delivery" fee="2">true</payment>
+            <condition>0</condition>
+            <shipping>1</shipping>
+            <custom>1</custom>
+        </item>
+        <item>
+            <id>amp-1372-hotline-xml-78</id>
+            <categoryId>2</categoryId>
+            <vendor>Apple</vendor>
+            <code>\INVALID-CODE</code> 
+            <name>78. Code starts with a backslash (not allowed)  </name>
+            <description>78. Code starts with a backslash (not allowed)  </description>
+            <image>https://www.google.com/images/errors/robot.png</image>
+            <priceRUAH>15400</priceRUAH>
+            <priceRUSD>546</priceRUSD>
+            <stock>В наявності</stock>
+            <guarantee type="manufacturer">12</guarantee>
+            <param name="Країна виготовлення">Китай</param>
+            <param name="Оригінальність">Оригінал</param>
+            <payment type="cash-on-delivery" fee="2">true</payment>
+            <condition>0</condition>
+            <shipping>1</shipping>
+            <custom>1</custom>
+        </item>
+        <item>
+            <id>amp-1372-hotline-xml-79</id>
+            <categoryId>2</categoryId>
+            <vendor>Apple</vendor>
+            <code>INVALID-CODE/</code>  
+            <name>79. Code ends with a forward slash (not allowed)  </name>
+            <description>79. Code ends with a forward slash (not allowed)  </description>
+            <image>https://www.google.com/images/errors/robot.png</image>
+            <priceRUAH>15400</priceRUAH>
+            <priceRUSD>546</priceRUSD>
+            <stock>В наявності</stock>
+            <guarantee type="manufacturer">12</guarantee>
+            <param name="Країна виготовлення">Китай</param>
+            <param name="Оригінальність">Оригінал</param>
+            <payment type="cash-on-delivery" fee="2">true</payment>
+            <condition>0</condition>
+            <shipping>1</shipping>
+            <custom>1</custom>
+        </item>
+        <item>
+            <id>amp-1372-hotline-xml-80</id>
+            <categoryId>2</categoryId>
+            <vendor>Apple</vendor>
+            <code>Test-Code-1234</code>
+            <name>80. Code contains mixed uppercase and lowercase letters (invalid) </name>
+            <description>80. Code contains mixed uppercase and lowercase letters (invalid) </description>
+            <image>https://www.google.com/images/errors/robot.png</image>
+            <priceRUAH>15400</priceRUAH>
+            <priceRUSD>546</priceRUSD>
+            <stock>В наявності</stock>
+            <guarantee type="manufacturer">12</guarantee>
+            <param name="Країна виготовлення">Китай</param>
+            <param name="Оригінальність">Оригінал</param>
+            <payment type="cash-on-delivery" fee="2">true</payment>
+            <condition>0</condition>
+            <shipping>1</shipping>
+            <custom>1</custom>
+        </item>
+        <item>
+            <id>amp-1372-hotline-xml-81</id>
+            <categoryId>2</categoryId>
+            <vendor>Apple</vendor>
+            <code>INVALID  CODE 12345</code> 
+            <name>81. Code contains double spaces (not allowed) </name>
+            <description>81. Code contains double spaces (not allowed) </description>
+            <image>https://www.google.com/images/errors/robot.png</image>
+            <priceRUAH>15400</priceRUAH>
+            <priceRUSD>546</priceRUSD>
+            <stock>В наявності</stock>
+            <guarantee type="manufacturer">12</guarantee>
+            <param name="Країна виготовлення">Китай</param>
+            <param name="Оригінальність">Оригінал</param>
+            <payment type="cash-on-delivery" fee="2">true</payment>
+            <condition>0</condition>
+            <shipping>1</shipping>
+            <custom>1</custom>
+        </item>
+        <item>
+            <id>amp-1372-hotline-xml-82</id>
+            <categoryId>2</categoryId>
+            <vendor>Apple</vendor>
+            <code>INVALID\nCODE123</code> 
+            <name>82. Code contains a newline character (invalid) </name>
+            <description>82. Code contains a newline character (invalid)  </description>
+            <image>https://www.google.com/images/errors/robot.png</image>
+            <priceRUAH>15400</priceRUAH>
+            <priceRUSD>546</priceRUSD>
+            <stock>В наявності</stock>
+            <guarantee type="manufacturer">12</guarantee>
+            <param name="Країна виготовлення">Китай</param>
+            <param name="Оригінальність">Оригінал</param>
+            <payment type="cash-on-delivery" fee="2">true</payment>
+            <condition>0</condition>
+            <shipping>1</shipping>
+            <custom>1</custom>
+        </item>
+        <item>
+            <id>amp-1372-hotline-xml-83</id>
+            <categoryId>2</categoryId>
+            <vendor>Apple</vendor>
+            <code>INVALID\tCODE123</code> 
+            <name>83. Code contains a tab character (invalid) </name>
+            <description>83. Code contains a tab character (invalid)</description>
+            <image>https://www.google.com/images/errors/robot.png</image>
+            <priceRUAH>15400</priceRUAH>
+            <priceRUSD>546</priceRUSD>
+            <stock>В наявності</stock>
+            <guarantee type="manufacturer">12</guarantee>
+            <param name="Країна виготовлення">Китай</param>
+            <param name="Оригінальність">Оригінал</param>
+            <payment type="cash-on-delivery" fee="2">true</payment>
+            <condition>0</condition>
+            <shipping>1</shipping>
+            <custom>1</custom>
+        </item>
+        <item>
+            <id>amp-1372-hotline-xml-84</id>
+            <categoryId>2</categoryId>
+            <vendor>Apple</vendor>
+            <code>供应商-12345</code>
+            <name>84. Code has a non-Latin, non-Cyrillic character </name>
+            <description>84. Code has a non-Latin, non-Cyrillic character </description>
+            <image>https://www.google.com/images/errors/robot.png</image>
+            <priceRUAH>15400</priceRUAH>
+            <priceRUSD>546</priceRUSD>
+            <stock>В наявності</stock>
+            <guarantee type="manufacturer">12</guarantee>
+            <param name="Країна виготовлення">Китай</param>
+            <param name="Оригінальність">Оригінал</param>
+            <payment type="cash-on-delivery" fee="2">true</payment>
+            <condition>0</condition>
+            <shipping>1</shipping>
+            <custom>1</custom>
+        </item>
+        <item>
+            <id>amp-1372-hotline-xml-85</id>
+            <categoryId>2</categoryId>
+            <vendor>Apple</vendor>
+            <code>INVALID**CODE//123</code>  
+            <name>85. Code has a mix of invalid and valid separators  </name>
+            <description>85. Code has a mix of invalid and valid separators  </description>
+            <image>https://www.google.com/images/errors/robot.png</image>
+            <priceRUAH>15400</priceRUAH>
+            <priceRUSD>546</priceRUSD>
+            <stock>В наявності</stock>
+            <guarantee type="manufacturer">12</guarantee>
+            <param name="Країна виготовлення">Китай</param>
+            <param name="Оригінальність">Оригінал</param>
+            <payment type="cash-on-delivery" fee="2">true</payment>
+            <condition>0</condition>
+            <shipping>1</shipping>
+            <custom>1</custom>
+        </item>
+        <item>
+            <id>amp-1372-hotline-xml-86</id>
+            <categoryId>2</categoryId>
+            <vendor>Apple</vendor>
+            <code>'INVALID-CODE-123'</code>   
+            <name>86. Code uses single quotes (not allowed)  </name>
+            <description>86. Code uses single quotes (not allowed)  </description>
+            <image>https://www.google.com/images/errors/robot.png</image>
+            <priceRUAH>15400</priceRUAH>
+            <priceRUSD>546</priceRUSD>
+            <stock>В наявності</stock>
+            <guarantee type="manufacturer">12</guarantee>
+            <param name="Країна виготовлення">Китай</param>
+            <param name="Оригінальність">Оригінал</param>
+            <payment type="cash-on-delivery" fee="2">true</payment>
+            <condition>0</condition>
+            <shipping>1</shipping>
+            <custom>1</custom>
+        </item>
+        <item>
+            <id>amp-1372-hotline-xml-87</id>
+            <categoryId>2</categoryId>
+            <vendor>Apple</vendor>
+            <code>[INVALID-CODE-123]</code>  
+            <name>87. Code contains square brackets (not allowed)</name>
+            <description>87. Code contains square brackets (not allowed)</description>
+            <image>https://www.google.com/images/errors/robot.png</image>
+            <priceRUAH>15400</priceRUAH>
+            <priceRUSD>546</priceRUSD>
+            <stock>В наявності</stock>
+            <guarantee type="manufacturer">12</guarantee>
+            <param name="Країна виготовлення">Китай</param>
+            <param name="Оригінальність">Оригінал</param>
+            <payment type="cash-on-delivery" fee="2">true</payment>
+            <condition>0</condition>
+            <shipping>1</shipping>
+            <custom>1</custom>
+        </item>
+        <item>
+            <id>amp-1372-hotline-xml-88</id>
+            <categoryId>2</categoryId>
+            <vendor>Apple</vendor>
+            <code>{INVALID-CODE-123}</code> 
+            <name>88. Code contains curly brackets (not allowed)</name>
+            <description>88. Code contains curly brackets (not allowed)</description>
+            <image>https://www.google.com/images/errors/robot.png</image>
+            <priceRUAH>15400</priceRUAH>
+            <priceRUSD>546</priceRUSD>
+            <stock>В наявності</stock>
+            <guarantee type="manufacturer">12</guarantee>
+            <param name="Країна виготовлення">Китай</param>
+            <param name="Оригінальність">Оригінал</param>
+            <payment type="cash-on-delivery" fee="2">true</payment>
+            <condition>0</condition>
+            <shipping>1</shipping>
+            <custom>1</custom>
+        </item>
+        <item>
+            <id>amp-1372-hotline-xml-89</id>
+            <categoryId>2</categoryId>
+            <vendor>Apple</vendor>
+            <code>INVALID--CODE-123</code> 
+            <name>89. Code has consecutive dashes (not allowed) </name>
+            <description>89. Code has consecutive dashes (not allowed) </description>
+            <image>https://www.google.com/images/errors/robot.png</image>
+            <priceRUAH>15400</priceRUAH>
+            <priceRUSD>546</priceRUSD>
+            <stock>В наявності</stock>
+            <guarantee type="manufacturer">12</guarantee>
+            <param name="Країна виготовлення">Китай</param>
+            <param name="Оригінальність">Оригінал</param>
+            <payment type="cash-on-delivery" fee="2">true</payment>
+            <condition>0</condition>
+            <shipping>1</shipping>
+            <custom>1</custom>
+        </item>
+        <item>
+            <id>amp-1372-hotline-xml-90</id>
+            <categoryId>2</categoryId>
+            <vendor>Apple</vendor>
+            <code>-----</code>
+            <name>90. Code has only punctuation (not allowed) </name>
+            <description>90. Code has only punctuation (not allowed) </description>
+            <image>https://www.google.com/images/errors/robot.png</image>
+            <priceRUAH>15400</priceRUAH>
+            <priceRUSD>546</priceRUSD>
+            <stock>В наявності</stock>
+            <guarantee type="manufacturer">12</guarantee>
+            <param name="Країна виготовлення">Китай</param>
+            <param name="Оригінальність">Оригінал</param>
+            <payment type="cash-on-delivery" fee="2">true</payment>
+            <condition>0</condition>
+            <shipping>1</shipping>
+            <custom>1</custom>
+        </item>
+        <item>
+            <id>amp-1372-hotline-xml-91</id>
+            <categoryId>2</categoryId>
+            <vendor>Apple</vendor>
+            <code>GG--TEST-4567</code> 
+            <name>91. Code contains an invalid character sequence </name>
+            <description>91. Code contains an invalid character sequence </description>
+            <image>https://www.google.com/images/errors/robot.png</image>
+            <priceRUAH>15400</priceRUAH>
+            <priceRUSD>546</priceRUSD>
+            <stock>В наявності</stock>
+            <guarantee type="manufacturer">12</guarantee>
+            <param name="Країна виготовлення">Китай</param>
+            <param name="Оригінальність">Оригінал</param>
+            <payment type="cash-on-delivery" fee="2">true</payment>
+            <condition>0</condition>
+            <shipping>1</shipping>
+            <custom>1</custom>
+        </item>
+        <item>
+            <id>amp-1372-hotline-xml-92</id>
+            <categoryId>2</categoryId>
+            <vendor>Apple</vendor>
+            <code>VALID CODE1234</code> 
+            <name>92. Code has an embedded space within valid characters  </name>
+            <description>92. Code has an embedded space within valid characters  </description>
+            <image>https://www.google.com/images/errors/robot.png</image>
+            <priceRUAH>15400</priceRUAH>
+            <priceRUSD>546</priceRUSD>
+            <stock>В наявності</stock>
+            <guarantee type="manufacturer">12</guarantee>
+            <param name="Країна виготовлення">Китай</param>
+            <param name="Оригінальність">Оригінал</param>
+            <payment type="cash-on-delivery" fee="2">true</payment>
+            <condition>0</condition>
+            <shipping>1</shipping>
+            <custom>1</custom>
+        </item>
+        <item>
+            <id>amp-1372-hotline-xml-93</id>
+            <categoryId>2</categoryId>
+            <vendor>Apple</vendor>
+            <code>-GG-TEST-4567-</code>  
+            <name>93. Code starts with a forbidden vendor prefix  </name>
+            <description>93. Code starts with a forbidden vendor prefix </description>
+            <image>https://www.google.com/images/errors/robot.png</image>
+            <priceRUAH>15400</priceRUAH>
+            <priceRUSD>546</priceRUSD>
+            <stock>В наявності</stock>
+            <guarantee type="manufacturer">12</guarantee>
+            <param name="Країна виготовлення">Китай</param>
+            <param name="Оригінальність">Оригінал</param>
+            <payment type="cash-on-delivery" fee="2">true</payment>
+            <condition>0</condition>
+            <shipping>1</shipping>
+            <custom>1</custom>
+        </item>
+        <item>
+            <id>amp-1372-hotline-xml-94</id>
+            <categoryId>2</categoryId>
+            <vendor>Apple</vendor>
+            <code>@$%^&amp;*!~</code> 
+            <name>94. Code is a random special character string  </name>
+            <description>94. Code is a random special character string  </description>
+            <image>https://www.google.com/images/errors/robot.png</image>
+            <priceRUAH>15400</priceRUAH>
+            <priceRUSD>546</priceRUSD>
+            <stock>В наявності</stock>
+            <guarantee type="manufacturer">12</guarantee>
+            <param name="Країна виготовлення">Китай</param>
+            <param name="Оригінальність">Оригінал</param>
+            <payment type="cash-on-delivery" fee="2">true</payment>
+            <condition>0</condition>
+            <shipping>1</shipping>
+            <custom>1</custom>
+        </item>
+        <item>
+            <id>amp-1372-hotline-xml-95</id>
+            <categoryId>2</categoryId>
+            <vendor>Apple</vendor>
+            <code>TEST\u200B1234</code>  
+            <name>95. Code contains an invisible Unicode character  </name>
+            <description>95. Code contains an invisible Unicode character  </description>
+            <image>https://www.google.com/images/errors/robot.png</image>
+            <priceRUAH>15400</priceRUAH>
+            <priceRUSD>546</priceRUSD>
+            <stock>В наявності</stock>
+            <guarantee type="manufacturer">12</guarantee>
+            <param name="Країна виготовлення">Китай</param>
+            <param name="Оригінальність">Оригінал</param>
+            <payment type="cash-on-delivery" fee="2">true</payment>
+            <condition>0</condition>
+            <shipping>1</shipping>
+            <custom>1</custom>
+        </item>
+        <item>
+            <id>amp-1372-hotline-xml-96</id>
+            <categoryId>2</categoryId>
+            <vendor>Apple</vendor>
+            <code>TEST\u200B1234</code>  
+            <name>96. Code is made up of only numbers but exceeds 30 characters</name>
+            <description>96. Code is made up of only numbers but exceeds 30 characters</description>
+            <image>https://www.google.com/images/errors/robot.png</image>
+            <priceRUAH>15400</priceRUAH>
+            <priceRUSD>546</priceRUSD>
+            <stock>В наявності</stock>
+            <guarantee type="manufacturer">12</guarantee>
+            <param name="Країна виготовлення">Китай</param>
+            <param name="Оригінальність">Оригінал</param>
+            <payment type="cash-on-delivery" fee="2">true</payment>
+            <condition>0</condition>
+            <shipping>1</shipping>
+            <custom>1</custom>
+        </item>
+        <item>
+            <id>amp-1372-hotline-xml-97</id>
+            <categoryId>2</categoryId>
+            <vendor>Apple</vendor>
+            <code>VaLiD_CoDe!123</code>  
+            <name>97. Code includes a mix of uppercase, lowercase, and symbols </name>
+            <description>97. Code includes a mix of uppercase, lowercase, and symbols </description>
+            <image>https://www.google.com/images/errors/robot.png</image>
+            <priceRUAH>15400</priceRUAH>
+            <priceRUSD>546</priceRUSD>
+            <stock>В наявності</stock>
+            <guarantee type="manufacturer">12</guarantee>
+            <param name="Країна виготовлення">Китай</param>
+            <param name="Оригінальність">Оригінал</param>
+            <payment type="cash-on-delivery" fee="2">true</payment>
+            <condition>0</condition>
+            <shipping>1</shipping>
+            <custom>1</custom>
+        </item>
+        <item>
+            <id>amp-1372-hotline-xml-98</id>
+            <categoryId>2</categoryId>
+            <vendor>Apple</vendor>
+            <code>VALID,TEST,1234</code>   
+            <name>98. Code uses comma as a separator incorrectly  </name>
+            <description>98. Code uses comma as a separator incorrectly  </description>
+            <image>https://www.google.com/images/errors/robot.png</image>
+            <priceRUAH>15400</priceRUAH>
+            <priceRUSD>546</priceRUSD>
+            <stock>В наявності</stock>
+            <guarantee type="manufacturer">12</guarantee>
+            <param name="Країна виготовлення">Китай</param>
+            <param name="Оригінальність">Оригінал</param>
+            <payment type="cash-on-delivery" fee="2">true</payment>
+            <condition>0</condition>
+            <shipping>1</shipping>
+            <custom>1</custom>
+        </item>
+        <item>
+            <id>amp-1372-hotline-xml-99</id>
+            <categoryId>2</categoryId>
+            <vendor>Apple</vendor>
+            <code></code>    
+            <name>99. Code is completely empty (invalid)   </name>
+            <description>99. Code is completely empty (invalid)   </description>
+            <image>https://www.google.com/images/errors/robot.png</image>
+            <priceRUAH>15400</priceRUAH>
+            <priceRUSD>546</priceRUSD>
+            <stock>В наявності</stock>
+            <guarantee type="manufacturer">12</guarantee>
+            <param name="Країна виготовлення">Китай</param>
+            <param name="Оригінальність">Оригінал</param>
+            <payment type="cash-on-delivery" fee="2">true</payment>
+            <condition>0</condition>
+            <shipping>1</shipping>
+            <custom>1</custom>
+        </item>
+        <item>
+            <id>amp-1372-hotline-xml-100</id>
+            <categoryId>2</categoryId>
+            <vendor>Apple</vendor>
+            <code>DROP_TABLE_12345</code>   
+            <name>100. Code contains an SQL injection attempt (security issue)  </name>
+            <description>100. Code contains an SQL injection attempt (security issue) </description>
+            <image>https://www.google.com/images/errors/robot.png</image>
+            <priceRUAH>15400</priceRUAH>
+            <priceRUSD>546</priceRUSD>
+            <stock>В наявності</stock>
+            <guarantee type="manufacturer">12</guarantee>
+            <param name="Країна виготовлення">Китай</param>
+            <param name="Оригінальність">Оригінал</param>
+            <payment type="cash-on-delivery" fee="2">true</payment>
+            <condition>0</condition>
+            <shipping>1</shipping>
+            <custom>1</custom>
+        </item>
+        <item>
+            <id>amp-1372-hotline-xml-102</id>
+            <categoryId>2</categoryId>
+            <vendor>Apple</vendor>
+            <code>DROP_TABLE_12345</code>   
+            <name>100. Code contains an SQL injection attempt (security issue)  </name>
+            <description>100. Code contains an SQL injection attempt (security issue) </description>
+            <image>https://www.google.com/images/errors/robot.png</image>
+            <priceRUAH>15400</priceRUAH>
+            <priceRUSD>546</priceRUSD>
+            <stock>В наявності</stock>
+            <guarantee type="manufacturer">12</guarantee>
+            <param name="Країна виготовлення">Китай</param>
+            <param name="Оригінальність">Оригінал</param>
+            <payment type="cash-on-delivery" fee="2">true</payment>
+            <condition>0</condition>
+            <shipping>1</shipping>
+            <custom>1</custom>
+        </item>
+    </items>
+</price>
