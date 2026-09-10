@@ -1,0 +1,336 @@
+<yml_catalog date="2026-09-10 23:55">
+<shop>
+<name>AutoParts UA</name>
+<company>ТОВ "Автозапчастини Україна"</company>
+<url>https://auto.rozetka.com.ua/</url>
+<currencies>
+<currency id="UAH" rate="1"/>
+<currency id="USD" rate="CB"/>
+<currency id="EUR" rate="CB"/>
+</currencies>
+<categories>
+<category id="10002" parentId="10001">Автомагнітоли</category>
+</categories>
+<offers>
+
+<!-- Товар 1 -->
+<offer id="amp-3439-xml-feed-01" available="true">
+<url>https://auto.rozetka.com.ua/ua/393519264/p393519264/</url>
+<salePrice>29005</salePrice>
+<price>32050</price>
+<currencyId>UAH</currencyId>
+<categoryId>10002</categoryId>
+<picture>https://content2.rozetka.com.ua/goods/images/big/393519264.jpg</picture>
+<picture>https://content2.rozetka.com.ua/goods/images/big/393519264_1.jpg</picture>
+<picture>https://content2.rozetka.com.ua/goods/images/big/393519264_2.jpg</picture>
+<picture>https://content2.rozetka.com.ua/goods/images/big/393519264_3.jpg</picture>
+<picture>https://content2.rozetka.com.ua/goods/images/big/393519264_4.jpg</picture>
+<picture>https://content2.rozetka.com.ua/goods/images/big/393519264_5.jpg</picture>
+<picture>https://content2.rozetka.com.ua/goods/images/big/393519264_6.jpg</picture>
+<picture>https://content2.rozetka.com.ua/goods/images/big/393519264_7.jpg</picture>
+<picture>https://content2.rozetka.com.ua/goods/images/big/393519264_8.jpg</picture>
+<picture>https://content2.rozetka.com.ua/goods/images/big/393519264_9.jpg</picture>
+<picture>https://content2.rozetka.com.ua/goods/images/big/393519264_10.jpg</picture>
+<picture>https://content2.rozetka.com.ua/goods/images/big/393519264_11.jpg</picture>
+<pickup>true</pickup>
+<delivery>true</delivery>
+<name>Автомагнітола Pioneer DEH-P80MP</name>
+<name_ua>Автомагнітола Pioneer DEH-P80MP</name_ua>
+<vendor>Pioneer</vendor>
+<vendorCode>DEH-P80MP</vendorCode>
+<country_of_origin>Японія</country_of_origin>
+<description>Pioneer DEH-P80MP – classic car stereo with CD/MP3 playback, AM/FM tuner, AUX input, 4x60W max power, detachable panel, blue backlight, RDS text messages, 2 RCA audio outputs, remote control (CR2025 battery), 1 DIN size.</description>
+<description_ua>Автомагнітола Pioneer DEH-P80MP – це класична модель, що поєднує надійність, якість звуку та функціональність від провідного виробника аудіообладнання для автомобілів. Вона відкриває світ якісної музики прямо у вашому автомобілі. Уявіть собі комфортну поїздку, що супроводжується чудовими мелодіями – саме це надає Pioneer DEH-P80MP.
+
+Відтворюйте свої улюблені аудіо-CD та диски з MP3-файлами, щоб насолоджуватися музикою без кордонів. Завантажте диски з колекцією музики та створіть унікальні плейлисти для дороги. Вбудований AM/FM-радіотюнер дозволяє вам налаштовуватися на улюблені радіостанції та стежити за актуальними новинами та музичними хітами.
+
+З Pioneer DEH-P80MP ви можете підключити зовнішні пристрої через різні порти, включаючи AUX-вхід, що дозволяє підключати смартфони та інші аудіоджерела. Зробіть звук максимально приємним для вас завдяки вбудованим параметрам еквалайзера. Регулюйте баси, високі частоти та баланс, щоб досягти ідеального звучання. Яскравий дисплей відображає інформацію про поточний трек, радіостанцію та інші налаштування, забезпечуючи зручність керування.
+
+Автомагнітола Pioneer DEH-P80MP – це втілення звукового мистецтва у вашому автомобілі. Поєднання стильного дизайну, простоти використання та високоякісного звуку робить цю модель чудовим вибором для всіх, хто цінує музику у дорозі. Відродіть старі часи та додайте унікальний шарм вашому автомобілю з Pioneer DEH-P80MP.
+
+Характеристики Pioneer DEH-P80MP:
+• пульт дистанційного керування в комплекті;
+• знімна панель;
+• тип батарей пульта дистанційного керування 1 x CR2025;
+• цифровий тюнер FM/AM;
+• 2 виходи RCA аудіо;
+• відтворення CD/-R/-RW;
+• текстові повідомлення RDS;
+• максимальна вихідна потужність – 4 x 60 Вт;
+• розмір установочного місця – 1 DIN;
+• відкидна панель;
+• блакитне підсвічування кнопок;
+• номінальна вихідна потужність – 4 x 36 Вт.
+
+Бренд: Pioneer.
+Країна реєстрації бренду: Японія.</description_ua>
+<param name="Бренд">Pioneer</param>
+<param name="Тип">Автомагнітола</param>
+<param name="Формат">1 DIN</param>
+<param name="Потужність">4 x 60 Вт (макс)</param>
+<param name="Номінальна потужність">4 x 36 Вт</param>
+<param name="Тюнер">FM/AM з RDS</param>
+<param name="Відтворення">CD, CD-R, CD-RW, MP3</param>
+<param name="Виходи">2 x RCA</param>
+<param name="Додатково">AUX-вхід, знімна панель, пульт ДК</param>
+<param name="Підсвічування">Блакитне</param>
+<param name="Країна бренду">Японія</param>
+</offer>
+
+<!-- Товар 2 -->
+<offer id="amp-3439-xml-feed-02" available="true">
+<url>https://auto.rozetka.com.ua/ua/393519264/p393519264/</url>
+<salePrice>30065</salePrice>
+<price>32000</price>
+<currencyId>UAH</currencyId>
+<categoryId>10002</categoryId>
+<picture>https://content2.rozetka.com.ua/goods/images/big/393519264.jpg</picture>
+<picture>https://content2.rozetka.com.ua/goods/images/big/393519264_1.jpg</picture>
+<picture>https://content2.rozetka.com.ua/goods/images/big/393519264_2.jpg</picture>
+<picture>https://content2.rozetka.com.ua/goods/images/big/393519264_3.jpg</picture>
+<picture>https://content2.rozetka.com.ua/goods/images/big/393519264_4.jpg</picture>
+<picture>https://content2.rozetka.com.ua/goods/images/big/393519264_5.jpg</picture>
+<picture>https://content2.rozetka.com.ua/goods/images/big/393519264_6.jpg</picture>
+<picture>https://content2.rozetka.com.ua/goods/images/big/393519264_7.jpg</picture>
+<picture>https://content2.rozetka.com.ua/goods/images/big/393519264_8.jpg</picture>
+<picture>https://content2.rozetka.com.ua/goods/images/big/393519264_9.jpg</picture>
+<picture>https://content2.rozetka.com.ua/goods/images/big/393519264_10.jpg</picture>
+<picture>https://content2.rozetka.com.ua/goods/images/big/393519264_11.jpg</picture>
+<pickup>true</pickup>
+<delivery>true</delivery>
+<name>Автомагнітола Pioneer DEH-P80MP</name>
+<name_ua>Автомагнітола Pioneer DEH-P80MP</name_ua>
+<vendor>Pioneer</vendor>
+<vendorCode>DEH-P80MP</vendorCode>
+<country_of_origin>Японія</country_of_origin>
+<description>Pioneer DEH-P80MP – classic car stereo with CD/MP3 playback, AM/FM tuner, AUX input, 4x60W max power, detachable panel, blue backlight, RDS text messages, 2 RCA audio outputs, remote control (CR2025 battery), 1 DIN size.</description>
+<description_ua>Автомагнітола Pioneer DEH-P80MP – це класична модель, що поєднує надійність, якість звуку та функціональність від провідного виробника аудіообладнання для автомобілів. Вона відкриває світ якісної музики прямо у вашому автомобілі. Уявіть собі комфортну поїздку, що супроводжується чудовими мелодіями – саме це надає Pioneer DEH-P80MP.
+
+Відтворюйте свої улюблені аудіо-CD та диски з MP3-файлами, щоб насолоджуватися музикою без кордонів. Завантажте диски з колекцією музики та створіть унікальні плейлисти для дороги. Вбудований AM/FM-радіотюнер дозволяє вам налаштовуватися на улюблені радіостанції та стежити за актуальними новинами та музичними хітами.
+
+З Pioneer DEH-P80MP ви можете підключити зовнішні пристрої через різні порти, включаючи AUX-вхід, що дозволяє підключати смартфони та інші аудіоджерела. Зробіть звук максимально приємним для вас завдяки вбудованим параметрам еквалайзера. Регулюйте баси, високі частоти та баланс, щоб досягти ідеального звучання. Яскравий дисплей відображає інформацію про поточний трек, радіостанцію та інші налаштування, забезпечуючи зручність керування.
+
+Автомагнітола Pioneer DEH-P80MP – це втілення звукового мистецтва у вашому автомобілі. Поєднання стильного дизайну, простоти використання та високоякісного звуку робить цю модель чудовим вибором для всіх, хто цінує музику у дорозі. Відродіть старі часи та додайте унікальний шарм вашому автомобілю з Pioneer DEH-P80MP.
+
+Характеристики Pioneer DEH-P80MP:
+• пульт дистанційного керування в комплекті;
+• знімна панель;
+• тип батарей пульта дистанційного керування 1 x CR2025;
+• цифровий тюнер FM/AM;
+• 2 виходи RCA аудіо;
+• відтворення CD/-R/-RW;
+• текстові повідомлення RDS;
+• максимальна вихідна потужність – 4 x 60 Вт;
+• розмір установочного місця – 1 DIN;
+• відкидна панель;
+• блакитне підсвічування кнопок;
+• номінальна вихідна потужність – 4 x 36 Вт.
+
+Бренд: Pioneer.
+Країна реєстрації бренду: Японія.</description_ua>
+<param name="Бренд">Pioneer</param>
+<param name="Тип">Автомагнітола</param>
+<param name="Формат">1 DIN</param>
+<param name="Потужність">4 x 60 Вт (макс)</param>
+<param name="Номінальна потужність">4 x 36 Вт</param>
+<param name="Тюнер">FM/AM з RDS</param>
+<param name="Відтворення">CD, CD-R, CD-RW, MP3</param>
+<param name="Виходи">2 x RCA</param>
+<param name="Додатково">AUX-вхід, знімна панель, пульт ДК</param>
+<param name="Підсвічування">Блакитне</param>
+<param name="Країна бренду">Японія</param>
+</offer>
+
+<!-- Товар 3 -->
+<offer id="amp-3439-xml-feed-03" available="true">
+<url>https://auto.rozetka.com.ua/ua/393519264/p393519264/</url>
+<salePrice>31965</salePrice>
+<price>29550</price>
+<currencyId>UAH</currencyId>
+<categoryId>10002</categoryId>
+<picture>https://content2.rozetka.com.ua/goods/images/big/393519264.jpg</picture>
+<picture>https://content2.rozetka.com.ua/goods/images/big/393519264_1.jpg</picture>
+<picture>https://content2.rozetka.com.ua/goods/images/big/393519264_2.jpg</picture>
+<picture>https://content2.rozetka.com.ua/goods/images/big/393519264_3.jpg</picture>
+<picture>https://content2.rozetka.com.ua/goods/images/big/393519264_4.jpg</picture>
+<picture>https://content2.rozetka.com.ua/goods/images/big/393519264_5.jpg</picture>
+<picture>https://content2.rozetka.com.ua/goods/images/big/393519264_6.jpg</picture>
+<picture>https://content2.rozetka.com.ua/goods/images/big/393519264_7.jpg</picture>
+<picture>https://content2.rozetka.com.ua/goods/images/big/393519264_8.jpg</picture>
+<picture>https://content2.rozetka.com.ua/goods/images/big/393519264_9.jpg</picture>
+<picture>https://content2.rozetka.com.ua/goods/images/big/393519264_10.jpg</picture>
+<picture>https://content2.rozetka.com.ua/goods/images/big/393519264_11.jpg</picture>
+<pickup>true</pickup>
+<delivery>true</delivery>
+<name>Автомагнітола Pioneer DEH-P80MP</name>
+<name_ua>Автомагнітола Pioneer DEH-P80MP</name_ua>
+<vendor>Pioneer</vendor>
+<vendorCode>DEH-P80MP</vendorCode>
+<country_of_origin>Японія</country_of_origin>
+<description>Pioneer DEH-P80MP – classic car stereo with CD/MP3 playback, AM/FM tuner, AUX input, 4x60W max power, detachable panel, blue backlight, RDS text messages, 2 RCA audio outputs, remote control (CR2025 battery), 1 DIN size.</description>
+<description_ua>Автомагнітола Pioneer DEH-P80MP – це класична модель, що поєднує надійність, якість звуку та функціональність від провідного виробника аудіообладнання для автомобілів. Вона відкриває світ якісної музики прямо у вашому автомобілі. Уявіть собі комфортну поїздку, що супроводжується чудовими мелодіями – саме це надає Pioneer DEH-P80MP.
+
+Відтворюйте свої улюблені аудіо-CD та диски з MP3-файлами, щоб насолоджуватися музикою без кордонів. Завантажте диски з колекцією музики та створіть унікальні плейлисти для дороги. Вбудований AM/FM-радіотюнер дозволяє вам налаштовуватися на улюблені радіостанції та стежити за актуальними новинами та музичними хітами.
+
+З Pioneer DEH-P80MP ви можете підключити зовнішні пристрої через різні порти, включаючи AUX-вхід, що дозволяє підключати смартфони та інші аудіоджерела. Зробіть звук максимально приємним для вас завдяки вбудованим параметрам еквалайзера. Регулюйте баси, високі частоти та баланс, щоб досягти ідеального звучання. Яскравий дисплей відображає інформацію про поточний трек, радіостанцію та інші налаштування, забезпечуючи зручність керування.
+
+Автомагнітола Pioneer DEH-P80MP – це втілення звукового мистецтва у вашому автомобілі. Поєднання стильного дизайну, простоти використання та високоякісного звуку робить цю модель чудовим вибором для всіх, хто цінує музику у дорозі. Відродіть старі часи та додайте унікальний шарм вашому автомобілю з Pioneer DEH-P80MP.
+
+Характеристики Pioneer DEH-P80MP:
+• пульт дистанційного керування в комплекті;
+• знімна панель;
+• тип батарей пульта дистанційного керування 1 x CR2025;
+• цифровий тюнер FM/AM;
+• 2 виходи RCA аудіо;
+• відтворення CD/-R/-RW;
+• текстові повідомлення RDS;
+• максимальна вихідна потужність – 4 x 60 Вт;
+• розмір установочного місця – 1 DIN;
+• відкидна панель;
+• блакитне підсвічування кнопок;
+• номінальна вихідна потужність – 4 x 36 Вт.
+
+Бренд: Pioneer.
+Країна реєстрації бренду: Японія.</description_ua>
+<param name="Бренд">Pioneer</param>
+<param name="Тип">Автомагнітола</param>
+<param name="Формат">1 DIN</param>
+<param name="Потужність">4 x 60 Вт (макс)</param>
+<param name="Номінальна потужність">4 x 36 Вт</param>
+<param name="Тюнер">FM/AM з RDS</param>
+<param name="Відтворення">CD, CD-R, CD-RW, MP3</param>
+<param name="Виходи">2 x RCA</param>
+<param name="Додатково">AUX-вхід, знімна панель, пульт ДК</param>
+<param name="Підсвічування">Блакитне</param>
+<param name="Країна бренду">Японія</param>
+</offer>
+
+<!-- Товар 4 -->
+<offer id="amp-3439-xml-feed-04" available="true">
+<url>https://auto.rozetka.com.ua/ua/393519264/p393519264/</url>
+<price>29999</price>
+<currencyId>UAH</currencyId>
+<categoryId>10002</categoryId>
+<picture>https://content2.rozetka.com.ua/goods/images/big/393519264.jpg</picture>
+<picture>https://content2.rozetka.com.ua/goods/images/big/393519264_1.jpg</picture>
+<picture>https://content2.rozetka.com.ua/goods/images/big/393519264_2.jpg</picture>
+<picture>https://content2.rozetka.com.ua/goods/images/big/393519264_3.jpg</picture>
+<picture>https://content2.rozetka.com.ua/goods/images/big/393519264_4.jpg</picture>
+<picture>https://content2.rozetka.com.ua/goods/images/big/393519264_5.jpg</picture>
+<picture>https://content2.rozetka.com.ua/goods/images/big/393519264_6.jpg</picture>
+<picture>https://content2.rozetka.com.ua/goods/images/big/393519264_7.jpg</picture>
+<picture>https://content2.rozetka.com.ua/goods/images/big/393519264_8.jpg</picture>
+<picture>https://content2.rozetka.com.ua/goods/images/big/393519264_9.jpg</picture>
+<picture>https://content2.rozetka.com.ua/goods/images/big/393519264_10.jpg</picture>
+<picture>https://content2.rozetka.com.ua/goods/images/big/393519264_11.jpg</picture>
+<pickup>true</pickup>
+<delivery>true</delivery>
+<name>Автомагнітола Pioneer DEH-P80MP</name>
+<name_ua>Автомагнітола Pioneer DEH-P80MP</name_ua>
+<vendor>Pioneer</vendor>
+<vendorCode>DEH-P80MP</vendorCode>
+<country_of_origin>Японія</country_of_origin>
+<description>Pioneer DEH-P80MP – classic car stereo with CD/MP3 playback, AM/FM tuner, AUX input, 4x60W max power, detachable panel, blue backlight, RDS text messages, 2 RCA audio outputs, remote control (CR2025 battery), 1 DIN size.</description>
+<description_ua>Автомагнітола Pioneer DEH-P80MP – це класична модель, що поєднує надійність, якість звуку та функціональність від провідного виробника аудіообладнання для автомобілів. Вона відкриває світ якісної музики прямо у вашому автомобілі. Уявіть собі комфортну поїздку, що супроводжується чудовими мелодіями – саме це надає Pioneer DEH-P80MP.
+
+Відтворюйте свої улюблені аудіо-CD та диски з MP3-файлами, щоб насолоджуватися музикою без кордонів. Завантажте диски з колекцією музики та створіть унікальні плейлисти для дороги. Вбудований AM/FM-радіотюнер дозволяє вам налаштовуватися на улюблені радіостанції та стежити за актуальними новинами та музичними хітами.
+
+З Pioneer DEH-P80MP ви можете підключити зовнішні пристрої через різні порти, включаючи AUX-вхід, що дозволяє підключати смартфони та інші аудіоджерела. Зробіть звук максимально приємним для вас завдяки вбудованим параметрам еквалайзера. Регулюйте баси, високі частоти та баланс, щоб досягти ідеального звучання. Яскравий дисплей відображає інформацію про поточний трек, радіостанцію та інші налаштування, забезпечуючи зручність керування.
+
+Автомагнітола Pioneer DEH-P80MP – це втілення звукового мистецтва у вашому автомобілі. Поєднання стильного дизайну, простоти використання та високоякісного звуку робить цю модель чудовим вибором для всіх, хто цінує музику у дорозі. Відродіть старі часи та додайте унікальний шарм вашому автомобілю з Pioneer DEH-P80MP.
+
+Характеристики Pioneer DEH-P80MP:
+• пульт дистанційного керування в комплекті;
+• знімна панель;
+• тип батарей пульта дистанційного керування 1 x CR2025;
+• цифровий тюнер FM/AM;
+• 2 виходи RCA аудіо;
+• відтворення CD/-R/-RW;
+• текстові повідомлення RDS;
+• максимальна вихідна потужність – 4 x 60 Вт;
+• розмір установочного місця – 1 DIN;
+• відкидна панель;
+• блакитне підсвічування кнопок;
+• номінальна вихідна потужність – 4 x 36 Вт.
+
+Бренд: Pioneer.
+Країна реєстрації бренду: Японія.</description_ua>
+<param name="Бренд">Pioneer</param>
+<param name="Тип">Автомагнітола</param>
+<param name="Формат">1 DIN</param>
+<param name="Потужність">4 x 60 Вт (макс)</param>
+<param name="Номінальна потужність">4 x 36 Вт</param>
+<param name="Тюнер">FM/AM з RDS</param>
+<param name="Відтворення">CD, CD-R, CD-RW, MP3</param>
+<param name="Виходи">2 x RCA</param>
+<param name="Додатково">AUX-вхід, знімна панель, пульт ДК</param>
+<param name="Підсвічування">Блакитне</param>
+<param name="Країна бренду">Японія</param>
+</offer>
+
+<!-- Товар 5 -->
+<offer id="amp-3439-xml-feed-05" available="true">
+<url>https://auto.rozetka.com.ua/ua/393519264/p393519264/</url>
+<price>30000</price>
+<currencyId>UAH</currencyId>
+<categoryId>10002</categoryId>
+<picture>https://content2.rozetka.com.ua/goods/images/big/393519264.jpg</picture>
+<picture>https://content2.rozetka.com.ua/goods/images/big/393519264_1.jpg</picture>
+<picture>https://content2.rozetka.com.ua/goods/images/big/393519264_2.jpg</picture>
+<picture>https://content2.rozetka.com.ua/goods/images/big/393519264_3.jpg</picture>
+<picture>https://content2.rozetka.com.ua/goods/images/big/393519264_4.jpg</picture>
+<picture>https://content2.rozetka.com.ua/goods/images/big/393519264_5.jpg</picture>
+<picture>https://content2.rozetka.com.ua/goods/images/big/393519264_6.jpg</picture>
+<picture>https://content2.rozetka.com.ua/goods/images/big/393519264_7.jpg</picture>
+<picture>https://content2.rozetka.com.ua/goods/images/big/393519264_8.jpg</picture>
+<picture>https://content2.rozetka.com.ua/goods/images/big/393519264_9.jpg</picture>
+<picture>https://content2.rozetka.com.ua/goods/images/big/393519264_10.jpg</picture>
+<picture>https://content2.rozetka.com.ua/goods/images/big/393519264_11.jpg</picture>
+<pickup>true</pickup>
+<delivery>true</delivery>
+<name>Автомагнітола Pioneer DEH-P80MP</name>
+<name_ua>Автомагнітола Pioneer DEH-P80MP</name_ua>
+<vendor>Pioneer</vendor>
+<vendorCode>DEH-P80MP</vendorCode>
+<country_of_origin>Японія</country_of_origin>
+<description>Pioneer DEH-P80MP – classic car stereo with CD/MP3 playback, AM/FM tuner, AUX input, 4x60W max power, detachable panel, blue backlight, RDS text messages, 2 RCA audio outputs, remote control (CR2025 battery), 1 DIN size.</description>
+<description_ua>Автомагнітола Pioneer DEH-P80MP – це класична модель, що поєднує надійність, якість звуку та функціональність від провідного виробника аудіообладнання для автомобілів. Вона відкриває світ якісної музики прямо у вашому автомобілі. Уявіть собі комфортну поїздку, що супроводжується чудовими мелодіями – саме це надає Pioneer DEH-P80MP.
+
+Відтворюйте свої улюблені аудіо-CD та диски з MP3-файлами, щоб насолоджуватися музикою без кордонів. Завантажте диски з колекцією музики та створіть унікальні плейлисти для дороги. Вбудований AM/FM-радіотюнер дозволяє вам налаштовуватися на улюблені радіостанції та стежити за актуальними новинами та музичними хітами.
+
+З Pioneer DEH-P80MP ви можете підключити зовнішні пристрої через різні порти, включаючи AUX-вхід, що дозволяє підключати смартфони та інші аудіоджерела. Зробіть звук максимально приємним для вас завдяки вбудованим параметрам еквалайзера. Регулюйте баси, високі частоти та баланс, щоб досягти ідеального звучання. Яскравий дисплей відображає інформацію про поточний трек, радіостанцію та інші налаштування, забезпечуючи зручність керування.
+
+Автомагнітола Pioneer DEH-P80MP – це втілення звукового мистецтва у вашому автомобілі. Поєднання стильного дизайну, простоти використання та високоякісного звуку робить цю модель чудовим вибором для всіх, хто цінує музику у дорозі. Відродіть старі часи та додайте унікальний шарм вашому автомобілю з Pioneer DEH-P80MP.
+
+Характеристики Pioneer DEH-P80MP:
+• пульт дистанційного керування в комплекті;
+• знімна панель;
+• тип батарей пульта дистанційного керування 1 x CR2025;
+• цифровий тюнер FM/AM;
+• 2 виходи RCA аудіо;
+• відтворення CD/-R/-RW;
+• текстові повідомлення RDS;
+• максимальна вихідна потужність – 4 x 60 Вт;
+• розмір установочного місця – 1 DIN;
+• відкидна панель;
+• блакитне підсвічування кнопок;
+• номінальна вихідна потужність – 4 x 36 Вт.
+
+Бренд: Pioneer.
+Країна реєстрації бренду: Японія.</description_ua>
+<param name="Бренд">Pioneer</param>
+<param name="Тип">Автомагнітола</param>
+<param name="Формат">1 DIN</param>
+<param name="Потужність">4 x 60 Вт (макс)</param>
+<param name="Номінальна потужність">4 x 36 Вт</param>
+<param name="Тюнер">FM/AM з RDS</param>
+<param name="Відтворення">CD, CD-R, CD-RW, MP3</param>
+<param name="Виходи">2 x RCA</param>
+<param name="Додатково">AUX-вхід, знімна панель, пульт ДК</param>
+<param name="Підсвічування">Блакитне</param>
+<param name="Країна бренду">Японія</param>
+</offer>
+
+</offers>
+</shop>
+</yml_catalog>
