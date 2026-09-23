@@ -16,8 +16,8 @@
 <!-- Товар 1 -->
 <offer id="amp-3439-xml-feed-01" available="true">
 <url>https://auto.rozetka.com.ua/ua/393519264/p393519264/</url>
-<salePrice>1890</salePrice>
-<price>1920</price>
+<salePrice>1110</salePrice>
+<price>1111</price>
 <currencyId>UAH</currencyId>
 <categoryId>10002</categoryId>
 <picture>https://content1.rozetka.com.ua/goods/images/big/529518784.jpg</picture>
@@ -72,8 +72,8 @@
 <!-- Товар 2 -->
 <offer id="amp-3439-xml-feed-02" available="true">
 <url>https://auto.rozetka.com.ua/ua/393519264/p393519264/</url>
-<salePrice>90000</salePrice>
-<price>95000</price>
+<salePrice>900</salePrice>
+<price>950</price>
 <currencyId>USD</currencyId>
 <categoryId>10002</categoryId>
 <picture>https://content1.rozetka.com.ua/goods/images/big/529518784.jpg</picture>
@@ -128,8 +128,8 @@
 <!-- Товар 3 -->
 <offer id="amp-3439-xml-feed-03" available="true">
 <url>https://auto.rozetka.com.ua/ua/393519264/p393519264/</url>
-<salePrice>80000</salePrice>
-<price>85000</price>
+<salePrice>800</salePrice>
+<price>850</price>
 <currencyId>EUR</currencyId>
 <categoryId>10002</categoryId>
 <picture>https://content1.rozetka.com.ua/goods/images/big/529518784.jpg</picture>
@@ -184,7 +184,7 @@
 <!-- Товар 4 -->
 <offer id="amp-3439-xml-feed-04" available="true">
 <url>https://auto.rozetka.com.ua/ua/393519264/p393519264/</url>
-<price>50.6</price>
+<price>20.6</price>
 <currencyId>EUR</currencyId>
 <categoryId>10002</categoryId>
 <picture>https://content1.rozetka.com.ua/goods/images/big/529518784.jpg</picture>
@@ -239,7 +239,7 @@
 <!-- Товар 5 -->
 <offer id="amp-3439-xml-feed-05" available="true">
 <url>https://auto.rozetka.com.ua/ua/393519264/p393519264/</url>
-<price>49.4</price>
+<price>20.4</price>
 <currencyId>USD</currencyId>
 <categoryId>1000</categoryId>
 <picture>https://content1.rozetka.com.ua/goods/images/big/529518784.jpg</picture>
@@ -294,7 +294,7 @@
   <!-- Товар 6 -->
 <offer id="amp-3439-xml-feed-06" available="true">
 <url>https://auto.rozetka.com.ua/ua/393519264/p393519264/</url>
-<price>55</price>
+<price>35</price>
 <currencyId>USD</currencyId>
 <categoryId>1000</categoryId>
 <picture>https://content1.rozetka.com.ua/goods/images/big/529518784.jpg</picture>
@@ -349,7 +349,7 @@
 <!-- Товар 7 -->
 <offer id="amp-3439-xml-feed-07" available="true">
 <url>https://auto.rozetka.com.ua/ua/393519264/p393519264/</url>
-<price>39</price>
+<price>24</price>
 <currencyId>EUR</currencyId>
 <categoryId>10002</categoryId>
 <picture>https://content1.rozetka.com.ua/goods/images/big/529518784.jpg</picture>
@@ -404,7 +404,7 @@
   <!-- Товар 8 -->
 <offer id="amp-3439-xml-feed-08" available="true">
 <url>https://auto.rozetka.com.ua/ua/393519264/p393519264/</url>
-<price>1400</price>
+<price>1210</price>
 <currencyId>UAH</currencyId>
 <categoryId>1000</categoryId>
 <picture>https://content1.rozetka.com.ua/goods/images/big/529518784.jpg</picture>
@@ -459,7 +459,7 @@
   <!-- Товар 8 -->
 <offer id="amp-3439-xml-feed-08" available="true">
 <url>https://auto.rozetka.com.ua/ua/393519264/p393519264/</url>
-<price>1900</price>
+<price>1001</price>
 <currencyId>UAH</currencyId>
 <categoryId>10002</categoryId>
 <picture>https://content1.rozetka.com.ua/goods/images/big/529518784.jpg</picture>
@@ -514,7 +514,7 @@
   <!-- Товар 9 -->
 <offer id="amp-3439-xml-feed-09" available="true">
 <url>https://auto.rozetka.com.ua/ua/393519264/p393519264/</url>
-<price>0</price>
+<price>1000</price>
 <currencyId>UAH</currencyId>
 <categoryId>10002</categoryId>
 <picture>https://content1.rozetka.com.ua/goods/images/big/529518784.jpg</picture>
@@ -569,7 +569,7 @@
   <!-- Товар 10 -->
 <offer id="amp-3439-xml-feed-10" available="true">
 <url>https://auto.rozetka.com.ua/ua/393519264/p393519264/</url>
-<price>2</price>
+<price>1000</price>
 <currencyId>UAH</currencyId>
 <categoryId>10002</categoryId>
 <picture>https://content1.rozetka.com.ua/goods/images/big/529518784.jpg</picture>
