@@ -1,0 +1,38 @@
+<yml_catalog date="2026-09-10 23:55">
+<shop>
+<name>AutoParts UA</name>
+<company>ТОВ "Автозапчастини Україна"</company>
+<url>https://auto.rozetka.com.ua/</url>
+<currencies>
+<currency id="UAH" rate="1"/>
+<currency id="USD" rate="CB"/>
+<currency id="EUR" rate="CB"/>
+</currencies>
+<categories>
+<category id="1" parentId="187">Портативні батареї (Power Bank)</category>
+</categories>
+<offers>
+
+<!-- Товар 1 -->
+<offer id="amp-3465-productId-22630066" available="true">
+<url>https://brain.com.ua/ukr/Batareya_LiFePo4_Must_256V_-_100Ah_LP15-24100-p1167683.html</url>
+<salePrice>12210</salePrice>
+<price>62477</price>
+<currencyId>UAH</currencyId>
+<categoryId>1</categoryId>
+<picture>https://kievopt.com.ua/images/items/Must/LP1524100_1.jpg</picture>
+<picture>https://kievopt.com.ua/images/items/Must/LP1524100_2.jpg</picture>
+<pickup>true</pickup>
+<delivery>true</delivery>
+<name>Батарея LiFePo4 Must 25.6V-100Ah (LP15-24100) (842023-01)</name>
+<name_ua>Батарея LiFePo4 Must 25.6V - 100Ah (LP15-24100) (842023-01)</name_ua>
+<vendor>Must</vendor>
+<vendorCode>842023-01</vendorCode>
+<country_of_origin>Японія</country_of_origin>
+<description_ua>Термін відправки 6 днів<br />Батарея LiFePo4 Must 25.6V - 100Ah (LP15-24100)<br />Купити Батарея LiFePo4 Must 25.6V - 100Ah (LP15-24100) (842023-01) ви можете, оформивши замовлення у нас на сайті, а також за телефоном гарячої лінії.</description_ua>
+<description>Срок отправки 6 дней<br />Батарея LiFePo4 Must 25.6V - 100Ah (LP15-24100)<br />Купить Батарея LiFePo4 Must 25.6V-100Ah (LP15-24100) (842023-01) вы можете, оформив заказ у нас на сайте, а также по телефону горячей линии.</description>
+</offer>
+
+</offers>
+</shop>
+</yml_catalog>
