@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<yml_catalog>
+<shop>
+<currencies>
+<currency id="USD" rate="CB"/>
+<currency id="UAH" rate="1"/>
+<currency id="BYN" rate="CB"/>
+<currency id="KZT" rate="CB"/>
+<currency id="EUR" rate="CB"/>
+</currencies>
+<categories>
+<category id="6900">Злиті купальники</category>
+</categories>
+<offers>
+<offer id="amp-3483-product-anomaly-2" available="true">
+        <price>600</price>
+        <salePrice>599</salePrice>
+        <currencyId>UAH</currencyId>
+        <categoryId>6900</categoryId>
+        <picture>https://image.hubber.pro/1f3ad381b2b8107f5d846f71447de9df.jpg</picture>
+        <name>Купальник женский SP-Sport PL-2528 46 Черно-розовый</name>
+        <name_ua>Жіночий купальник SP-Sport PL-2528 46 Чорно-рожевий</name_ua>
+        <vendor>SP-Sport</vendor>
+        <vendorCode>6835b6bfe1174b1d0d74ecd4</vendorCode>
+        <description>Купальник женский SP-Sport PL-2528 46 Черно-розовый</description>
+        <description_ua>Жіночий купальник SP-Sport PL-2528 46 Чорно-рожевий</description_ua>
+        <param name="Чашка">М'яка</param>
+        <param name="Розмір">46-48</param>
+        <param name="Гарантія">12 місяців</param>
+      </offer>
+</offers>
+</shop>
+</yml_catalog>
